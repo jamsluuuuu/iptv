@@ -8,6 +8,7 @@
 # 2026-11-13 复核：CCTV-2、湖北卫视、广东珠江三台在 08:01 抽帧时仍为卖药广告（400-066-2600 唐三绝 / 400-788-3916 明慕金丹），CCTV-2、湖北卫视换两时点核验真源，广东珠江无可用源删除；155 台 → 154 台
 # 2026-11-13 20:26 修订：新建河北分组（16 台新加＋石家庄新闻综合自地方组移入；河北经济自地方组删、改名河北经济生活入河北组），港澳＋4（凤凰中文/凤凰资讯/凤凰资讯台/TVB娱乐新闻台），地方＋2（南国都市4K/亚洲武侠），海外＋5（韩国EBS少儿/Pet Club TV/RT Arabic/WionNews）。来源单河北分组 5 个台名按实测台标修正：河北公共→三家购物、河北少儿→河北三农、河北影视→河北少儿科教、河北都市→河北文旅体育、滦平新闻→滦平综合、邯郸新闻→邯郸新闻综合。未加：河北4K（风光纪录片、非卫视正常直播）、河北农民蜻蜓音频流、衡水公共蜻蜓音频流、河北三农官网（境外不通）、凤凰香港/凤凰香港台（fhhk 源冻结在分片 668032 超 20 分钟、时间戳 1970 年，非直播）。142 台 → 168 台
 # 2026-11-13 20:40 修订：亚洲武侠→港澳组，南国都市4K→卫视组，删 RT Arabic；台湾 59 台按名字拼音排序（未删台）。168 台 → 167 台
+# 2026-11-14 01:05 修订：动物星球换源——旧源 61.221.215.25:8800/hls/57 循环冻结（00:52 两时点分片与画面完全相同）；台湾版无可用源（标准源池、GitHub 代码搜索、freetv、token 源均未通过核验），用户同意用其他版本；新源为美国版（iptv-org 纪录片列表），两时点抽帧核验通过（1920x1080，约 9Mbps，两帧画面不同且均含 Animal Planet 台标），改名“动物星球（美国）”移入海外组，无 EPG。167 台不变
 #EXTINF:-1 tvg-name="CCTV-1 综合" group-title="CCTV" tvg-id="545932",CCTV-1 综合
 http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV-2 财经" group-title="CCTV" tvg-id="545933",CCTV-2 财经
@@ -233,8 +234,6 @@ http://125.227.210.55:4051/VideoInput/play.ts
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 #EXTINF:-1 tvg-name="东森幼幼" group-title="台湾" tvg-id="456525",东森幼幼
 http://125.227.210.55:4052/VideoInput/play.ts
-#EXTINF:-1 tvg-name="动物星球" group-title="台湾" tvg-id="456521",动物星球
-http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 tvg-name="非凡新闻" group-title="台湾" tvg-id="456560",非凡新闻
 http://125.227.210.55:1086/VideoInput/play.ts
 #EXTINF:-1 tvg-name="公视" group-title="台湾" tvg-id="457215",公视
@@ -349,3 +348,5 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-sam
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 tvg-name="WionNews" group-title="海外" tvg-id="501126",WionNews
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-name="动物星球（美国）" group-title="海外",动物星球（美国）
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
