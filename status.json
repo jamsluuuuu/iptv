@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-13 23:59:50",
+  "generated_at": "2026-11-14 02:24:56",
   "total": 167,
   "counts": {
-    "ok": 119,
+    "ok": 123,
     "replaced": 0,
     "dead": 0,
-    "unverified": 48
+    "unverified": 44
   },
   "last_check": "2026-11-13 23:59:50",
-  "last_search": null,
+  "last_search": "2026-11-14 01:45:24",
   "channels": [
     {
       "name": "CCTV-1 综合",
       "group": "CCTV",
-      "status": "unverified",
-      "resolution": null,
-      "open_ms": 2127,
-      "note": "segment-http-error-page",
+      "status": "ok",
+      "resolution": "1920x1080",
+      "open_ms": 550,
+      "note": "2026-11-14 手动替换：旧源卖药台，用户反馈；新源两时点核验通过",
       "bad_days": 0
     },
     {
@@ -51,17 +51,17 @@
       "group": "CCTV",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 1677,
-      "note": "",
+      "open_ms": 781,
+      "note": "2026-11-14 搜源替换：更快 1677ms -> 781ms；抽帧确认确为 CCTV-5",
       "bad_days": 0
     },
     {
       "name": "CCTV-5+ 体育赛事",
       "group": "CCTV",
-      "status": "unverified",
-      "resolution": null,
-      "open_ms": 2629,
-      "note": "segment-http-error-page",
+      "status": "ok",
+      "resolution": "1920x1080",
+      "open_ms": 942,
+      "note": "2026-11-14 手动纠正：搜源错配后换 wwb521 源，两时点核验通过",
       "bad_days": 0
     },
     {
@@ -157,10 +157,10 @@
     {
       "name": "CCTV-16 奥林匹克",
       "group": "CCTV",
-      "status": "unverified",
-      "resolution": null,
-      "open_ms": 6409,
-      "note": "ffprobe-unparseable",
+      "status": "ok",
+      "resolution": "1920x1080",
+      "open_ms": 3430,
+      "note": "2026-11-14 搜源替换：更快 6409ms -> 1193ms；旧源为纯音频流",
       "bad_days": 0
     },
     {
@@ -393,8 +393,8 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 1964,
-      "note": "",
+      "open_ms": 951,
+      "note": "2026-11-14 搜源替换：更快 1964ms -> 647ms",
       "bad_days": 0
     },
     {
@@ -454,10 +454,10 @@
     {
       "name": "深圳卫视",
       "group": "卫视",
-      "status": "unverified",
-      "resolution": null,
-      "open_ms": 1227,
-      "note": "segment-http-error-page",
+      "status": "ok",
+      "resolution": "1920x1080",
+      "open_ms": 1068,
+      "note": "2026-11-14 搜源替换：更快 1227ms -> 844ms；旧源在卖药中继 107.150.60.122 上",
       "bad_days": 0
     },
     {
@@ -1001,15 +1001,6 @@
       "bad_days": 0
     },
     {
-      "name": "动物星球",
-      "group": "台湾",
-      "status": "ok",
-      "resolution": "1280x720",
-      "open_ms": 944,
-      "note": "",
-      "bad_days": 0
-    },
-    {
       "name": "非凡新闻",
       "group": "台湾",
       "status": "ok",
@@ -1512,9 +1503,179 @@
       "open_ms": 1734,
       "note": "",
       "bad_days": 0
+    },
+    {
+      "name": "动物星球（美国）",
+      "group": "海外",
+      "status": "ok",
+      "resolution": "1920x1080",
+      "open_ms": 343,
+      "note": "2026-11-14 手动替换：旧源循环冻结；台湾版无可用源，用户同意美国版",
+      "bad_days": 0
     }
   ],
-  "replacements": [],
+  "replacements": [
+    {
+      "name": "动物星球（美国）",
+      "old_url": "http://61.221.215.25:8800/hls/57/index.m3u8",
+      "new_url": "http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8",
+      "at": "2026-11-14 01:00",
+      "reason": "manual: 旧源循环冻结；台湾版无可用源，用户同意美国版",
+      "source": "iptv-org documentary.m3u",
+      "resolution": "1920x1080",
+      "open_ms": 343
+    },
+    {
+      "name": "CCTV-1 综合",
+      "old_url": "http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009",
+      "new_url": "http://113.90.154.189:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "at": "2026-11-14 01:09",
+      "reason": "manual: 旧源卖药台（用户反馈）；新源与 CCTV-2/4/17 同一中继",
+      "source": "same-relay-as-CCTV-2",
+      "resolution": "1920x1080",
+      "open_ms": 550
+    },
+    {
+      "name": "CCTV-5 体育",
+      "new_url": "http://gmxw.7766.org:808/hls/93/index.m3u8",
+      "at": "2026-11-14 01:43",
+      "reason": "2026-11-14 搜源替换：更快 1677ms -> 781ms；抽帧确认确为 CCTV-5",
+      "resolution": "1920x1080",
+      "open_ms": 781
+    },
+    {
+      "name": "CCTV-5+ 体育赛事",
+      "new_url": "http://120.76.248.139/live/bfgd/4200000246.m3u8",
+      "at": "2026-11-14 01:43",
+      "reason": "2026-11-14 手动纠正：搜源错配后换 wwb521 源，两时点核验通过",
+      "resolution": "1920x1080",
+      "open_ms": 942
+    },
+    {
+      "name": "CCTV-16 奥林匹克",
+      "new_url": "http://gmxw.7766.org:808/hls/169/index.m3u8",
+      "at": "2026-11-14 01:43",
+      "reason": "2026-11-14 搜源替换：更快 6409ms -> 1193ms；旧源为纯音频流",
+      "resolution": "1920x1080",
+      "open_ms": 3430
+    },
+    {
+      "name": "江西卫视",
+      "new_url": "http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "at": "2026-11-14 01:43",
+      "reason": "2026-11-14 搜源替换：更快 1964ms -> 647ms",
+      "resolution": "1920x1080",
+      "open_ms": 951
+    },
+    {
+      "name": "深圳卫视",
+      "new_url": "http://gmxw.7766.org:808/hls/45/index.m3u8",
+      "at": "2026-11-14 01:43",
+      "reason": "2026-11-14 搜源替换：更快 1227ms -> 844ms；旧源在卖药中继 107.150.60.122 上",
+      "resolution": "1920x1080",
+      "open_ms": 1068
+    },
+    {
+      "name": "西藏卫视",
+      "old_url": "http://107.150.60.122/live/xzws.m3u8",
+      "new_url": "http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "at": "2026-11-14 01:45:24",
+      "reason": "search-new: 更快 1719ms -> 814ms",
+      "source": "zilong7728",
+      "resolution": "720x576",
+      "open_ms": 814
+    },
+    {
+      "name": "广州综合",
+      "old_url": "https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488",
+      "new_url": "http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8",
+      "at": "2026-11-14 01:45:24",
+      "reason": "search-new: 更快 2613ms -> 904ms",
+      "source": "zilong7728",
+      "resolution": "1280x720",
+      "open_ms": 904
+    },
+    {
+      "name": "翡翠台",
+      "old_url": "http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3",
+      "new_url": "http://r.jdshipin.com/GeWKr",
+      "at": "2026-11-14 01:45:24",
+      "reason": "search-new: 更快 4938ms -> 1288ms",
+      "source": "zilong7728",
+      "resolution": "1920x1080",
+      "open_ms": 1288
+    },
+    {
+      "name": "TVB 星河",
+      "old_url": "https://cdn.qd.je/163189/xinghe",
+      "new_url": "http://r.jdshipin.com/Voac4",
+      "at": "2026-11-14 01:45:24",
+      "reason": "search-new: 更快 2798ms -> 905ms",
+      "source": "zilong7728",
+      "resolution": "1920x1080",
+      "open_ms": 905
+    },
+    {
+      "name": "明珠",
+      "old_url": "http://php.jdshipin.com/TVOD/iptv.php?id=mzt2",
+      "new_url": "http://r.jdshipin.com/ZQ4kN",
+      "at": "2026-11-14 01:45:24",
+      "reason": "search-new: 更快 6966ms -> 1497ms",
+      "source": "zilong7728",
+      "resolution": "1920x1080",
+      "open_ms": 1497
+    },
+    {
+      "name": "凤凰资讯",
+      "old_url": "http://r.jdshipin.com/0Rp07",
+      "new_url": "http://php.jdshipin.com/TVOD/iptv.php?id=fhzx",
+      "at": "2026-11-14 01:45:24",
+      "reason": "search-new: 更快 4509ms -> 2192ms",
+      "source": "zilong7728",
+      "resolution": "1920x1080",
+      "open_ms": 2192
+    },
+    {
+      "name": "凤凰资讯台",
+      "old_url": "http://php.jdshipin.com/TVOD/iptv.php?id=fhzx",
+      "new_url": "http://r.jdshipin.com/0Rp07",
+      "at": "2026-11-14 01:45:24",
+      "reason": "search-new: 更快 7931ms -> 1796ms",
+      "source": "zilong7728",
+      "resolution": "1920x1080",
+      "open_ms": 1796
+    },
+    {
+      "name": "台视",
+      "old_url": "http://211.72.174.95:8112/0.ts",
+      "new_url": "http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8",
+      "at": "2026-11-14 01:45:24",
+      "reason": "search-new: 更清 1280x720 -> 1920x1080",
+      "source": "zilong7728",
+      "resolution": "1920x1080",
+      "open_ms": 309
+    },
+    {
+      "name": "TVBS",
+      "old_url": "http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8",
+      "new_url": "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8",
+      "at": "2026-11-14 01:45:24",
+      "reason": "search-new: 更快 868ms -> 181ms",
+      "source": "iptv-org-tw",
+      "resolution": "1920x1080",
+      "open_ms": 181
+    },
+    {
+      "name": "新加坡-CNA",
+      "old_url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
+      "new_url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
+      "at": "2026-11-14 01:45:24",
+      "reason": "search-new: 更快 1269ms -> 831ms",
+      "source": "zilong7728",
+      "resolution": "1920x1080",
+      "open_ms": 831
+    }
+  ],
   "deletion_requests": [],
   "candidates": [],
   "notes": [
