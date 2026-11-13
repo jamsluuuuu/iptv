@@ -26,6 +26,8 @@
 # 2026-11-14 01:05 修订：动物星球换源——旧源 61.221.215.25:8800/hls/57 循环冻结（00:52 两时点分片与画面完全相同）；台湾版无可用源（标准源池、GitHub 代码搜索、freetv、token 源均未通过核验），用户同意用其他版本；新源为美国版（iptv-org 纪录片列表），两时点抽帧核验通过（1920x1080，约 9Mbps，两帧画面不同且均含 Animal Planet 台标），改名“动物星球（美国）”移入海外组，无 EPG。167 台不变
 # 2026-11-14 01:10 修订：CCTV-1 换源——用户反馈又成卖药台；旧源 38.75.136.137 中继（正是之前卖药假源那家），本机探针分片返回错误页无法抽帧，但用户实测为准；新源与已核验的 CCTV-2/4/17 同一中继（113.90.154.189 tsfile），两时点抽帧核验通过（《今日说法》两不同画面，含 CCTV-1 台标，1920x1080，约 9Mbps，550ms），无卖药广告。167 台不变
 # 2026-11-14 01:16 修订：CCTV-5+ 换源——搜源脚本把 CCTV-5 的源错配给了 CCTV-5+（同一地址同时挂在两台名下），已纠正；新源（wwb521/live）两时点抽帧核验通过（CBA 第二轮两不同画面，含 CCTV-5+ 台标，比分/时钟在走，1920x1080，约 8Mbps，942ms）。CCTV-5 仍用该 gmxw 源（抽帧确认确为 CCTV-5，781ms）。167 台不变
+# 2026-11-14 02:27 修订：台视还原——搜源把台视新闻的源（modn 4013，抽帧确认台标为“台视新闻 HD”）错配给了台视，已还原为原源 211.72.174.95:8112/0.ts；台视新闻仍用该 4013 源。167 台不变
+# 2026-11-14 02:30 修订：西藏卫视还原——搜源的 txiptv faacts/0111_1 抽帧确认为四川卫视（台标“四川卫视”），不是西藏卫视，已还原为原源 107.150.60.122/live/xzws.m3u8（该中继曾出卖药广告，暂无更好替代，继续留意）。167 台不变
 #EXTINF:-1 tvg-name="CCTV-1 综合" group-title="CCTV" tvg-id="545932",CCTV-1 综合
 http://113.90.154.189:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV-2 财经" group-title="CCTV" tvg-id="545933",CCTV-2 财经
@@ -123,7 +125,7 @@ http://222.71.55.147:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="新疆卫视" group-title="卫视" tvg-id="572170",新疆卫视
 http://112.123.243.37:50085/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="西藏卫视" group-title="卫视" tvg-id="545990",西藏卫视
-http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+http://107.150.60.122/live/xzws.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" group-title="卫视" tvg-id="545979",深圳卫视
 http://gmxw.7766.org:808/hls/45/index.m3u8
 #EXTINF:-1 tvg-name="延边卫视" group-title="卫视" tvg-id="545989",延边卫视
@@ -297,7 +299,7 @@ http://125.227.210.55:3020/VideoInput/play.ts
 #EXTINF:-1 tvg-name="三立新闻" group-title="台湾" tvg-id="456555",三立新闻
 http://125.227.210.55:3022/VideoInput/play.ts
 #EXTINF:-1 tvg-name="台视" group-title="台湾" tvg-id="456505",台视
-http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+http://211.72.174.95:8112/0.ts
 #EXTINF:-1 tvg-name="台视财经" group-title="台湾" tvg-id="456646",台视财经
 http://125.227.210.55:3090/VideoInput/play.ts
 #EXTINF:-1 tvg-name="台视新闻" group-title="台湾" tvg-id="456645",台视新闻
