@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/epg.xml"
+# 2026-11-14 08:40 修订：龙华 6 台改走 cdn.qd.je 包装（同源 hidns，播放列表以正确 HLS 类型返回；原 hidns 直链以 text/plain 返回，疑为用户端无法播放的原因）；删除美亚C+（用户要求）；美亚电影台暂无已核实源
 # 2026-11-14 02:22 搜源替换（更快/更清）：新加坡-CNA 更快 1269ms -> 831ms，新源 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8（zilong7728，两时点核验通过）
 # 2026-11-14 02:21 搜源替换（更快/更清）：TVBS 更快 868ms -> 181ms，新源 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8（iptv-org-tw，两时点核验通过）
 # 2026-11-14 02:20 搜源替换（更快/更清）：台视 更清 1280x720 -> 1920x1080，新源 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8（zilong7728，两时点核验通过）
@@ -271,21 +272,19 @@ https://cdn.qd.je/163189/jtdy
 #EXTINF:-1 tvg-name="客家电视台" group-title="台湾" tvg-id="456517",客家电视台
 http://125.227.210.55:3087/VideoInput/play.ts
 #EXTINF:-1 tvg-name="龙华电影" group-title="台湾" tvg-id="457361",龙华电影
-https://8.fast.hidns.vip/163189/lhdy
+https://cdn.qd.je/163189/lhdy
 #EXTINF:-1 tvg-name="龙华卡通" group-title="台湾" tvg-id="457225",龙华卡通
-https://8.fast.hidns.vip/163189/lhkt
+https://cdn.qd.je/163189/lhkt
 #EXTINF:-1 tvg-name="龙华偶像" group-title="台湾" tvg-id="457314",龙华偶像
-https://8.fast.hidns.vip/163189/lhox
+https://cdn.qd.je/163189/lhox
 #EXTINF:-1 tvg-name="龙华日韩" group-title="台湾",龙华日韩
-https://8.fast.hidns.vip/163189/lhrh
+https://cdn.qd.je/163189/lhrh
 #EXTINF:-1 tvg-name="龙华戏剧" group-title="台湾" tvg-id="457313",龙华戏剧
-https://8.fast.hidns.vip/163189/lhxj
+https://cdn.qd.je/163189/lhxj
 #EXTINF:-1 tvg-name="龙华洋片" group-title="台湾" tvg-id="457364",龙华洋片
-https://8.fast.hidns.vip/163189/lhyp
+https://cdn.qd.je/163189/lhyp
 #EXTINF:-1 tvg-name="龙祥时代" group-title="台湾" tvg-id="龙祥时代",龙祥时代
 http://125.227.210.55:1084/VideoInput/play.ts
-#EXTINF:-1 tvg-name="美亚C+" group-title="台湾",美亚C+
-http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 tvg-name="民视" group-title="台湾" tvg-id="456503",民视
 http://211.72.174.95:8115/0.ts
 #EXTINF:-1 tvg-name="民视第一" group-title="台湾" tvg-id="456642",民视第一

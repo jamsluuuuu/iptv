@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-13 20:03:24",
-  "total": 167,
+  "generated_at": "2026-11-14 08:34:57",
+  "total": 166,
   "counts": {
-    "ok": 135,
+    "ok": 134,
     "replaced": 0,
     "dead": 0,
     "unverified": 32
@@ -1104,8 +1104,8 @@
       "group": "台湾",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 1622,
-      "note": "",
+      "open_ms": null,
+      "note": "改走 qd.je 包装（同源 hidns，正确 HLS 类型）",
       "bad_days": 0
     },
     {
@@ -1113,8 +1113,8 @@
       "group": "台湾",
       "status": "ok",
       "resolution": "1280x720",
-      "open_ms": 1055,
-      "note": "",
+      "open_ms": null,
+      "note": "改走 qd.je 包装（同源 hidns，正确 HLS 类型）",
       "bad_days": 0
     },
     {
@@ -1122,8 +1122,8 @@
       "group": "台湾",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 1746,
-      "note": "",
+      "open_ms": null,
+      "note": "改走 qd.je 包装（同源 hidns，正确 HLS 类型）",
       "bad_days": 0
     },
     {
@@ -1131,8 +1131,8 @@
       "group": "台湾",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 1778,
-      "note": "",
+      "open_ms": null,
+      "note": "改走 qd.je 包装（同源 hidns，正确 HLS 类型）",
       "bad_days": 0
     },
     {
@@ -1140,8 +1140,8 @@
       "group": "台湾",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 1650,
-      "note": "",
+      "open_ms": null,
+      "note": "改走 qd.je 包装（同源 hidns，正确 HLS 类型）",
       "bad_days": 0
     },
     {
@@ -1149,8 +1149,8 @@
       "group": "台湾",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 1545,
-      "note": "",
+      "open_ms": null,
+      "note": "改走 qd.je 包装（同源 hidns，正确 HLS 类型）",
       "bad_days": 0
     },
     {
@@ -1159,15 +1159,6 @@
       "status": "ok",
       "resolution": "1280x720",
       "open_ms": null,
-      "note": "",
-      "bad_days": 0
-    },
-    {
-      "name": "美亚C+",
-      "group": "台湾",
-      "status": "ok",
-      "resolution": "1920x1080",
-      "open_ms": 1090,
       "note": "",
       "bad_days": 0
     },
