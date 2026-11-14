@@ -1,4 +1,12 @@
 #EXTM3U x-tvg-url="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/epg.xml"
+# 2026-11-14 08:26 搜源替换（更快/更清）：西宁新闻综合 更快 3947ms -> 1235ms，新源 https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd（zilong7728，两时点核验通过）
+# 2026-11-14 08:25 搜源替换（更快/更清）：韩国-Arirang TV 更快 2165ms -> 1442ms，新源 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8（zilong7728，两时点核验通过）
+# 2026-11-14 08:24 搜源替换（更快/更清）：澳视澳门 更快 3476ms -> 2210ms，新源 http://php.jdshipin.com:8880/TVOD/iptv.php?id=asam（zilong7728，两时点核验通过）
+# 2026-11-14 08:23 搜源替换（更快/更清）：明珠 更快 5415ms -> 2696ms，新源 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2（zilong7728，两时点核验通过）
+# 2026-11-14 08:21 搜源替换（更快/更清）：ViuTV 更快 4903ms -> 1100ms，新源 http://r.jdshipin.com/vSJvl（zilong7728，两时点核验通过）
+# 2026-11-14 08:20 搜源替换（更快/更清）：翡翠台 更清 1920x1080 -> 3840x2160，新源 http://r.jdshipin.com/n90gt（zilong7728，两时点核验通过）
+# 2026-11-14 08:14 搜源替换（更快/更清）：新疆卫视 更清 720x576 -> 1920x1080，新源 http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd（zilong7728，两时点核验通过）
+# 2026-11-14 08:12 搜源替换（更快/更清）：甘肃卫视 更清 720x576 -> 1920x1080，新源 http://218.13.170.98:9901/tsfile/live/0141_1.m3u8（zilong7728，两时点核验通过）
 # 2026-11-14 14:16 搜源替换（更快/更清）：CCTV-12 社会与法 提速到1秒内 1233ms -> 914ms，新源 http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0（zilong7728，两时点核验通过）
 # 2026-11-14 14:11 搜源替换（更快/更清）：CCTV-4 中文国际 更快 2749ms -> 1605ms，新源 https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1794669300-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-7a6199b86afa221341e6057f74bc3a85&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c（zilong7728，两时点核验通过）
 # 2026-11-14 09:00 修订：山西卫视换源（旧源连接被拒，新源 119.39.9.8 tsfile 0118_1，两时点抽帧核实：山西卫视台标，1920x1080，663ms）
@@ -118,7 +126,7 @@ http://112.123.243.37:50085/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid
 #EXTINF:-1 tvg-name="江西卫视" group-title="卫视" tvg-id="545976" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png",江西卫视
 http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视" tvg-id="572165" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png",甘肃卫视
-http://112.123.243.37:50085/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视" tvg-id="545971" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png",宁夏卫视
 http://222.71.55.147:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="青海卫视" group-title="卫视" tvg-id="572180" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png",青海卫视
@@ -126,7 +134,7 @@ http://107.150.60.122/live/qhws.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视" tvg-id="545970" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png",内蒙古卫视
 http://222.71.55.147:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="新疆卫视" group-title="卫视" tvg-id="572170" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png",新疆卫视
-http://112.123.243.37:50085/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
 #EXTINF:-1 tvg-name="西藏卫视" group-title="卫视" tvg-id="545990" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png",西藏卫视
 http://107.150.60.122/live/xzws.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" group-title="卫视" tvg-id="545979" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png",深圳卫视
@@ -294,11 +302,11 @@ http://125.227.210.55:3095/VideoInput/play.ts
 #EXTINF:-1 tvg-name="亚洲武侠" group-title="港澳" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%BA%9A%E6%B4%B2%E6%AD%A6%E4%BE%A0.png",亚洲武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1 tvg-name="翡翠台" group-title="港澳" tvg-id="368366" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
-http://r.jdshipin.com/GeWKr
+http://r.jdshipin.com/n90gt
 #EXTINF:-1 tvg-name="无线新闻台" group-title="港澳" tvg-id="368359" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png",无线新闻台
 https://cdn6.cc.cd/163189/wxxw
 #EXTINF:-1 tvg-name="ViuTV" group-title="港澳" tvg-id="565569" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/ViuTV.png",ViuTV
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+http://r.jdshipin.com/vSJvl
 #EXTINF:-1 tvg-name="港台电视31" group-title="港澳" tvg-id="368550" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%B8%AF%E5%8F%B0%E7%94%B5%E8%A7%8631.png",港台电视31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="港台电视32" group-title="港澳" tvg-id="368551" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%B8%AF%E5%8F%B0%E7%94%B5%E8%A7%8632.png",港台电视32
@@ -308,9 +316,9 @@ http://167.88.62.43:64012/0.ts
 #EXTINF:-1 tvg-name="TVB 星河" group-title="港澳" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/TVB_%E6%98%9F%E6%B2%B3.png",TVB 星河
 http://r.jdshipin.com/Voac4
 #EXTINF:-1 tvg-name="明珠" group-title="港澳" tvg-id="368369" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%98%8E%E7%8F%A0.png",明珠
-http://r.jdshipin.com/ZQ4kN
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 #EXTINF:-1 tvg-name="澳视澳门" group-title="港澳" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%BE%B3%E8%A7%86%E6%BE%B3%E9%97%A8.png",澳视澳门
-https://cdn6.cc.cd/163189/asam
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=asam
 #EXTINF:-1 tvg-name="凤凰中文" group-title="港澳" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png",凤凰中文
 http://r.jdshipin.com/cCCzW
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="港澳" tvg-id="410355" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png",凤凰资讯
@@ -331,7 +339,7 @@ https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1da
 #EXTVLCOPT:http-referrer=https://mov3.co/
 https://tbs5.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-name="韩国-Arirang TV" group-title="海外" tvg-id="368370" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%9F%A9%E5%9B%BD_Arirang_TV.png",韩国-Arirang TV
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-name="韩国EBS少儿" group-title="海外" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%9F%A9%E5%9B%BDEBS%E5%B0%91%E5%84%BF.png",韩国EBS少儿
 http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-name="Pet Club TV" group-title="海外" tvg-id="430256" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/Pet%20Club%20TV.png",Pet Club TV
@@ -353,7 +361,7 @@ http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
 #EXTINF:-1 tvg-name="哈尔滨新闻综合" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%93%88%E5%B0%94%E6%BB%A8%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",哈尔滨新闻综合
 http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
 #EXTINF:-1 tvg-name="西宁新闻综合" group-title="地方" tvg-id="西宁综合" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E8%A5%BF%E5%AE%81%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",西宁新闻综合
-https://liveout.xntv.tv/a65jur/96iln2.m3u8
+https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
 #EXTINF:-1 tvg-name="苏州新闻综合" group-title="地方" tvg-id="539662" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E8%8B%8F%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",苏州新闻综合
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 #EXTINF:-1 tvg-name="东莞新闻综合" group-title="地方" tvg-id="东莞新闻" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%B8%9C%E8%8E%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",东莞新闻综合
