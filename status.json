@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-14 08:57:56",
+  "generated_at": "2026-11-14 09:02:50",
   "total": 166,
   "counts": {
-    "ok": 157,
+    "ok": 156,
     "replaced": 1,
     "dead": 1,
-    "unverified": 7
+    "unverified": 8
   },
   "last_check": "2026-11-14 08:57:50",
   "last_search": "2026-11-14 01:45:24",
@@ -1435,10 +1435,10 @@
     {
       "name": "北京新闻",
       "group": "地方",
-      "status": "ok",
+      "status": "unverified",
       "resolution": null,
       "open_ms": 3246,
-      "note": "仅音频",
+      "note": "仅音频，无视频轨",
       "bad_days": 0
     },
     {
