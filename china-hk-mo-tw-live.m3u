@@ -155,7 +155,7 @@ http://1.94.31.214/php/hebei.php?id=hbys
 http://1.94.31.214/php/hebei.php?id=hbds
 #EXTINF:-1 tvg-name="三家购物" group-title="河北",三家购物
 http://1.94.31.214/php/hebei.php?id=hbgg
-#EXTINF:-1 tvg-name="石家庄新闻综合" group-title="河北" tvg-id="石家庄新闻综合",石家庄新闻综合
+#EXTINF:-1 tvg-name="石家庄新闻综合" group-title="河北" tvg-id="石家庄新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E7%9F%B3%E5%AE%B6%E5%BA%84%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",石家庄新闻综合
 https://live.sjzntv.cn/rftlive/809631088acd4294b547de1b96bb0001/809631088acd4294b547de1b96bb0001.m3u8
 #EXTINF:-1 tvg-name="任丘综合" group-title="河北",任丘综合
 https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
@@ -253,9 +253,9 @@ http://125.227.210.55:1003/VideoInput/play.ts
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-name="靖天电影台" group-title="台湾" tvg-id="456653" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%9D%96%E5%A4%A9%E7%94%B5%E5%BD%B1%E5%8F%B0.png",靖天电影台
 https://cdn.qd.je/163189/jtdy
-#EXTINF:-1 tvg-name="天映经典" group-title="台湾" tvg-id="368371",天映经典
+#EXTINF:-1 tvg-name="天映经典" group-title="台湾" tvg-id="368371" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8.png",天映经典
 https://cdn.qd.je/163189/ccm2
-#EXTINF:-1 tvg-name="天映频道" group-title="台湾",天映频道
+#EXTINF:-1 tvg-name="天映频道" group-title="台湾" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93.png",天映频道
 https://cdn.qd.je/163189/typd2
 #EXTINF:-1 tvg-name="龙祥时代" group-title="台湾" tvg-id="龙祥时代",龙祥时代
 http://125.227.210.55:1084/VideoInput/play.ts
@@ -265,7 +265,7 @@ http://125.227.210.55:3044/VideoInput/play.ts
 http://125.227.210.55:4048/VideoInput/play.ts
 #EXTINF:-1 tvg-name="三立台湾" group-title="台湾" tvg-id="456529" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%B8%89%E7%AB%8B%E5%8F%B0%E6%B9%BE.png",三立台湾
 http://125.227.210.55:3020/VideoInput/play.ts
-#EXTINF:-1 tvg-name="三立新闻" group-title="台湾" tvg-id="456555",三立新闻
+#EXTINF:-1 tvg-name="三立新闻" group-title="台湾" tvg-id="456555" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB.png",三立新闻
 http://125.227.210.55:3022/VideoInput/play.ts
 #EXTINF:-1 tvg-name="东森财经新闻台" group-title="台湾" tvg-id="456558" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%B8%9C%E6%A3%AE%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB%E5%8F%B0.png",东森财经新闻台
 http://125.227.210.55:4051/VideoInput/play.ts
@@ -325,7 +325,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="日本-NHK World-Japan" group-title="海外" tvg-id="368337" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%97%A5%E6%9C%AC_NHK_World_Japan.png",日本-NHK World-Japan
 https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
-#EXTINF:-1 tvg-name="日本-NHK综合" group-title="海外" tvg-id="10758",日本-NHK综合
+#EXTINF:-1 tvg-name="日本-NHK综合" group-title="海外" tvg-id="10758" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%97%A5%E6%9C%AC-NHK%E7%BB%BC%E5%90%88.png",日本-NHK综合
 https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
 #EXTINF:-1 tvg-name="日本-Weathernews" group-title="海外" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%97%A5%E6%9C%AC-Weathernews.png",日本-Weathernews
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
@@ -336,7 +336,7 @@ https://tbs5.mov3.co/hls/tbs.m3u8
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="韩国EBS少儿" group-title="海外" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%9F%A9%E5%9B%BDEBS%E5%B0%91%E5%84%BF.png",韩国EBS少儿
 http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 tvg-name="Pet Club TV" group-title="海外" tvg-id="430256",Pet Club TV
+#EXTINF:-1 tvg-name="Pet Club TV" group-title="海外" tvg-id="430256" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/Pet%20Club%20TV.png",Pet Club TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-name="Wild Earth" group-title="海外",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
