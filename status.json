@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14 20:16:05",
+  "generated_at": "2026-11-14 20:21:47",
   "total": 179,
   "counts": {
     "ok": 163,
@@ -944,7 +944,7 @@
       "resolution": "1280x720",
       "open_ms": 1703,
       "note": "frozen-loop",
-      "bad_days": 1
+      "bad_days": 2
     },
     {
       "name": "纬来日本",
@@ -1819,7 +1819,17 @@
       "open_ms": 1235
     }
   ],
-  "deletion_requests": [],
+  "deletion_requests": [
+    {
+      "name": "纬来精采",
+      "group": "台湾",
+      "since": "2026-11-14",
+      "bad_days": 2,
+      "reason": "frozen-loop",
+      "status": "pending",
+      "note": "连续两天看不了且无核验通过的替代源，请 Lu 决定是否删除"
+    }
+  ],
   "candidates": [],
   "notes": [
     "状态说明：正常=抽帧核验通过，或直播单在推进（分片被源站屏蔽、境外仅核到直播单，见备注，未抽帧）；已替换=本次或近期换过源；看不了=抽帧证实失效（VOD循环/冻结/静帧/404）；未核实=探针被拦截或超时等原因未能判定，绝不等于已死。"
