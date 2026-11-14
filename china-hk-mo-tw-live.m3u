@@ -143,7 +143,7 @@ http://112.123.243.37:50085/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid
 http://119.39.9.8:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="海峡卫视" group-title="卫视" tvg-id="572183" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86.png",海峡卫视
 http://45.192.97.170:8880/play/495.m3u8
-#EXTINF:-1 tvg-name="南国都市4K" group-title="卫视",南国都市4K
+#EXTINF:-1 tvg-name="南国都市4K" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%8D%97%E5%9B%BD%E9%83%BD%E5%B8%824K.png",南国都市4K
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1 tvg-name="河北三农" group-title="河北" tvg-id="河北农民" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%B2%B3%E5%8C%97%E4%B8%89%E5%86%9C.png",河北三农
 http://1.94.31.214/php/hebei.php?id=sekj
@@ -233,9 +233,9 @@ http://211.72.174.95:8116/0.ts
 http://125.227.210.55:3082/VideoInput/play.ts
 #EXTINF:-1 tvg-name="小公视" group-title="台湾" tvg-id="456624" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%B0%8F%E5%85%AC%E8%A7%86.png",小公视
 http://125.227.210.55:3086/VideoInput/play.ts
-#EXTINF:-1 tvg-name="客家电视台" group-title="台湾" tvg-id="456517",客家电视台
+#EXTINF:-1 tvg-name="客家电视台" group-title="台湾" tvg-id="456517" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%AE%A2%E5%AE%B6%E7%94%B5%E8%A7%86%E5%8F%B0.png",客家电视台
 http://125.227.210.55:3087/VideoInput/play.ts
-#EXTINF:-1 tvg-name="原住民族电视台" group-title="台湾" tvg-id="456516",原住民族电视台
+#EXTINF:-1 tvg-name="原住民族电视台" group-title="台湾" tvg-id="456516" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E7%94%B5%E8%A7%86%E5%8F%B0.png",原住民族电视台
 http://125.227.210.55:3088/VideoInput/play.ts
 #EXTINF:-1 tvg-name="Animax" group-title="台湾" tvg-id="456598" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/Animax.png",Animax
 http://125.227.210.55:3056/VideoInput/play.ts
@@ -281,17 +281,17 @@ http://125.227.210.55:3047/VideoInput/play.ts
 http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
 #EXTINF:-1 tvg-name="TVBS亚洲" group-title="台湾" tvg-id="3509" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/TVBS%E4%BA%9A%E6%B4%B2.png",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1 tvg-name="博斯高球台" group-title="台湾" tvg-id="457247",博斯高球台
+#EXTINF:-1 tvg-name="博斯高球台" group-title="台湾" tvg-id="457247" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%83%E5%8F%B0.png",博斯高球台
 http://125.227.210.55:3059/VideoInput/play.ts
-#EXTINF:-1 tvg-name="博斯网球台" group-title="台湾" tvg-id="456813",博斯网球台
+#EXTINF:-1 tvg-name="博斯网球台" group-title="台湾" tvg-id="456813" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%8D%9A%E6%96%AF%E7%BD%91%E7%90%83%E5%8F%B0.png",博斯网球台
 http://125.227.210.55:3060/VideoInput/play.ts
-#EXTINF:-1 tvg-name="博斯运动一台" group-title="台湾" tvg-id="457255",博斯运动一台
+#EXTINF:-1 tvg-name="博斯运动一台" group-title="台湾" tvg-id="457255" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%8D%9A%E6%96%AF%E8%BF%90%E5%8A%A8%E4%B8%80%E5%8F%B0.png",博斯运动一台
 http://125.227.210.55:8173/VideoInput/play.ts
 #EXTINF:-1 tvg-name="非凡新闻" group-title="台湾" tvg-id="456560",非凡新闻
 http://125.227.210.55:1086/VideoInput/play.ts
-#EXTINF:-1 tvg-name="国会频道1" group-title="台湾" tvg-id="456626",国会频道1
+#EXTINF:-1 tvg-name="国会频道1" group-title="台湾" tvg-id="456626" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%9B%BD%E4%BC%9A%E9%A2%91%E9%81%931.png",国会频道1
 http://125.227.210.55:3094/VideoInput/play.ts
-#EXTINF:-1 tvg-name="国会频道2" group-title="台湾" tvg-id="456627",国会频道2
+#EXTINF:-1 tvg-name="国会频道2" group-title="台湾" tvg-id="456627" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%9B%BD%E4%BC%9A%E9%A2%91%E9%81%932.png",国会频道2
 http://125.227.210.55:3095/VideoInput/play.ts
 #EXTINF:-1 tvg-name="亚洲武侠" group-title="港澳" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%BA%9A%E6%B4%B2%E6%AD%A6%E4%BE%A0.png",亚洲武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
@@ -319,7 +319,7 @@ http://r.jdshipin.com/cCCzW
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯台" group-title="港澳" tvg-id="410355" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0.png",凤凰资讯台
 http://r.jdshipin.com/0Rp07
-#EXTINF:-1 tvg-name="TVB娱乐新闻台" group-title="港澳" tvg-id="368323",TVB娱乐新闻台
+#EXTINF:-1 tvg-name="TVB娱乐新闻台" group-title="港澳" tvg-id="368323" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/TVB%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB%E5%8F%B0.png",TVB娱乐新闻台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 #EXTINF:-1 tvg-name="新加坡-CNA" group-title="海外" tvg-id="492874" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%96%B0%E5%8A%A0%E5%9D%A1_CNA.png",新加坡-CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -338,7 +338,7 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-name="Pet Club TV" group-title="海外" tvg-id="430256" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/Pet%20Club%20TV.png",Pet Club TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-name="Wild Earth" group-title="海外",Wild Earth
+#EXTINF:-1 tvg-name="Wild Earth" group-title="海外" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/Wild%20Earth.png",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 tvg-name="WionNews" group-title="海外" tvg-id="501126" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/WionNews.png",WionNews
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
@@ -352,13 +352,13 @@ http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b56237284
 https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 #EXTINF:-1 tvg-name="南京新闻综合" group-title="地方" tvg-id="539745",南京新闻综合
 http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
-#EXTINF:-1 tvg-name="哈尔滨新闻综合" group-title="地方",哈尔滨新闻综合
+#EXTINF:-1 tvg-name="哈尔滨新闻综合" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%93%88%E5%B0%94%E6%BB%A8%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",哈尔滨新闻综合
 http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
 #EXTINF:-1 tvg-name="长沙新闻综合" group-title="地方",长沙新闻综合
 http://ls.qingting.fm/live/4877.m3u8
 #EXTINF:-1 tvg-name="西宁新闻综合" group-title="地方" tvg-id="西宁综合",西宁新闻综合
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
-#EXTINF:-1 tvg-name="苏州新闻综合" group-title="地方" tvg-id="539662",苏州新闻综合
+#EXTINF:-1 tvg-name="苏州新闻综合" group-title="地方" tvg-id="539662" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E8%8B%8F%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",苏州新闻综合
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 #EXTINF:-1 tvg-name="东莞新闻综合" group-title="地方" tvg-id="东莞新闻" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%B8%9C%E8%8E%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",东莞新闻综合
 https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
