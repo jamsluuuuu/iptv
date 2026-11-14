@@ -153,31 +153,31 @@ http://1.94.31.214/php/hebei.php?id=jjsh
 http://1.94.31.214/php/hebei.php?id=hbys
 #EXTINF:-1 tvg-name="河北文旅体育" group-title="河北" tvg-id="570480" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%B2%B3%E5%8C%97%E6%96%87%E6%97%85%E4%BD%93%E8%82%B2.png",河北文旅体育
 http://1.94.31.214/php/hebei.php?id=hbds
-#EXTINF:-1 tvg-name="三家购物" group-title="河北",三家购物
+#EXTINF:-1 tvg-name="三家购物" group-title="河北" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%B8%89%E5%AE%B6%E8%B4%AD%E7%89%A9.png",三家购物
 http://1.94.31.214/php/hebei.php?id=hbgg
 #EXTINF:-1 tvg-name="石家庄新闻综合" group-title="河北" tvg-id="石家庄新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E7%9F%B3%E5%AE%B6%E5%BA%84%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",石家庄新闻综合
 https://live.sjzntv.cn/rftlive/809631088acd4294b547de1b96bb0001/809631088acd4294b547de1b96bb0001.m3u8
-#EXTINF:-1 tvg-name="任丘综合" group-title="河北",任丘综合
+#EXTINF:-1 tvg-name="任丘综合" group-title="河北" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%BB%BB%E4%B8%98%E7%BB%BC%E5%90%88.png",任丘综合
 https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="兴隆综合" group-title="河北",兴隆综合
+#EXTINF:-1 tvg-name="兴隆综合" group-title="河北" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%85%B4%E9%9A%86%E7%BB%BC%E5%90%88.png",兴隆综合
 https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="平泉综合" group-title="河北",平泉综合
+#EXTINF:-1 tvg-name="平泉综合" group-title="河北" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%B9%B3%E6%B3%89%E7%BB%BC%E5%90%88.png",平泉综合
 https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="昌黎综合" group-title="河北",昌黎综合
+#EXTINF:-1 tvg-name="昌黎综合" group-title="河北" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%98%8C%E9%BB%8E%E7%BB%BC%E5%90%88.png",昌黎综合
 https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="清河经济综艺" group-title="河北",清河经济综艺
+#EXTINF:-1 tvg-name="清河经济综艺" group-title="河北" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%B8%85%E6%B2%B3%E7%BB%8F%E6%B5%8E%E7%BB%BC%E8%89%BA.png",清河经济综艺
 https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="滦平综合" group-title="河北",滦平综合
+#EXTINF:-1 tvg-name="滦平综合" group-title="河北" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%BB%A6%E5%B9%B3%E7%BB%BC%E5%90%88.png",滦平综合
 http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="邢台生活" group-title="河北",邢台生活
+#EXTINF:-1 tvg-name="邢台生活" group-title="河北" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%82%A2%E5%8F%B0%E7%94%9F%E6%B4%BB.png",邢台生活
 https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="邢台综合" group-title="河北",邢台综合
+#EXTINF:-1 tvg-name="邢台综合" group-title="河北" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%82%A2%E5%8F%B0%E7%BB%BC%E5%90%88.png",邢台综合
 https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="邯郸公共频道" group-title="河北",邯郸公共频道
+#EXTINF:-1 tvg-name="邯郸公共频道" group-title="河北" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%82%AF%E9%83%B8%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png",邯郸公共频道
 https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="邯郸新闻综合" group-title="河北",邯郸新闻综合
+#EXTINF:-1 tvg-name="邯郸新闻综合" group-title="河北" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%82%AF%E9%83%B8%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",邯郸新闻综合
 https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="邯郸科技教育" group-title="河北",邯郸科技教育
+#EXTINF:-1 tvg-name="邯郸科技教育" group-title="河北" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%82%AF%E9%83%B8%E7%A7%91%E6%8A%80%E6%95%99%E8%82%B2.png",邯郸科技教育
 https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="台视" group-title="台湾" tvg-id="456505" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%8F%B0%E8%A7%86.png",台视
 http://211.72.174.95:8112/0.ts
@@ -257,7 +257,7 @@ https://cdn.qd.je/163189/jtdy
 https://cdn.qd.je/163189/ccm2
 #EXTINF:-1 tvg-name="天映频道" group-title="台湾" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93.png",天映频道
 https://cdn.qd.je/163189/typd2
-#EXTINF:-1 tvg-name="龙祥时代" group-title="台湾" tvg-id="龙祥时代",龙祥时代
+#EXTINF:-1 tvg-name="龙祥时代" group-title="台湾" tvg-id="龙祥时代" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%BE%99%E7%A5%A5%E6%97%B6%E4%BB%A3.png",龙祥时代
 http://125.227.210.55:1084/VideoInput/play.ts
 #EXTINF:-1 tvg-name="中天娱乐" group-title="台湾" tvg-id="456539" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%B8%AD%E5%A4%A9%E5%A8%B1%E4%B9%90.png",中天娱乐
 http://125.227.210.55:3044/VideoInput/play.ts
@@ -287,7 +287,7 @@ http://125.227.210.55:3059/VideoInput/play.ts
 http://125.227.210.55:3060/VideoInput/play.ts
 #EXTINF:-1 tvg-name="博斯运动一台" group-title="台湾" tvg-id="457255" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%8D%9A%E6%96%AF%E8%BF%90%E5%8A%A8%E4%B8%80%E5%8F%B0.png",博斯运动一台
 http://125.227.210.55:8173/VideoInput/play.ts
-#EXTINF:-1 tvg-name="非凡新闻" group-title="台湾" tvg-id="456560",非凡新闻
+#EXTINF:-1 tvg-name="非凡新闻" group-title="台湾" tvg-id="456560" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB.png",非凡新闻
 http://125.227.210.55:1086/VideoInput/play.ts
 #EXTINF:-1 tvg-name="国会频道1" group-title="台湾" tvg-id="456626" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%9B%BD%E4%BC%9A%E9%A2%91%E9%81%931.png",国会频道1
 http://125.227.210.55:3094/VideoInput/play.ts
@@ -356,11 +356,11 @@ http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
 http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
 #EXTINF:-1 tvg-name="长沙新闻综合" group-title="地方",长沙新闻综合
 http://ls.qingting.fm/live/4877.m3u8
-#EXTINF:-1 tvg-name="西宁新闻综合" group-title="地方" tvg-id="西宁综合",西宁新闻综合
+#EXTINF:-1 tvg-name="西宁新闻综合" group-title="地方" tvg-id="西宁综合" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E8%A5%BF%E5%AE%81%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",西宁新闻综合
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 tvg-name="苏州新闻综合" group-title="地方" tvg-id="539662" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E8%8B%8F%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",苏州新闻综合
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 #EXTINF:-1 tvg-name="东莞新闻综合" group-title="地方" tvg-id="东莞新闻" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%B8%9C%E8%8E%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",东莞新闻综合
 https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
-#EXTINF:-1 tvg-name="浙江钱江" group-title="地方" tvg-id="浙江钱江都市",浙江钱江
+#EXTINF:-1 tvg-name="浙江钱江" group-title="地方" tvg-id="浙江钱江都市" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%B5%99%E6%B1%9F%E9%92%B1%E6%B1%9F.png",浙江钱江
 http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
