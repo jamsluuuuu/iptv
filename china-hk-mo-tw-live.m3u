@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/epg.xml"
+# 2026-11-14 09:00 修订：山西卫视换源（旧源连接被拒，新源 119.39.9.8 tsfile 0118_1，两时点抽帧核实：山西卫视台标，1920x1080，663ms）
+# 2026-11-14 09:00 修订：分组顺序改为 央视/卫视/河北/台湾/港澳/海外/地方；台湾按台视/华视/中视/民视/龙华/纬来/公视/影视动漫纪录片/中天/三立/东森/TVBS/体育/剩余重排；河北省台在前、石家庄其次
 # 2026-11-14 08:40 修订：龙华 6 台改走 cdn.qd.je 包装（同源 hidns，播放列表以正确 HLS 类型返回；原 hidns 直链以 text/plain 返回，疑为用户端无法播放的原因）；删除美亚C+（用户要求）；美亚电影台暂无已核实源
 # 2026-11-14 02:22 搜源替换（更快/更清）：新加坡-CNA 更快 1269ms -> 831ms，新源 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8（zilong7728，两时点核验通过）
 # 2026-11-14 02:21 搜源替换（更快/更清）：TVBS 更快 868ms -> 181ms，新源 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8（iptv-org-tw，两时点核验通过）
@@ -106,7 +108,7 @@ http://107.150.60.122/live/hljwshd.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" group-title="卫视" tvg-id="572156",陕西卫视
 http://120.198.95.220:9901/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-name="山西卫视" group-title="卫视" tvg-id="572155",山西卫视
-http://altv.cddwsj.com:8737/shanxiws.m3u8
+http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" group-title="卫视" tvg-id="572164",贵州卫视
 http://107.150.60.122/live/gzwshd.m3u8
 #EXTINF:-1 tvg-name="云南卫视" group-title="卫视" tvg-id="572166",云南卫视
@@ -143,26 +145,154 @@ http://119.39.9.8:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 http://45.192.97.170:8880/play/495.m3u8
 #EXTINF:-1 tvg-name="南国都市4K" group-title="卫视",南国都市4K
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-#EXTINF:-1 tvg-name="广州综合" group-title="地方" tvg-id="广州综合台",广州综合
-http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
-#EXTINF:-1 tvg-name="广州新闻" group-title="地方" tvg-id="539887",广州新闻
-http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
-#EXTINF:-1 tvg-name="北京新闻" group-title="地方" tvg-id="539647",北京新闻
-https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
-#EXTINF:-1 tvg-name="南京新闻综合" group-title="地方" tvg-id="539745",南京新闻综合
-http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
-#EXTINF:-1 tvg-name="哈尔滨新闻综合" group-title="地方",哈尔滨新闻综合
-http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
-#EXTINF:-1 tvg-name="长沙新闻综合" group-title="地方",长沙新闻综合
-http://ls.qingting.fm/live/4877.m3u8
-#EXTINF:-1 tvg-name="西宁新闻综合" group-title="地方" tvg-id="西宁综合",西宁新闻综合
-https://liveout.xntv.tv/a65jur/96iln2.m3u8
-#EXTINF:-1 tvg-name="苏州新闻综合" group-title="地方" tvg-id="539662",苏州新闻综合
-https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-#EXTINF:-1 tvg-name="东莞新闻综合" group-title="地方" tvg-id="东莞新闻",东莞新闻综合
-https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
-#EXTINF:-1 tvg-name="浙江钱江" group-title="地方" tvg-id="浙江钱江都市",浙江钱江
-http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
+#EXTINF:-1 tvg-name="河北三农" group-title="河北" tvg-id="河北农民",河北三农
+http://1.94.31.214/php/hebei.php?id=sekj
+#EXTINF:-1 tvg-name="河北经济生活" group-title="河北" tvg-id="570472",河北经济生活
+http://1.94.31.214/php/hebei.php?id=jjsh
+#EXTINF:-1 tvg-name="河北少儿科教" group-title="河北" tvg-id="570481",河北少儿科教
+http://1.94.31.214/php/hebei.php?id=hbys
+#EXTINF:-1 tvg-name="河北文旅体育" group-title="河北" tvg-id="570480",河北文旅体育
+http://1.94.31.214/php/hebei.php?id=hbds
+#EXTINF:-1 tvg-name="三家购物" group-title="河北",三家购物
+http://1.94.31.214/php/hebei.php?id=hbgg
+#EXTINF:-1 tvg-name="石家庄新闻综合" group-title="河北" tvg-id="石家庄新闻综合",石家庄新闻综合
+https://live.sjzntv.cn/rftlive/809631088acd4294b547de1b96bb0001/809631088acd4294b547de1b96bb0001.m3u8
+#EXTINF:-1 tvg-name="任丘综合" group-title="河北",任丘综合
+https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="兴隆综合" group-title="河北",兴隆综合
+https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="平泉综合" group-title="河北",平泉综合
+https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="昌黎综合" group-title="河北",昌黎综合
+https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="清河经济综艺" group-title="河北",清河经济综艺
+https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="滦平综合" group-title="河北",滦平综合
+http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="邢台生活" group-title="河北",邢台生活
+https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="邢台综合" group-title="河北",邢台综合
+https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="邯郸公共频道" group-title="河北",邯郸公共频道
+https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="邯郸新闻综合" group-title="河北",邯郸新闻综合
+https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="邯郸科技教育" group-title="河北",邯郸科技教育
+https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="台视" group-title="台湾" tvg-id="456505",台视
+http://211.72.174.95:8112/0.ts
+#EXTINF:-1 tvg-name="台视财经" group-title="台湾" tvg-id="456646",台视财经
+http://125.227.210.55:3090/VideoInput/play.ts
+#EXTINF:-1 tvg-name="台视新闻" group-title="台湾" tvg-id="456645",台视新闻
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 tvg-name="台视综合" group-title="台湾" tvg-id="456647",台视综合
+http://125.227.210.55:3091/VideoInput/play.ts
+#EXTINF:-1 tvg-name="华视" group-title="台湾" tvg-id="456510",华视
+http://211.72.174.95:8114/0.ts
+#EXTINF:-1 tvg-name="华视教育体育文化" group-title="台湾" tvg-id="456625",华视教育体育文化
+http://125.227.210.55:3092/VideoInput/play.ts
+#EXTINF:-1 tvg-name="华视新闻资讯" group-title="台湾" tvg-id="457338",华视新闻资讯
+http://125.227.210.55:3093/VideoInput/play.ts
+#EXTINF:-1 tvg-name="中视" group-title="台湾" tvg-id="456508",中视
+http://211.72.174.95:8113/0.ts
+#EXTINF:-1 tvg-name="中视菁采" group-title="台湾" tvg-id="457298",中视菁采
+http://125.227.210.55:3081/VideoInput/play.ts
+#EXTINF:-1 tvg-name="中视经典" group-title="台湾" tvg-id="457296",中视经典
+http://125.227.210.55:3080/VideoInput/play.ts
+#EXTINF:-1 tvg-name="中视新闻" group-title="台湾" tvg-id="456644",中视新闻
+http://125.227.210.55:3079/VideoInput/play.ts
+#EXTINF:-1 tvg-name="民视" group-title="台湾" tvg-id="456503",民视
+http://211.72.174.95:8115/0.ts
+#EXTINF:-1 tvg-name="民视第一" group-title="台湾" tvg-id="456642",民视第一
+http://125.227.210.55:3084/VideoInput/play.ts
+#EXTINF:-1 tvg-name="民视台湾" group-title="台湾" tvg-id="456643",民视台湾
+http://125.227.210.55:3085/VideoInput/play.ts
+#EXTINF:-1 tvg-name="民视新闻" group-title="台湾" tvg-id="456553",民视新闻
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 tvg-name="龙华电影" group-title="台湾" tvg-id="457361",龙华电影
+https://cdn.qd.je/163189/lhdy
+#EXTINF:-1 tvg-name="龙华卡通" group-title="台湾" tvg-id="457225",龙华卡通
+https://cdn.qd.je/163189/lhkt
+#EXTINF:-1 tvg-name="龙华偶像" group-title="台湾" tvg-id="457314",龙华偶像
+https://cdn.qd.je/163189/lhox
+#EXTINF:-1 tvg-name="龙华日韩" group-title="台湾",龙华日韩
+https://cdn.qd.je/163189/lhrh
+#EXTINF:-1 tvg-name="龙华戏剧" group-title="台湾" tvg-id="457313",龙华戏剧
+https://cdn.qd.je/163189/lhxj
+#EXTINF:-1 tvg-name="龙华洋片" group-title="台湾" tvg-id="457364",龙华洋片
+https://cdn.qd.je/163189/lhyp
+#EXTINF:-1 tvg-name="纬来电影" group-title="台湾" tvg-id="456565",纬来电影
+http://125.227.210.55:1082/VideoInput/play.ts
+#EXTINF:-1 tvg-name="纬来精采" group-title="台湾" tvg-id="457301",纬来精采
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 tvg-name="纬来日本" group-title="台湾" tvg-id="456579",纬来日本
+http://125.227.210.55:1083/VideoInput/play.ts
+#EXTINF:-1 tvg-name="公视" group-title="台湾" tvg-id="457215",公视
+http://211.72.174.95:8116/0.ts
+#EXTINF:-1 tvg-name="公视台语" group-title="台湾" tvg-id="456513",公视台语
+http://125.227.210.55:3082/VideoInput/play.ts
+#EXTINF:-1 tvg-name="小公视" group-title="台湾" tvg-id="456624",小公视
+http://125.227.210.55:3086/VideoInput/play.ts
+#EXTINF:-1 tvg-name="客家电视台" group-title="台湾" tvg-id="456517",客家电视台
+http://125.227.210.55:3087/VideoInput/play.ts
+#EXTINF:-1 tvg-name="原住民族电视台" group-title="台湾" tvg-id="456516",原住民族电视台
+http://125.227.210.55:3088/VideoInput/play.ts
+#EXTINF:-1 tvg-name="Animax" group-title="台湾" tvg-id="456598",Animax
+http://125.227.210.55:3056/VideoInput/play.ts
+#EXTINF:-1 tvg-name="AXN" group-title="台湾" tvg-id="456569",AXN
+http://125.227.210.55:4050/VideoInput/play.ts
+#EXTINF:-1 tvg-name="八大第一" group-title="台湾" tvg-id="456527",八大第一
+http://125.227.210.55:1085/VideoInput/play.ts
+#EXTINF:-1 tvg-name="CINEMAX" group-title="台湾" tvg-id="456574",CINEMAX
+http://125.227.210.55:1001/VideoInput/play.ts
+#EXTINF:-1 tvg-name="Discovery" group-title="台湾" tvg-id="456519",Discovery
+http://125.227.210.55:1004/VideoInput/play.ts
+#EXTINF:-1 tvg-name="HBO HD" group-title="台湾" tvg-id="456655",HBO HD
+http://125.227.210.55:1003/VideoInput/play.ts
+#EXTINF:-1 tvg-name="大立电视" group-title="台湾" tvg-id="456622",大立电视
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 tvg-name="靖天电影台" group-title="台湾" tvg-id="456653",靖天电影台
+https://cdn.qd.je/163189/jtdy
+#EXTINF:-1 tvg-name="天映经典" group-title="台湾" tvg-id="368371",天映经典
+https://cdn.qd.je/163189/ccm2
+#EXTINF:-1 tvg-name="天映频道" group-title="台湾",天映频道
+https://cdn.qd.je/163189/typd2
+#EXTINF:-1 tvg-name="龙祥时代" group-title="台湾" tvg-id="龙祥时代",龙祥时代
+http://125.227.210.55:1084/VideoInput/play.ts
+#EXTINF:-1 tvg-name="中天娱乐" group-title="台湾" tvg-id="456539",中天娱乐
+http://125.227.210.55:3044/VideoInput/play.ts
+#EXTINF:-1 tvg-name="中天综合" group-title="台湾" tvg-id="456536",中天综合
+http://125.227.210.55:4048/VideoInput/play.ts
+#EXTINF:-1 tvg-name="三立台湾" group-title="台湾" tvg-id="456529",三立台湾
+http://125.227.210.55:3020/VideoInput/play.ts
+#EXTINF:-1 tvg-name="三立新闻" group-title="台湾" tvg-id="456555",三立新闻
+http://125.227.210.55:3022/VideoInput/play.ts
+#EXTINF:-1 tvg-name="东森财经新闻台" group-title="台湾" tvg-id="456558",东森财经新闻台
+http://125.227.210.55:4051/VideoInput/play.ts
+#EXTINF:-1 tvg-name="东森超视" group-title="台湾" tvg-id="456533",东森超视
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 tvg-name="东森幼幼" group-title="台湾" tvg-id="456525",东森幼幼
+http://125.227.210.55:4052/VideoInput/play.ts
+#EXTINF:-1 tvg-name="TVBS" group-title="台湾" tvg-id="456557",TVBS
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-name="TVBS欢乐台" group-title="台湾" tvg-id="456543",TVBS欢乐台
+http://125.227.210.55:3047/VideoInput/play.ts
+#EXTINF:-1 tvg-name="TVBS新闻" group-title="台湾" tvg-id="456556",TVBS新闻
+http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
+#EXTINF:-1 tvg-name="TVBS亚洲" group-title="台湾" tvg-id="3509",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 tvg-name="博斯高球台" group-title="台湾" tvg-id="457247",博斯高球台
+http://125.227.210.55:3059/VideoInput/play.ts
+#EXTINF:-1 tvg-name="博斯网球台" group-title="台湾" tvg-id="456813",博斯网球台
+http://125.227.210.55:3060/VideoInput/play.ts
+#EXTINF:-1 tvg-name="博斯运动一台" group-title="台湾" tvg-id="457255",博斯运动一台
+http://125.227.210.55:8173/VideoInput/play.ts
+#EXTINF:-1 tvg-name="非凡新闻" group-title="台湾" tvg-id="456560",非凡新闻
+http://125.227.210.55:1086/VideoInput/play.ts
+#EXTINF:-1 tvg-name="国会频道1" group-title="台湾" tvg-id="456626",国会频道1
+http://125.227.210.55:3094/VideoInput/play.ts
+#EXTINF:-1 tvg-name="国会频道2" group-title="台湾" tvg-id="456627",国会频道2
+http://125.227.210.55:3095/VideoInput/play.ts
 #EXTINF:-1 tvg-name="亚洲武侠" group-title="港澳",亚洲武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1 tvg-name="翡翠台" group-title="港澳" tvg-id="368366",翡翠台
@@ -191,154 +321,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 http://r.jdshipin.com/0Rp07
 #EXTINF:-1 tvg-name="TVB娱乐新闻台" group-title="港澳" tvg-id="368323",TVB娱乐新闻台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-#EXTINF:-1 tvg-name="石家庄新闻综合" group-title="河北" tvg-id="石家庄新闻综合",石家庄新闻综合
-https://live.sjzntv.cn/rftlive/809631088acd4294b547de1b96bb0001/809631088acd4294b547de1b96bb0001.m3u8
-#EXTINF:-1 tvg-name="任丘综合" group-title="河北",任丘综合
-https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="兴隆综合" group-title="河北",兴隆综合
-https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="平泉综合" group-title="河北",平泉综合
-https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="昌黎综合" group-title="河北",昌黎综合
-https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="三家购物" group-title="河北",三家购物
-http://1.94.31.214/php/hebei.php?id=hbgg
-#EXTINF:-1 tvg-name="河北三农" group-title="河北" tvg-id="河北农民",河北三农
-http://1.94.31.214/php/hebei.php?id=sekj
-#EXTINF:-1 tvg-name="河北经济生活" group-title="河北" tvg-id="570472",河北经济生活
-http://1.94.31.214/php/hebei.php?id=jjsh
-#EXTINF:-1 tvg-name="河北少儿科教" group-title="河北" tvg-id="570481",河北少儿科教
-http://1.94.31.214/php/hebei.php?id=hbys
-#EXTINF:-1 tvg-name="河北文旅体育" group-title="河北" tvg-id="570480",河北文旅体育
-http://1.94.31.214/php/hebei.php?id=hbds
-#EXTINF:-1 tvg-name="清河经济综艺" group-title="河北",清河经济综艺
-https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="滦平综合" group-title="河北",滦平综合
-http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="邢台生活" group-title="河北",邢台生活
-https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="邢台综合" group-title="河北",邢台综合
-https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="邯郸公共频道" group-title="河北",邯郸公共频道
-https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="邯郸新闻综合" group-title="河北",邯郸新闻综合
-https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="邯郸科技教育" group-title="河北",邯郸科技教育
-https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="Animax" group-title="台湾" tvg-id="456598",Animax
-http://125.227.210.55:3056/VideoInput/play.ts
-#EXTINF:-1 tvg-name="AXN" group-title="台湾" tvg-id="456569",AXN
-http://125.227.210.55:4050/VideoInput/play.ts
-#EXTINF:-1 tvg-name="八大第一" group-title="台湾" tvg-id="456527",八大第一
-http://125.227.210.55:1085/VideoInput/play.ts
-#EXTINF:-1 tvg-name="博斯高球台" group-title="台湾" tvg-id="457247",博斯高球台
-http://125.227.210.55:3059/VideoInput/play.ts
-#EXTINF:-1 tvg-name="博斯网球台" group-title="台湾" tvg-id="456813",博斯网球台
-http://125.227.210.55:3060/VideoInput/play.ts
-#EXTINF:-1 tvg-name="博斯运动一台" group-title="台湾" tvg-id="457255",博斯运动一台
-http://125.227.210.55:8173/VideoInput/play.ts
-#EXTINF:-1 tvg-name="CINEMAX" group-title="台湾" tvg-id="456574",CINEMAX
-http://125.227.210.55:1001/VideoInput/play.ts
-#EXTINF:-1 tvg-name="大立电视" group-title="台湾" tvg-id="456622",大立电视
-http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-name="Discovery" group-title="台湾" tvg-id="456519",Discovery
-http://125.227.210.55:1004/VideoInput/play.ts
-#EXTINF:-1 tvg-name="东森财经新闻台" group-title="台湾" tvg-id="456558",东森财经新闻台
-http://125.227.210.55:4051/VideoInput/play.ts
-#EXTINF:-1 tvg-name="东森超视" group-title="台湾" tvg-id="456533",东森超视
-http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 tvg-name="东森幼幼" group-title="台湾" tvg-id="456525",东森幼幼
-http://125.227.210.55:4052/VideoInput/play.ts
-#EXTINF:-1 tvg-name="非凡新闻" group-title="台湾" tvg-id="456560",非凡新闻
-http://125.227.210.55:1086/VideoInput/play.ts
-#EXTINF:-1 tvg-name="公视" group-title="台湾" tvg-id="457215",公视
-http://211.72.174.95:8116/0.ts
-#EXTINF:-1 tvg-name="公视台语" group-title="台湾" tvg-id="456513",公视台语
-http://125.227.210.55:3082/VideoInput/play.ts
-#EXTINF:-1 tvg-name="国会频道1" group-title="台湾" tvg-id="456626",国会频道1
-http://125.227.210.55:3094/VideoInput/play.ts
-#EXTINF:-1 tvg-name="国会频道2" group-title="台湾" tvg-id="456627",国会频道2
-http://125.227.210.55:3095/VideoInput/play.ts
-#EXTINF:-1 tvg-name="HBO HD" group-title="台湾" tvg-id="456655",HBO HD
-http://125.227.210.55:1003/VideoInput/play.ts
-#EXTINF:-1 tvg-name="华视" group-title="台湾" tvg-id="456510",华视
-http://211.72.174.95:8114/0.ts
-#EXTINF:-1 tvg-name="华视教育体育文化" group-title="台湾" tvg-id="456625",华视教育体育文化
-http://125.227.210.55:3092/VideoInput/play.ts
-#EXTINF:-1 tvg-name="华视新闻资讯" group-title="台湾" tvg-id="457338",华视新闻资讯
-http://125.227.210.55:3093/VideoInput/play.ts
-#EXTINF:-1 tvg-name="靖天电影台" group-title="台湾" tvg-id="456653",靖天电影台
-https://cdn.qd.je/163189/jtdy
-#EXTINF:-1 tvg-name="客家电视台" group-title="台湾" tvg-id="456517",客家电视台
-http://125.227.210.55:3087/VideoInput/play.ts
-#EXTINF:-1 tvg-name="龙华电影" group-title="台湾" tvg-id="457361",龙华电影
-https://cdn.qd.je/163189/lhdy
-#EXTINF:-1 tvg-name="龙华卡通" group-title="台湾" tvg-id="457225",龙华卡通
-https://cdn.qd.je/163189/lhkt
-#EXTINF:-1 tvg-name="龙华偶像" group-title="台湾" tvg-id="457314",龙华偶像
-https://cdn.qd.je/163189/lhox
-#EXTINF:-1 tvg-name="龙华日韩" group-title="台湾",龙华日韩
-https://cdn.qd.je/163189/lhrh
-#EXTINF:-1 tvg-name="龙华戏剧" group-title="台湾" tvg-id="457313",龙华戏剧
-https://cdn.qd.je/163189/lhxj
-#EXTINF:-1 tvg-name="龙华洋片" group-title="台湾" tvg-id="457364",龙华洋片
-https://cdn.qd.je/163189/lhyp
-#EXTINF:-1 tvg-name="龙祥时代" group-title="台湾" tvg-id="龙祥时代",龙祥时代
-http://125.227.210.55:1084/VideoInput/play.ts
-#EXTINF:-1 tvg-name="民视" group-title="台湾" tvg-id="456503",民视
-http://211.72.174.95:8115/0.ts
-#EXTINF:-1 tvg-name="民视第一" group-title="台湾" tvg-id="456642",民视第一
-http://125.227.210.55:3084/VideoInput/play.ts
-#EXTINF:-1 tvg-name="民视台湾" group-title="台湾" tvg-id="456643",民视台湾
-http://125.227.210.55:3085/VideoInput/play.ts
-#EXTINF:-1 tvg-name="民视新闻" group-title="台湾" tvg-id="456553",民视新闻
-http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 tvg-name="三立台湾" group-title="台湾" tvg-id="456529",三立台湾
-http://125.227.210.55:3020/VideoInput/play.ts
-#EXTINF:-1 tvg-name="三立新闻" group-title="台湾" tvg-id="456555",三立新闻
-http://125.227.210.55:3022/VideoInput/play.ts
-#EXTINF:-1 tvg-name="台视" group-title="台湾" tvg-id="456505",台视
-http://211.72.174.95:8112/0.ts
-#EXTINF:-1 tvg-name="台视财经" group-title="台湾" tvg-id="456646",台视财经
-http://125.227.210.55:3090/VideoInput/play.ts
-#EXTINF:-1 tvg-name="台视新闻" group-title="台湾" tvg-id="456645",台视新闻
-http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 tvg-name="台视综合" group-title="台湾" tvg-id="456647",台视综合
-http://125.227.210.55:3091/VideoInput/play.ts
-#EXTINF:-1 tvg-name="天映经典" group-title="台湾" tvg-id="368371",天映经典
-https://cdn.qd.je/163189/ccm2
-#EXTINF:-1 tvg-name="天映频道" group-title="台湾",天映频道
-https://cdn.qd.je/163189/typd2
-#EXTINF:-1 tvg-name="TVBS" group-title="台湾" tvg-id="456557",TVBS
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 tvg-name="TVBS欢乐台" group-title="台湾" tvg-id="456543",TVBS欢乐台
-http://125.227.210.55:3047/VideoInput/play.ts
-#EXTINF:-1 tvg-name="TVBS新闻" group-title="台湾" tvg-id="456556",TVBS新闻
-http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
-#EXTINF:-1 tvg-name="TVBS亚洲" group-title="台湾" tvg-id="3509",TVBS亚洲
-http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1 tvg-name="纬来电影" group-title="台湾" tvg-id="456565",纬来电影
-http://125.227.210.55:1082/VideoInput/play.ts
-#EXTINF:-1 tvg-name="纬来精采" group-title="台湾" tvg-id="457301",纬来精采
-http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 tvg-name="纬来日本" group-title="台湾" tvg-id="456579",纬来日本
-http://125.227.210.55:1083/VideoInput/play.ts
-#EXTINF:-1 tvg-name="小公视" group-title="台湾" tvg-id="456624",小公视
-http://125.227.210.55:3086/VideoInput/play.ts
-#EXTINF:-1 tvg-name="原住民族电视台" group-title="台湾" tvg-id="456516",原住民族电视台
-http://125.227.210.55:3088/VideoInput/play.ts
-#EXTINF:-1 tvg-name="中视" group-title="台湾" tvg-id="456508",中视
-http://211.72.174.95:8113/0.ts
-#EXTINF:-1 tvg-name="中视菁采" group-title="台湾" tvg-id="457298",中视菁采
-http://125.227.210.55:3081/VideoInput/play.ts
-#EXTINF:-1 tvg-name="中视经典" group-title="台湾" tvg-id="457296",中视经典
-http://125.227.210.55:3080/VideoInput/play.ts
-#EXTINF:-1 tvg-name="中视新闻" group-title="台湾" tvg-id="456644",中视新闻
-http://125.227.210.55:3079/VideoInput/play.ts
-#EXTINF:-1 tvg-name="中天娱乐" group-title="台湾" tvg-id="456539",中天娱乐
-http://125.227.210.55:3044/VideoInput/play.ts
-#EXTINF:-1 tvg-name="中天综合" group-title="台湾" tvg-id="456536",中天综合
-http://125.227.210.55:4048/VideoInput/play.ts
 #EXTINF:-1 tvg-name="新加坡-CNA" group-title="海外" tvg-id="492874",新加坡-CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="日本-NHK World-Japan" group-title="海外" tvg-id="368337",日本-NHK World-Japan
@@ -362,3 +344,23 @@ https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-name="动物星球（美国）" group-title="海外",动物星球（美国）
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 tvg-name="广州综合" group-title="地方" tvg-id="广州综合台",广州综合
+http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+#EXTINF:-1 tvg-name="广州新闻" group-title="地方" tvg-id="539887",广州新闻
+http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
+#EXTINF:-1 tvg-name="北京新闻" group-title="地方" tvg-id="539647",北京新闻
+https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
+#EXTINF:-1 tvg-name="南京新闻综合" group-title="地方" tvg-id="539745",南京新闻综合
+http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
+#EXTINF:-1 tvg-name="哈尔滨新闻综合" group-title="地方",哈尔滨新闻综合
+http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
+#EXTINF:-1 tvg-name="长沙新闻综合" group-title="地方",长沙新闻综合
+http://ls.qingting.fm/live/4877.m3u8
+#EXTINF:-1 tvg-name="西宁新闻综合" group-title="地方" tvg-id="西宁综合",西宁新闻综合
+https://liveout.xntv.tv/a65jur/96iln2.m3u8
+#EXTINF:-1 tvg-name="苏州新闻综合" group-title="地方" tvg-id="539662",苏州新闻综合
+https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+#EXTINF:-1 tvg-name="东莞新闻综合" group-title="地方" tvg-id="东莞新闻",东莞新闻综合
+https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
+#EXTINF:-1 tvg-name="浙江钱江" group-title="地方" tvg-id="浙江钱江都市",浙江钱江
+http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
