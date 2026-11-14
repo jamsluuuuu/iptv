@@ -145,13 +145,13 @@ http://119.39.9.8:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 http://45.192.97.170:8880/play/495.m3u8
 #EXTINF:-1 tvg-name="南国都市4K" group-title="卫视",南国都市4K
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-#EXTINF:-1 tvg-name="河北三农" group-title="河北" tvg-id="河北农民",河北三农
+#EXTINF:-1 tvg-name="河北三农" group-title="河北" tvg-id="河北农民" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%B2%B3%E5%8C%97%E4%B8%89%E5%86%9C.png",河北三农
 http://1.94.31.214/php/hebei.php?id=sekj
-#EXTINF:-1 tvg-name="河北经济生活" group-title="河北" tvg-id="570472",河北经济生活
+#EXTINF:-1 tvg-name="河北经济生活" group-title="河北" tvg-id="570472" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%B2%B3%E5%8C%97%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB.png",河北经济生活
 http://1.94.31.214/php/hebei.php?id=jjsh
-#EXTINF:-1 tvg-name="河北少儿科教" group-title="河北" tvg-id="570481",河北少儿科教
+#EXTINF:-1 tvg-name="河北少儿科教" group-title="河北" tvg-id="570481" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%B2%B3%E5%8C%97%E5%B0%91%E5%84%BF%E7%A7%91%E6%95%99.png",河北少儿科教
 http://1.94.31.214/php/hebei.php?id=hbys
-#EXTINF:-1 tvg-name="河北文旅体育" group-title="河北" tvg-id="570480",河北文旅体育
+#EXTINF:-1 tvg-name="河北文旅体育" group-title="河北" tvg-id="570480" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%B2%B3%E5%8C%97%E6%96%87%E6%97%85%E4%BD%93%E8%82%B2.png",河北文旅体育
 http://1.94.31.214/php/hebei.php?id=hbds
 #EXTINF:-1 tvg-name="三家购物" group-title="河北",三家购物
 http://1.94.31.214/php/hebei.php?id=hbgg
@@ -263,7 +263,7 @@ http://125.227.210.55:1084/VideoInput/play.ts
 http://125.227.210.55:3044/VideoInput/play.ts
 #EXTINF:-1 tvg-name="中天综合" group-title="台湾" tvg-id="456536" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%B8%AD%E5%A4%A9%E7%BB%BC%E5%90%88.png",中天综合
 http://125.227.210.55:4048/VideoInput/play.ts
-#EXTINF:-1 tvg-name="三立台湾" group-title="台湾" tvg-id="456529",三立台湾
+#EXTINF:-1 tvg-name="三立台湾" group-title="台湾" tvg-id="456529" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%B8%89%E7%AB%8B%E5%8F%B0%E6%B9%BE.png",三立台湾
 http://125.227.210.55:3020/VideoInput/play.ts
 #EXTINF:-1 tvg-name="三立新闻" group-title="台湾" tvg-id="456555",三立新闻
 http://125.227.210.55:3022/VideoInput/play.ts
@@ -293,7 +293,7 @@ http://125.227.210.55:1086/VideoInput/play.ts
 http://125.227.210.55:3094/VideoInput/play.ts
 #EXTINF:-1 tvg-name="国会频道2" group-title="台湾" tvg-id="456627",国会频道2
 http://125.227.210.55:3095/VideoInput/play.ts
-#EXTINF:-1 tvg-name="亚洲武侠" group-title="港澳",亚洲武侠
+#EXTINF:-1 tvg-name="亚洲武侠" group-title="港澳" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%BA%9A%E6%B4%B2%E6%AD%A6%E4%BE%A0.png",亚洲武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1 tvg-name="翡翠台" group-title="港澳" tvg-id="368366" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
 http://r.jdshipin.com/GeWKr
@@ -327,20 +327,20 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-name="日本-NHK综合" group-title="海外" tvg-id="10758",日本-NHK综合
 https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
-#EXTINF:-1 tvg-name="日本-Weathernews" group-title="海外",日本-Weathernews
+#EXTINF:-1 tvg-name="日本-Weathernews" group-title="海外" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%97%A5%E6%9C%AC-Weathernews.png",日本-Weathernews
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
-#EXTINF:-1 tvg-name="日本-TBS电视台" group-title="海外" tvg-id="10693",日本-TBS电视台
+#EXTINF:-1 tvg-name="日本-TBS电视台" group-title="海外" tvg-id="10693" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%97%A5%E6%9C%AC-TBS%E7%94%B5%E8%A7%86%E5%8F%B0.png",日本-TBS电视台
 #EXTVLCOPT:http-referrer=https://mov3.co/
 https://tbs5.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-name="韩国-Arirang TV" group-title="海外" tvg-id="368370" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%9F%A9%E5%9B%BD_Arirang_TV.png",韩国-Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="韩国EBS少儿" group-title="海外",韩国EBS少儿
+#EXTINF:-1 tvg-name="韩国EBS少儿" group-title="海外" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%9F%A9%E5%9B%BDEBS%E5%B0%91%E5%84%BF.png",韩国EBS少儿
 http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-name="Pet Club TV" group-title="海外" tvg-id="430256",Pet Club TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-name="Wild Earth" group-title="海外",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 tvg-name="WionNews" group-title="海外" tvg-id="501126",WionNews
+#EXTINF:-1 tvg-name="WionNews" group-title="海外" tvg-id="501126" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/WionNews.png",WionNews
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-name="动物星球（美国）" group-title="海外" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%8A%A8%E7%89%A9%E6%98%9F%E7%90%83_%E7%BE%8E%E5%9B%BD.png",动物星球（美国）
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
