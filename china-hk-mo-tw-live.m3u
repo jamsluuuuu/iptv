@@ -249,7 +249,7 @@ http://125.227.210.55:1001/VideoInput/play.ts
 http://125.227.210.55:1004/VideoInput/play.ts
 #EXTINF:-1 tvg-name="HBO HD" group-title="台湾" tvg-id="456655" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/HBO_HD.png",HBO HD
 http://125.227.210.55:1003/VideoInput/play.ts
-#EXTINF:-1 tvg-name="大立电视" group-title="台湾" tvg-id="456622",大立电视
+#EXTINF:-1 tvg-name="大立电视" group-title="台湾" tvg-id="456622" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%A4%A7%E7%AB%8B%E7%94%B5%E8%A7%86.png",大立电视
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-name="靖天电影台" group-title="台湾" tvg-id="456653" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%9D%96%E5%A4%A9%E7%94%B5%E5%BD%B1%E5%8F%B0.png",靖天电影台
 https://cdn.qd.je/163189/jtdy
