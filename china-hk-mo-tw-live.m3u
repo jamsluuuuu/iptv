@@ -354,8 +354,6 @@ http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 #EXTINF:-1 tvg-name="广州新闻" group-title="地方" tvg-id="539887" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%B9%BF%E5%B7%9E%E6%96%B0%E9%97%BB.png",广州新闻
 http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
-#EXTINF:-1 tvg-name="北京新闻" group-title="地方" tvg-id="539647" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB.png",北京新闻
-https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 #EXTINF:-1 tvg-name="南京新闻综合" group-title="地方" tvg-id="539745" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%8D%97%E4%BA%AC%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",南京新闻综合
 http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
 #EXTINF:-1 tvg-name="哈尔滨新闻综合" group-title="地方" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%93%88%E5%B0%94%E6%BB%A8%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",哈尔滨新闻综合
