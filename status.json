@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-14 20:21:47",
-  "total": 179,
+  "generated_at": "2026-11-15 06:06:00",
+  "total": 178,
   "counts": {
-    "ok": 163,
+    "ok": 172,
     "replaced": 1,
-    "dead": 4,
-    "unverified": 11
+    "dead": 0,
+    "unverified": 5
   },
-  "last_check": "2026-11-14 20:15:56",
+  "last_check": "2026-11-15 06:06:00",
   "last_search": "2026-11-14 07:57:19",
   "channels": [
     {
@@ -15,7 +15,7 @@
       "group": "CCTV",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 6482,
+      "open_ms": 4677,
       "note": "",
       "bad_days": 0
     },
@@ -24,7 +24,7 @@
       "group": "CCTV",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 7162,
+      "open_ms": 5045,
       "note": "",
       "bad_days": 0
     },
@@ -33,7 +33,7 @@
       "group": "CCTV",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 7601,
+      "open_ms": 4058,
       "note": "",
       "bad_days": 0
     },
@@ -42,7 +42,7 @@
       "group": "CCTV",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 6477,
+      "open_ms": 4487,
       "note": "",
       "bad_days": 0
     },
@@ -51,7 +51,7 @@
       "group": "CCTV",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 5080,
+      "open_ms": 3310,
       "note": "",
       "bad_days": 0
     },
@@ -59,9 +59,9 @@
       "name": "CCTV-5+ 体育赛事",
       "group": "CCTV",
       "status": "ok",
-      "resolution": "1920x1080",
-      "open_ms": 5301,
-      "note": "",
+      "resolution": null,
+      "open_ms": 3761,
+      "note": "直播单核验：播放列表在推进，分片被源站屏蔽、境外仅核到直播单，未抽帧",
       "bad_days": 0
     },
     {
@@ -69,7 +69,7 @@
       "group": "CCTV",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 6311,
+      "open_ms": 5447,
       "note": "",
       "bad_days": 0
     },
@@ -78,7 +78,7 @@
       "group": "CCTV",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 7421,
+      "open_ms": 4272,
       "note": "",
       "bad_days": 0
     },
@@ -87,7 +87,7 @@
       "group": "CCTV",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 4758,
+      "open_ms": 1769,
       "note": "",
       "bad_days": 0
     },
@@ -96,7 +96,7 @@
       "group": "CCTV",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 6681,
+      "open_ms": 4415,
       "note": "",
       "bad_days": 0
     },
@@ -105,7 +105,7 @@
       "group": "CCTV",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 7361,
+      "open_ms": 4052,
       "note": "",
       "bad_days": 0
     },
@@ -114,7 +114,7 @@
       "group": "CCTV",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 9483,
+      "open_ms": 4584,
       "note": "",
       "bad_days": 0
     },
@@ -123,7 +123,7 @@
       "group": "CCTV",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 6420,
+      "open_ms": 4075,
       "note": "",
       "bad_days": 0
     },
@@ -132,7 +132,7 @@
       "group": "CCTV",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 7316,
+      "open_ms": 4093,
       "note": "",
       "bad_days": 0
     },
@@ -141,7 +141,7 @@
       "group": "CCTV",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 7890,
+      "open_ms": 3984,
       "note": "",
       "bad_days": 0
     },
@@ -150,7 +150,7 @@
       "group": "CCTV",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 6440,
+      "open_ms": 4858,
       "note": "",
       "bad_days": 0
     },
@@ -159,7 +159,7 @@
       "group": "CCTV",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 5279,
+      "open_ms": 1975,
       "note": "",
       "bad_days": 0
     },
@@ -168,7 +168,7 @@
       "group": "CCTV",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 3468,
+      "open_ms": 3851,
       "note": "",
       "bad_days": 0
     },
@@ -177,7 +177,7 @@
       "group": "CCTV",
       "status": "ok",
       "resolution": "1280x720",
-      "open_ms": 4257,
+      "open_ms": 4363,
       "note": "",
       "bad_days": 0
     },
@@ -186,7 +186,7 @@
       "group": "CCTV",
       "status": "ok",
       "resolution": "1280x720",
-      "open_ms": 5938,
+      "open_ms": 4342,
       "note": "",
       "bad_days": 0
     },
@@ -195,7 +195,7 @@
       "group": "CCTV",
       "status": "ok",
       "resolution": "1280x720",
-      "open_ms": 7505,
+      "open_ms": 3641,
       "note": "",
       "bad_days": 0
     },
@@ -204,7 +204,7 @@
       "group": "CCTV",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 8423,
+      "open_ms": 4834,
       "note": "",
       "bad_days": 0
     },
@@ -213,7 +213,7 @@
       "group": "CCTV",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 6542,
+      "open_ms": 3343,
       "note": "",
       "bad_days": 0
     },
@@ -222,7 +222,7 @@
       "group": "CCTV",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 3994,
+      "open_ms": 2325,
       "note": "",
       "bad_days": 0
     },
@@ -231,17 +231,17 @@
       "group": "CCTV",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 2522,
+      "open_ms": 1844,
       "note": "",
       "bad_days": 0
     },
     {
       "name": "重温经典",
       "group": "CCTV",
-      "status": "unverified",
+      "status": "ok",
       "resolution": null,
-      "open_ms": 2854,
-      "note": "segment-http-error-page",
+      "open_ms": 1178,
+      "note": "直播单核验：播放列表在推进，分片被源站屏蔽、境外仅核到直播单，未抽帧",
       "bad_days": 0
     },
     {
@@ -249,7 +249,7 @@
       "group": "CCTV",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 1417,
+      "open_ms": 1090,
       "note": "",
       "bad_days": 0
     },
@@ -258,7 +258,7 @@
       "group": "CCTV",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 1600,
+      "open_ms": 1508,
       "note": "",
       "bad_days": 0
     },
@@ -267,7 +267,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 4191,
+      "open_ms": 2180,
       "note": "",
       "bad_days": 0
     },
@@ -276,7 +276,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "3840x2160",
-      "open_ms": 4404,
+      "open_ms": 4027,
       "note": "",
       "bad_days": 0
     },
@@ -285,7 +285,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 5155,
+      "open_ms": 2904,
       "note": "",
       "bad_days": 0
     },
@@ -294,7 +294,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 4071,
+      "open_ms": 2747,
       "note": "",
       "bad_days": 0
     },
@@ -303,7 +303,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 4642,
+      "open_ms": 1901,
       "note": "",
       "bad_days": 0
     },
@@ -312,7 +312,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 3050,
+      "open_ms": 1513,
       "note": "",
       "bad_days": 0
     },
@@ -321,7 +321,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 2356,
+      "open_ms": 2843,
       "note": "",
       "bad_days": 0
     },
@@ -330,7 +330,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 3777,
+      "open_ms": 2605,
       "note": "",
       "bad_days": 0
     },
@@ -339,7 +339,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 3895,
+      "open_ms": 1663,
       "note": "",
       "bad_days": 0
     },
@@ -348,7 +348,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 5508,
+      "open_ms": 1735,
       "note": "",
       "bad_days": 0
     },
@@ -357,7 +357,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 5023,
+      "open_ms": 2682,
       "note": "",
       "bad_days": 0
     },
@@ -366,7 +366,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 5301,
+      "open_ms": 3044,
       "note": "",
       "bad_days": 0
     },
@@ -375,7 +375,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 5332,
+      "open_ms": 3995,
       "note": "",
       "bad_days": 0
     },
@@ -384,7 +384,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 3891,
+      "open_ms": 4182,
       "note": "",
       "bad_days": 0
     },
@@ -393,7 +393,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 7119,
+      "open_ms": 2681,
       "note": "",
       "bad_days": 0
     },
@@ -402,7 +402,7 @@
       "group": "卫视",
       "status": "replaced",
       "resolution": "1920x1080",
-      "open_ms": 6241,
+      "open_ms": 1969,
       "note": "",
       "bad_days": 0
     },
@@ -411,7 +411,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 5634,
+      "open_ms": 2386,
       "note": "",
       "bad_days": 0
     },
@@ -420,7 +420,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 6435,
+      "open_ms": 2609,
       "note": "",
       "bad_days": 0
     },
@@ -429,7 +429,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 4732,
+      "open_ms": 4242,
       "note": "",
       "bad_days": 0
     },
@@ -438,7 +438,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 8179,
+      "open_ms": 4007,
       "note": "",
       "bad_days": 0
     },
@@ -447,7 +447,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 7247,
+      "open_ms": 3366,
       "note": "",
       "bad_days": 0
     },
@@ -456,17 +456,17 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 7440,
+      "open_ms": 2912,
       "note": "",
       "bad_days": 0
     },
     {
       "name": "甘肃卫视",
       "group": "卫视",
-      "status": "ok",
-      "resolution": "1920x1080",
-      "open_ms": 1668,
-      "note": "",
+      "status": "unverified",
+      "resolution": null,
+      "open_ms": null,
+      "note": "segment-too-small(439)",
       "bad_days": 0
     },
     {
@@ -474,7 +474,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 6180,
+      "open_ms": 2256,
       "note": "",
       "bad_days": 0
     },
@@ -483,7 +483,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 5979,
+      "open_ms": 2714,
       "note": "",
       "bad_days": 0
     },
@@ -492,7 +492,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 4082,
+      "open_ms": 3311,
       "note": "",
       "bad_days": 0
     },
@@ -501,7 +501,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 4476,
+      "open_ms": 4473,
       "note": "",
       "bad_days": 0
     },
@@ -510,7 +510,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 6724,
+      "open_ms": 3875,
       "note": "",
       "bad_days": 0
     },
@@ -519,7 +519,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 5804,
+      "open_ms": 3449,
       "note": "",
       "bad_days": 0
     },
@@ -528,7 +528,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 8931,
+      "open_ms": 4719,
       "note": "",
       "bad_days": 0
     },
@@ -546,7 +546,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 3282,
+      "open_ms": 2926,
       "note": "",
       "bad_days": 0
     },
@@ -555,7 +555,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 5245,
+      "open_ms": 1211,
       "note": "",
       "bad_days": 0
     },
@@ -564,7 +564,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 4473,
+      "open_ms": 3503,
       "note": "",
       "bad_days": 0
     },
@@ -573,7 +573,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": null,
-      "open_ms": 4185,
+      "open_ms": 4249,
       "note": "直播单核验：播放列表在推进，分片被源站屏蔽、境外仅核到直播单，未抽帧",
       "bad_days": 0
     },
@@ -582,7 +582,7 @@
       "group": "卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 6403,
+      "open_ms": 5033,
       "note": "",
       "bad_days": 0
     },
@@ -591,7 +591,7 @@
       "group": "河北",
       "status": "ok",
       "resolution": null,
-      "open_ms": 9719,
+      "open_ms": 6424,
       "note": "直播单核验：播放列表在推进，分片被源站屏蔽、境外仅核到直播单，未抽帧",
       "bad_days": 0
     },
@@ -600,7 +600,7 @@
       "group": "河北",
       "status": "ok",
       "resolution": null,
-      "open_ms": 9042,
+      "open_ms": 4971,
       "note": "直播单核验：播放列表在推进，分片被源站屏蔽、境外仅核到直播单，未抽帧",
       "bad_days": 0
     },
@@ -609,7 +609,7 @@
       "group": "河北",
       "status": "ok",
       "resolution": null,
-      "open_ms": 8093,
+      "open_ms": 4904,
       "note": "直播单核验：播放列表在推进，分片被源站屏蔽、境外仅核到直播单，未抽帧",
       "bad_days": 0
     },
@@ -618,7 +618,7 @@
       "group": "河北",
       "status": "ok",
       "resolution": null,
-      "open_ms": 8462,
+      "open_ms": 5165,
       "note": "直播单核验：播放列表在推进，分片被源站屏蔽、境外仅核到直播单，未抽帧",
       "bad_days": 0
     },
@@ -627,7 +627,7 @@
       "group": "河北",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 5601,
+      "open_ms": 6005,
       "note": "",
       "bad_days": 0
     },
@@ -636,7 +636,7 @@
       "group": "河北",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 6654,
+      "open_ms": 5754,
       "note": "",
       "bad_days": 0
     },
@@ -645,7 +645,7 @@
       "group": "河北",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 7069,
+      "open_ms": 3652,
       "note": "",
       "bad_days": 0
     },
@@ -654,7 +654,7 @@
       "group": "河北",
       "status": "ok",
       "resolution": "1280x720",
-      "open_ms": 6555,
+      "open_ms": 3382,
       "note": "",
       "bad_days": 0
     },
@@ -663,7 +663,7 @@
       "group": "河北",
       "status": "ok",
       "resolution": "1280x720",
-      "open_ms": 7335,
+      "open_ms": 4082,
       "note": "",
       "bad_days": 0
     },
@@ -672,7 +672,7 @@
       "group": "河北",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 6929,
+      "open_ms": 2845,
       "note": "",
       "bad_days": 0
     },
@@ -681,7 +681,7 @@
       "group": "河北",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 3333,
+      "open_ms": 2190,
       "note": "",
       "bad_days": 0
     },
@@ -690,7 +690,7 @@
       "group": "河北",
       "status": "ok",
       "resolution": "1280x720",
-      "open_ms": 5440,
+      "open_ms": 3567,
       "note": "",
       "bad_days": 0
     },
@@ -699,7 +699,7 @@
       "group": "河北",
       "status": "ok",
       "resolution": "1280x720",
-      "open_ms": 7969,
+      "open_ms": 3960,
       "note": "",
       "bad_days": 0
     },
@@ -708,7 +708,7 @@
       "group": "河北",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 7320,
+      "open_ms": 4399,
       "note": "",
       "bad_days": 0
     },
@@ -717,7 +717,7 @@
       "group": "河北",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 6444,
+      "open_ms": 2975,
       "note": "",
       "bad_days": 0
     },
@@ -726,7 +726,7 @@
       "group": "河北",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 5075,
+      "open_ms": 3010,
       "note": "",
       "bad_days": 0
     },
@@ -753,7 +753,7 @@
       "group": "台湾",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 2973,
+      "open_ms": 1569,
       "note": "",
       "bad_days": 0
     },
@@ -778,11 +778,11 @@
     {
       "name": "华视教育体育文化",
       "group": "台湾",
-      "status": "dead",
+      "status": "ok",
       "resolution": "1280x720",
       "open_ms": null,
-      "note": "frozen-loop",
-      "bad_days": 1
+      "note": "",
+      "bad_days": 0
     },
     {
       "name": "华视新闻资讯",
@@ -861,7 +861,7 @@
       "group": "台湾",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 883,
+      "open_ms": 633,
       "note": "",
       "bad_days": 0
     },
@@ -870,7 +870,7 @@
       "group": "台湾",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 2881,
+      "open_ms": 1352,
       "note": "",
       "bad_days": 0
     },
@@ -879,7 +879,7 @@
       "group": "台湾",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 2687,
+      "open_ms": 1783,
       "note": "",
       "bad_days": 0
     },
@@ -888,7 +888,7 @@
       "group": "台湾",
       "status": "ok",
       "resolution": "1280x720",
-      "open_ms": 3837,
+      "open_ms": 2047,
       "note": "",
       "bad_days": 0
     },
@@ -897,7 +897,7 @@
       "group": "台湾",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 4842,
+      "open_ms": 3048,
       "note": "",
       "bad_days": 0
     },
@@ -906,7 +906,7 @@
       "group": "台湾",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 5393,
+      "open_ms": 2688,
       "note": "",
       "bad_days": 0
     },
@@ -915,7 +915,7 @@
       "group": "台湾",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 5249,
+      "open_ms": 2455,
       "note": "",
       "bad_days": 0
     },
@@ -924,7 +924,7 @@
       "group": "台湾",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 4430,
+      "open_ms": 3921,
       "note": "",
       "bad_days": 0
     },
@@ -936,15 +936,6 @@
       "open_ms": null,
       "note": "",
       "bad_days": 0
-    },
-    {
-      "name": "纬来精采",
-      "group": "台湾",
-      "status": "dead",
-      "resolution": "1280x720",
-      "open_ms": 1703,
-      "note": "frozen-loop",
-      "bad_days": 2
     },
     {
       "name": "纬来日本",
@@ -967,20 +958,20 @@
     {
       "name": "公视台语",
       "group": "台湾",
-      "status": "dead",
+      "status": "ok",
       "resolution": "1280x720",
       "open_ms": null,
-      "note": "frozen-loop",
-      "bad_days": 1
+      "note": "",
+      "bad_days": 0
     },
     {
       "name": "小公视",
       "group": "台湾",
-      "status": "dead",
+      "status": "ok",
       "resolution": "1280x720",
       "open_ms": null,
-      "note": "frozen-loop",
-      "bad_days": 1
+      "note": "",
+      "bad_days": 0
     },
     {
       "name": "客家电视台",
@@ -1059,7 +1050,7 @@
       "group": "台湾",
       "status": "ok",
       "resolution": "1280x720",
-      "open_ms": 1072,
+      "open_ms": 1631,
       "note": "",
       "bad_days": 0
     },
@@ -1068,7 +1059,7 @@
       "group": "台湾",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 1375,
+      "open_ms": 1582,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1077,7 +1068,7 @@
       "group": "台湾",
       "status": "ok",
       "resolution": "720x540",
-      "open_ms": 2968,
+      "open_ms": 1584,
       "note": "",
       "bad_days": 0
     },
@@ -1086,7 +1077,7 @@
       "group": "台湾",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 2944,
+      "open_ms": 2541,
       "note": "",
       "bad_days": 0
     },
@@ -1149,7 +1140,7 @@
       "group": "台湾",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 838,
+      "open_ms": 666,
       "note": "",
       "bad_days": 0
     },
@@ -1167,7 +1158,7 @@
       "group": "台湾",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 907,
+      "open_ms": 821,
       "note": "",
       "bad_days": 0
     },
@@ -1185,7 +1176,7 @@
       "group": "台湾",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 1311,
+      "open_ms": 2072,
       "note": "",
       "bad_days": 0
     },
@@ -1194,7 +1185,7 @@
       "group": "台湾",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 1731,
+      "open_ms": 864,
       "note": "",
       "bad_days": 0
     },
@@ -1257,7 +1248,7 @@
       "group": "港澳",
       "status": "ok",
       "resolution": "1280x720",
-      "open_ms": 4314,
+      "open_ms": 3167,
       "note": "",
       "bad_days": 0
     },
@@ -1266,7 +1257,7 @@
       "group": "港澳",
       "status": "ok",
       "resolution": "3840x2160",
-      "open_ms": 3758,
+      "open_ms": 1485,
       "note": "",
       "bad_days": 0
     },
@@ -1275,7 +1266,7 @@
       "group": "港澳",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 2849,
+      "open_ms": 1132,
       "note": "",
       "bad_days": 0
     },
@@ -1284,7 +1275,7 @@
       "group": "港澳",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 7780,
+      "open_ms": 4714,
       "note": "",
       "bad_days": 0
     },
@@ -1293,7 +1284,7 @@
       "group": "港澳",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 6666,
+      "open_ms": 3701,
       "note": "",
       "bad_days": 0
     },
@@ -1302,7 +1293,7 @@
       "group": "港澳",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 6728,
+      "open_ms": 3525,
       "note": "",
       "bad_days": 0
     },
@@ -1320,26 +1311,26 @@
       "group": "港澳",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 8828,
+      "open_ms": 3959,
       "note": "",
       "bad_days": 0
     },
     {
       "name": "明珠",
       "group": "港澳",
-      "status": "unverified",
-      "resolution": null,
-      "open_ms": null,
-      "note": "segment-too-small(683)",
+      "status": "ok",
+      "resolution": "1920x1080",
+      "open_ms": 7861,
+      "note": "",
       "bad_days": 0
     },
     {
       "name": "澳视澳门",
       "group": "港澳",
-      "status": "unverified",
-      "resolution": null,
-      "open_ms": null,
-      "note": "segment-too-small(74)",
+      "status": "ok",
+      "resolution": "1920x1080",
+      "open_ms": 6856,
+      "note": "",
       "bad_days": 0
     },
     {
@@ -1347,7 +1338,7 @@
       "group": "港澳",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 7678,
+      "open_ms": 6440,
       "note": "",
       "bad_days": 0
     },
@@ -1365,7 +1356,7 @@
       "group": "港澳",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 9701,
+      "open_ms": 7067,
       "note": "",
       "bad_days": 0
     },
@@ -1383,7 +1374,7 @@
       "group": "海外",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 6330,
+      "open_ms": 6219,
       "note": "",
       "bad_days": 0
     },
@@ -1392,7 +1383,7 @@
       "group": "海外",
       "status": "ok",
       "resolution": "1280x720",
-      "open_ms": 7402,
+      "open_ms": 5233,
       "note": "",
       "bad_days": 0
     },
@@ -1401,7 +1392,7 @@
       "group": "海外",
       "status": "ok",
       "resolution": "960x540",
-      "open_ms": 6735,
+      "open_ms": 4068,
       "note": "",
       "bad_days": 0
     },
@@ -1410,7 +1401,7 @@
       "group": "海外",
       "status": "ok",
       "resolution": "1280x720",
-      "open_ms": 8240,
+      "open_ms": 6880,
       "note": "",
       "bad_days": 0
     },
@@ -1419,7 +1410,7 @@
       "group": "海外",
       "status": "ok",
       "resolution": "960x540",
-      "open_ms": 7812,
+      "open_ms": 3769,
       "note": "",
       "bad_days": 0
     },
@@ -1428,7 +1419,7 @@
       "group": "海外",
       "status": "ok",
       "resolution": "960x540",
-      "open_ms": 6675,
+      "open_ms": 3728,
       "note": "",
       "bad_days": 0
     },
@@ -1437,7 +1428,7 @@
       "group": "海外",
       "status": "ok",
       "resolution": "960x540",
-      "open_ms": 7123,
+      "open_ms": 3816,
       "note": "",
       "bad_days": 0
     },
@@ -1446,7 +1437,7 @@
       "group": "海外",
       "status": "ok",
       "resolution": "960x540",
-      "open_ms": 6749,
+      "open_ms": 4234,
       "note": "",
       "bad_days": 0
     },
@@ -1455,7 +1446,7 @@
       "group": "海外",
       "status": "ok",
       "resolution": "960x540",
-      "open_ms": 6355,
+      "open_ms": 3884,
       "note": "",
       "bad_days": 0
     },
@@ -1464,26 +1455,26 @@
       "group": "海外",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 7806,
+      "open_ms": 5247,
       "note": "",
       "bad_days": 0
     },
     {
       "name": "日本-日视NEWS",
       "group": "海外",
-      "status": "unverified",
-      "resolution": null,
-      "open_ms": null,
-      "note": "segment-too-small(2636)",
+      "status": "ok",
+      "resolution": "1920x1080",
+      "open_ms": 9024,
+      "note": "",
       "bad_days": 0
     },
     {
       "name": "日本-FNN",
       "group": "海外",
-      "status": "unverified",
-      "resolution": null,
-      "open_ms": null,
-      "note": "segment-bad-content",
+      "status": "ok",
+      "resolution": "1920x1080",
+      "open_ms": 8680,
+      "note": "",
       "bad_days": 0
     },
     {
@@ -1491,17 +1482,17 @@
       "group": "海外",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 7206,
+      "open_ms": 8983,
       "note": "",
       "bad_days": 0
     },
     {
       "name": "韩国-Arirang TV",
       "group": "海外",
-      "status": "unverified",
-      "resolution": null,
-      "open_ms": null,
-      "note": "segment-too-small(339)",
+      "status": "ok",
+      "resolution": "1920x1080",
+      "open_ms": 5991,
+      "note": "",
       "bad_days": 0
     },
     {
@@ -1509,17 +1500,17 @@
       "group": "海外",
       "status": "ok",
       "resolution": "640x360",
-      "open_ms": 3322,
+      "open_ms": 3125,
       "note": "",
       "bad_days": 0
     },
     {
       "name": "Pet Club TV",
       "group": "海外",
-      "status": "unverified",
-      "resolution": null,
-      "open_ms": null,
-      "note": "segment-too-small(5448)",
+      "status": "ok",
+      "resolution": "1920x1080",
+      "open_ms": 9091,
+      "note": "",
       "bad_days": 0
     },
     {
@@ -1527,7 +1518,7 @@
       "group": "海外",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 6491,
+      "open_ms": 4393,
       "note": "",
       "bad_days": 0
     },
@@ -1536,7 +1527,7 @@
       "group": "海外",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 8434,
+      "open_ms": 3819,
       "note": "",
       "bad_days": 0
     },
@@ -1545,7 +1536,7 @@
       "group": "海外",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 1714,
+      "open_ms": 1888,
       "note": "",
       "bad_days": 0
     },
@@ -1554,7 +1545,7 @@
       "group": "地方",
       "status": "ok",
       "resolution": "1280x720",
-      "open_ms": 2814,
+      "open_ms": 2094,
       "note": "",
       "bad_days": 0
     },
@@ -1563,7 +1554,7 @@
       "group": "地方",
       "status": "ok",
       "resolution": "1280x720",
-      "open_ms": 2462,
+      "open_ms": 1592,
       "note": "",
       "bad_days": 0
     },
@@ -1572,7 +1563,7 @@
       "group": "地方",
       "status": "ok",
       "resolution": "1280x720",
-      "open_ms": 1951,
+      "open_ms": 2114,
       "note": "",
       "bad_days": 0
     },
@@ -1581,7 +1572,7 @@
       "group": "地方",
       "status": "ok",
       "resolution": "640x480",
-      "open_ms": 3058,
+      "open_ms": 1724,
       "note": "",
       "bad_days": 0
     },
@@ -1590,7 +1581,7 @@
       "group": "地方",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 5905,
+      "open_ms": 3909,
       "note": "",
       "bad_days": 0
     },
@@ -1599,7 +1590,7 @@
       "group": "地方",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 4001,
+      "open_ms": 4841,
       "note": "",
       "bad_days": 0
     },
@@ -1608,7 +1599,7 @@
       "group": "地方",
       "status": "ok",
       "resolution": "1280x720",
-      "open_ms": 5961,
+      "open_ms": 4046,
       "note": "",
       "bad_days": 0
     },
@@ -1617,7 +1608,7 @@
       "group": "地方",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 1931,
+      "open_ms": 1422,
       "note": "",
       "bad_days": 0
     }
@@ -1819,17 +1810,7 @@
       "open_ms": 1235
     }
   ],
-  "deletion_requests": [
-    {
-      "name": "纬来精采",
-      "group": "台湾",
-      "since": "2026-11-14",
-      "bad_days": 2,
-      "reason": "frozen-loop",
-      "status": "pending",
-      "note": "连续两天看不了且无核验通过的替代源，请 Lu 决定是否删除"
-    }
-  ],
+  "deletion_requests": [],
   "candidates": [],
   "notes": [
     "状态说明：正常=抽帧核验通过，或直播单在推进（分片被源站屏蔽、境外仅核到直播单，见备注，未抽帧）；已替换=本次或近期换过源；看不了=抽帧证实失效（VOD循环/冻结/静帧/404）；未核实=探针被拦截或超时等原因未能判定，绝不等于已死。"
