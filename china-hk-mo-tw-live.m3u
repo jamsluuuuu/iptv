@@ -170,7 +170,7 @@ http://45.192.97.170:8880/play/495.m3u8
 #EXTINF:-1 tvg-name="南国都市4K" group-title="卫视" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%8D%97%E5%9B%BD%E9%83%BD%E5%B8%824K.png",南国都市4K
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1 tvg-name="香港-亚洲武侠" group-title="港澳新马" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%BA%9A%E6%B4%B2%E6%AD%A6%E4%BE%A0.png",香港-亚洲武侠
-http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+https://cdn6.cc.cd/163189/yzwx
 #EXTINF:-1 tvg-name="香港-翡翠台" group-title="港澳新马" tvg-id="368366" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",香港-翡翠台
 http://r.jdshipin.com/n90gt
 #EXTINF:-1 tvg-name="香港-无线新闻台" group-title="港澳新马" tvg-id="368359" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png",香港-无线新闻台
