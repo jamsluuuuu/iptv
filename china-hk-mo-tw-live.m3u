@@ -375,24 +375,24 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-name="日本-NHK综合" group-title="海外综合" tvg-id="10758" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%97%A5%E6%9C%AC-NHK%E7%BB%BC%E5%90%88.png",日本-NHK综合
 #EXTVLCOPT:http-referrer=https://mov3.co/
-https://nhk4.mov3.co/hls/nhk.m3u8
+https://nhk4.mov3.co/hls/nhk.m3u8|Referer=https://mov3.co/
 #EXTINF:-1 tvg-name="日本-Weathernews" group-title="海外综合" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%97%A5%E6%9C%AC-Weathernews.png",日本-Weathernews
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 #EXTINF:-1 tvg-name="日本-TBS电视台" group-title="海外综合" tvg-id="10693" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%97%A5%E6%9C%AC-TBS%E7%94%B5%E8%A7%86%E5%8F%B0.png",日本-TBS电视台
 #EXTVLCOPT:http-referrer=https://mov3.co/
-https://tbs5.mov3.co/hls/tbs.m3u8
+https://tbs5.mov3.co/hls/tbs.m3u8|Referer=https://mov3.co/
 #EXTINF:-1 tvg-name="日本-日本电视台" group-title="海外综合" tvg-id="10752" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%97%A5%E6%9C%AC-%E6%97%A5%E6%9C%AC%E7%94%B5%E8%A7%86%E5%8F%B0.png",日本-日本电视台
 #EXTVLCOPT:http-referrer=https://mov3.co/
-https://ntv5.mov3.co/hls/ntv.m3u8
+https://ntv5.mov3.co/hls/ntv.m3u8|Referer=https://mov3.co/
 #EXTINF:-1 tvg-name="日本-朝日电视台" group-title="海外综合" tvg-id="10805" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%97%A5%E6%9C%AC-%E6%9C%9D%E6%97%A5%E7%94%B5%E8%A7%86%E5%8F%B0.png",日本-朝日电视台
 #EXTVLCOPT:http-referrer=https://mov3.co/
-https://tvasahi.mov3.co/hls/tvasahi.m3u8
+https://tvasahi.mov3.co/hls/tvasahi.m3u8|Referer=https://mov3.co/
 #EXTINF:-1 tvg-name="日本-东京电视台" group-title="海外综合" tvg-id="10736" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%97%A5%E6%9C%AC-%E4%B8%9C%E4%BA%AC%E7%94%B5%E8%A7%86%E5%8F%B0.png",日本-东京电视台
 #EXTVLCOPT:http-referrer=https://mov3.co/
-https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
+https://tvtokyo.mov3.co/hls/tvtokyo.m3u8|Referer=https://mov3.co/
 #EXTINF:-1 tvg-name="日本-富士电视台" group-title="海外综合" tvg-id="10816" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%97%A5%E6%9C%AC-%E5%AF%8C%E5%A3%AB%E7%94%B5%E8%A7%86%E5%8F%B0.png",日本-富士电视台
 #EXTVLCOPT:http-referrer=https://mov3.co/
-https://fujitv4.mov3.co/hls/fujitv.m3u8
+https://fujitv4.mov3.co/hls/fujitv.m3u8|Referer=https://mov3.co/
 #EXTINF:-1 tvg-name="日本-购物频道" group-title="海外综合" tvg-id="10724" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%97%A5%E6%9C%AC-%E8%B4%AD%E7%89%A9%E9%A2%91%E9%81%93.png",日本-购物频道
 https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 tvg-name="日本-日视NEWS" group-title="海外综合" tvg-id="10807" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%97%A5%E6%9C%AC-%E6%97%A5%E8%A7%86NEWS.png",日本-日视NEWS
