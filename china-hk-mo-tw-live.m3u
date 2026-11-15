@@ -247,8 +247,6 @@ https://cdn.qd.je/163189/lhxj
 https://cdn.qd.je/163189/lhyp
 #EXTINF:-1 tvg-name="纬来电影" group-title="台湾" tvg-id="456565" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E7%BA%AC%E6%9D%A5%E7%94%B5%E5%BD%B1.png",纬来电影
 http://125.227.210.55:1082/VideoInput/play.ts
-#EXTINF:-1 tvg-name="纬来精采" group-title="台湾" tvg-id="457301" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E7%BA%AC%E6%9D%A5%E7%B2%BE%E9%87%87.png",纬来精采
-http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 tvg-name="纬来日本" group-title="台湾" tvg-id="456579" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E7%BA%AC%E6%9D%A5%E6%97%A5%E6%9C%AC.png",纬来日本
 http://125.227.210.55:1083/VideoInput/play.ts
 #EXTINF:-1 tvg-name="公视" group-title="台湾" tvg-id="457215" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%85%AC%E8%A7%86.png",公视
