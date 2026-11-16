@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-16 06:08:17",
-  "total": 236,
+  "generated_at": "2026-11-16 08:51:38",
+  "total": 235,
   "counts": {
     "ok": 228,
     "replaced": 1,
     "dead": 1,
-    "unverified": 6
+    "unverified": 5
   },
   "last_check": "2026-11-16 06:08:10",
-  "last_search": "2026-11-14 07:57:19",
+  "last_search": "2026-11-16 07:57:22",
   "channels": [
     {
       "name": "CCTV-1 综合",
@@ -494,15 +494,6 @@
       "resolution": "1920x1080",
       "open_ms": 3967,
       "note": "",
-      "bad_days": 0
-    },
-    {
-      "name": "新疆卫视",
-      "group": "省级卫视",
-      "status": "unverified",
-      "resolution": null,
-      "open_ms": 2714,
-      "note": "http-403",
       "bad_days": 0
     },
     {
@@ -2137,104 +2128,6 @@
   ],
   "replacements": [
     {
-      "name": "广州综合",
-      "old_url": "https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488",
-      "new_url": "http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8",
-      "at": "2026-11-14 01:45:24",
-      "reason": "search-new: 更快 2613ms -> 904ms",
-      "source": "zilong7728",
-      "resolution": "1280x720",
-      "open_ms": 904
-    },
-    {
-      "name": "翡翠台",
-      "old_url": "http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3",
-      "new_url": "http://r.jdshipin.com/GeWKr",
-      "at": "2026-11-14 01:45:24",
-      "reason": "search-new: 更快 4938ms -> 1288ms",
-      "source": "zilong7728",
-      "resolution": "1920x1080",
-      "open_ms": 1288
-    },
-    {
-      "name": "TVB 星河",
-      "old_url": "https://cdn.qd.je/163189/xinghe",
-      "new_url": "http://r.jdshipin.com/Voac4",
-      "at": "2026-11-14 01:45:24",
-      "reason": "search-new: 更快 2798ms -> 905ms",
-      "source": "zilong7728",
-      "resolution": "1920x1080",
-      "open_ms": 905
-    },
-    {
-      "name": "明珠",
-      "old_url": "http://php.jdshipin.com/TVOD/iptv.php?id=mzt2",
-      "new_url": "http://r.jdshipin.com/ZQ4kN",
-      "at": "2026-11-14 01:45:24",
-      "reason": "search-new: 更快 6966ms -> 1497ms",
-      "source": "zilong7728",
-      "resolution": "1920x1080",
-      "open_ms": 1497
-    },
-    {
-      "name": "凤凰资讯",
-      "old_url": "http://r.jdshipin.com/0Rp07",
-      "new_url": "http://php.jdshipin.com/TVOD/iptv.php?id=fhzx",
-      "at": "2026-11-14 01:45:24",
-      "reason": "search-new: 更快 4509ms -> 2192ms",
-      "source": "zilong7728",
-      "resolution": "1920x1080",
-      "open_ms": 2192
-    },
-    {
-      "name": "凤凰资讯台",
-      "old_url": "http://php.jdshipin.com/TVOD/iptv.php?id=fhzx",
-      "new_url": "http://r.jdshipin.com/0Rp07",
-      "at": "2026-11-14 01:45:24",
-      "reason": "search-new: 更快 7931ms -> 1796ms",
-      "source": "zilong7728",
-      "resolution": "1920x1080",
-      "open_ms": 1796
-    },
-    {
-      "name": "台视",
-      "old_url": "http://211.72.174.95:8112/0.ts",
-      "new_url": "http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8",
-      "at": "2026-11-14 01:45:24",
-      "reason": "search-new: 更清 1280x720 -> 1920x1080",
-      "source": "zilong7728",
-      "resolution": "1920x1080",
-      "open_ms": 309
-    },
-    {
-      "name": "TVBS",
-      "old_url": "http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8",
-      "new_url": "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8",
-      "at": "2026-11-14 01:45:24",
-      "reason": "search-new: 更快 868ms -> 181ms",
-      "source": "iptv-org-tw",
-      "resolution": "1920x1080",
-      "open_ms": 181
-    },
-    {
-      "name": "新加坡-CNA",
-      "old_url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
-      "new_url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
-      "at": "2026-11-14 01:45:24",
-      "reason": "search-new: 更快 1269ms -> 831ms",
-      "source": "zilong7728",
-      "resolution": "1920x1080",
-      "open_ms": 831
-    },
-    {
-      "name": "台视",
-      "new_url": "http://211.72.174.95:8112/0.ts",
-      "at": "2026-11-14 02:26",
-      "reason": "manual revert: 搜源错配台视新闻源（modn 4013），还原原源",
-      "resolution": "1280x720",
-      "open_ms": null
-    },
-    {
       "name": "西藏卫视",
       "new_url": "http://107.150.60.122/live/xzws.m3u8",
       "at": "2026-11-14 02:30",
@@ -2330,6 +2223,106 @@
       "source": "zilong7728",
       "resolution": "1920x1080",
       "open_ms": 1235
+    },
+    {
+      "name": "CCTV-4 中文国际",
+      "old_url": "https://outlivecloud-cdn.ysp.cctv.cn/D4B37C106F31E15613C0F20369FA59A926561B7C00C3E8C5C10C45649A4BC5671A912538CC5109E5DB6744C050FA1E252BD6E76DA9C36E36E876CD64B608068DD832245D4C0539C5AD44EAB71DC7A4F0783647A8F05577AE5B2C4A74A70A8EA20E7FD1D5D8DC6C2914C6CBC45496DABA87526536A8AD072D85D915F541558B7C4F3BC12C5101E926A11BEBB04D24D059B9B9C616E5EA6F1DA3E5ADB29675E533/2029797103.m3u8?from=player&svrtime=1794814107&pid=600001814&cdn=5401",
+      "new_url": "https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1794852000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-e608f5d8ba82f332bed3d6ae1e4017f8&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c",
+      "at": "2026-11-16 07:57:22",
+      "reason": "search-new: 更快 3573ms -> 2261ms",
+      "source": "zilong7728",
+      "resolution": "1920x1080",
+      "open_ms": 2261
+    },
+    {
+      "name": "CCTV-5 体育",
+      "old_url": "http://113.90.154.189:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "new_url": "http://gmxw.7766.org:808/hls/93/index.m3u8",
+      "at": "2026-11-16 07:57:22",
+      "reason": "search-new: 更快 3074ms -> 1324ms",
+      "source": "zilong7728",
+      "resolution": "1920x1080",
+      "open_ms": 1324
+    },
+    {
+      "name": "CCTV-12 社会与法",
+      "old_url": "https://outlivecloud-cdn.ysp.cctv.cn/ACBD759BE2B1FE6657FD9D1D6583B8B203799E3F29BBD3A63FA22AAFA4F4307DAE587A721CEF00BEC9A3F11319E9B4AEE0A2B2062CCF88DA4E2A0E9C6365F58531F9543D60EA668F565AA9BE174BA90AA9EBCFAE762DD78CF54205B3D0C5895733DC486D7AFE0E6C67F05CE08EF813A505338F3A3D43FF4B0E4BCC5EE2CF7AD7C2A4404C47947A971BD9F035F805B9B7F76F6552FA7C9B9AB212BE60AFF97D17/2027248803_dlna.m3u8?from=player&svrtime=1794814161&pid=600001807&cdn=5401",
+      "new_url": "http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "at": "2026-11-16 07:57:22",
+      "reason": "search-new: 更快 4209ms -> 1881ms",
+      "source": "zilong7728",
+      "resolution": "1920x1080",
+      "open_ms": 1881
+    },
+    {
+      "name": "东方卫视",
+      "old_url": "https://outlivecloud-cdn.ysp.cctv.cn/AD0AF0CC44A66439864DFC85AE3DF7DBAF73F05F1886E523CBD5059758FC0D5E232FE41CF25AB2C2EF73B816ECEF50950308467738E5805678742F513A370B42E25018C1BD0EA5033B81F57814BEB763FFB0F69775DFA1656DD432BE82326524814B220B1EA2114B8CF5284008FEE688EFD844D0DB4BA6C06AE431F4569D240848D62FC1C4294B4A6CBA9DFF6E9DA384A5C6463FC2386B350C4077429CD2427C/2024054503.m3u8?from=player&svrtime=1794814238&pid=600002483&cdn=5401",
+      "new_url": "http://bp-resource-dfl.bestv.cn/155/3/video.m3u8",
+      "at": "2026-11-16 07:57:22",
+      "reason": "search-new: 更快 2337ms -> 1362ms",
+      "source": "zilong7728",
+      "resolution": "1920x1080",
+      "open_ms": 1362
+    },
+    {
+      "name": "山西卫视",
+      "old_url": "https://outlivecloud-cdn.ysp.cctv.cn/D42B381C63D533075A1B1FE130340ADE5874F94C4EC35DB314733C3CDC164EFB3631473469E85D4B1A62BD1D0F39311E9FD72AC25D565CA2D9FF62EC77CF00BD466EA8E1FAC9E8E02796E2EC95661FCDA807C73F3FC4C2ECD14506AE179F32A441B644748E9C90DA535424134A632276D3F0EF5A86D5E6470746D83F592A1C253AB9ACD5D26FF50CF0F61A99B45EF74E6A6E5D340D687B2E6257218CF798CCFF/2025560803.m3u8?from=player&svrtime=1794814417&pid=600190407&cdn=5401",
+      "new_url": "http://119.39.9.8:9901/tsfile/live/0118_1.m3u8",
+      "at": "2026-11-16 07:57:22",
+      "reason": "search-new: 更快 2126ms -> 814ms",
+      "source": "zilong7728",
+      "resolution": "1920x1080",
+      "open_ms": 814
+    },
+    {
+      "name": "江西卫视",
+      "old_url": "https://outlivecloud-cdn.ysp.cctv.cn/27A66C8AE11C550D8F76F48499545140A9D63327C790A76C633FDB40CF4D5C542E03E2EBE6D192FF808F56D35043546C0F43B3C1783FB190255D5F9CC0548BA01C79D08D2B4F88513A7D52FAD479A21B8BEE6B1CF8993F91C740D63144EB48612CD5ECA6F8D862A5946A69F85AE40E3F163BC638A1EB1D5A3A65BB2C9515E03929FE3389C4EF07F51A335564DDA7EE4BFA7926A1138411AC607E2B6C4F570DE8/2024061703.m3u8?from=player&svrtime=1794814340&pid=600002503&cdn=5401",
+      "new_url": "http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "at": "2026-11-16 07:57:22",
+      "reason": "search-new: 更快 3850ms -> 2094ms",
+      "source": "zilong7728",
+      "resolution": "1920x1080",
+      "open_ms": 2094
+    },
+    {
+      "name": "香港-ViuTV",
+      "old_url": "http://php.jdshipin.com/TVOD/iptv.php?id=viutv",
+      "new_url": "http://r.jdshipin.com/TcKr2",
+      "at": "2026-11-16 07:57:22",
+      "reason": "search-new: 更快 4989ms -> 2935ms",
+      "source": "zilong7728",
+      "resolution": "1920x1080",
+      "open_ms": 2935
+    },
+    {
+      "name": "香港-TVB Plus",
+      "old_url": "https://cdn3.indevs.in/stream/tvb/tvbp/",
+      "new_url": "http://r.jdshipin.com/Nr5jq",
+      "at": "2026-11-16 07:57:22",
+      "reason": "search-new: 更快 3677ms -> 1836ms",
+      "source": "zilong7728",
+      "resolution": "1920x1080",
+      "open_ms": 1836
+    },
+    {
+      "name": "香港-华丽翡翠台",
+      "old_url": "https://cdn3.indevs.in/stream/live/jade/",
+      "new_url": "http://php.jdshipin.com/TVOD/iptv.php?id=huali2",
+      "at": "2026-11-16 07:57:22",
+      "reason": "search-new: 更清 1280x720 -> 1920x1080",
+      "source": "zilong7728",
+      "resolution": "1920x1080",
+      "open_ms": 3704
+    },
+    {
+      "name": "RT Documentary",
+      "old_url": "https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8",
+      "new_url": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8",
+      "at": "2026-11-16 07:57:22",
+      "reason": "search-new: 更快 7582ms -> 2230ms",
+      "source": "zilong7728",
+      "resolution": "1920x1080",
+      "open_ms": 2230
     }
   ],
   "deletion_requests": [],
