@@ -1,4 +1,12 @@
 #EXTM3U x-tvg-url="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/epg.xml"
+# 2026-11-18 08:29 搜源替换（更快/更清）：广州综合 更快 5998ms -> 3486ms，新源 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488（zilong7728，两时点核验通过）
+# 2026-11-18 08:26 搜源替换（更快/更清）：香港-凤凰资讯台 更快 9338ms -> 3843ms，新源 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx（zilong7728，两时点核验通过）
+# 2026-11-18 08:24 搜源替换（更快/更清）：香港-翡翠台 更快 7398ms -> 1282ms，新源 http://r.jdshipin.com/n90gt（zilong7728，两时点核验通过）
+# 2026-11-18 08:09 搜源替换（更快/更清）：东方卫视 更快 6351ms -> 913ms，新源 http://bp-resource-dfl.bestv.cn/155/3/video.m3u8（zilong7728，两时点核验通过）
+# 2026-11-18 08:08 搜源替换（更快/更清）：CCTV 8K 超 更快 2299ms -> 559ms，新源 http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0（zilong7728，两时点核验通过）
+# 2026-11-18 08:06 搜源替换（更快/更清）：CCTV-15 音乐 更快 8737ms -> 2276ms，新源 http://gmxw.7766.org:808/hls/102/index.m3u8（zilong7728，两时点核验通过）
+# 2026-11-18 08:00 搜源替换（更快/更清）：CCTV-5+ 体育赛事 更快 7294ms -> 2149ms，新源 http://223.78.65.165:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0（zilong7728，两时点核验通过）
+# 2026-11-18 07:59 搜源替换（更快/更清）：CCTV-3 综艺 更快 7479ms -> 1359ms，新源 http://gmxw.7766.org:808/hls/91/index.m3u8（zilong7728，两时点核验通过）
 # 2026-11-17 08:31 搜源替换（更快/更清）：马来西亚-Astro AOD 更快 8628ms -> 3250ms，新源 http://php.jdshipin.com/TVOD/iptv.php?id=aod（zilong7728，两时点核验通过）
 # 2026-11-17 08:26 搜源替换（更快/更清）：香港-ViuTV 更快 7972ms -> 2238ms，新源 http://php.jdshipin.com/TVOD/iptv.php?id=viutv（zilong7728，两时点核验通过）
 # 2026-11-17 08:25 搜源替换（更快/更清）：香港-翡翠台 更快 3404ms -> 1938ms，新源 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4（zilong7728，两时点核验通过）
@@ -65,13 +73,13 @@ https://outlivecloud-cdn.ysp.cctv.cn/88841F502EAB75231303529BD544CAAE422E6AFBB72
 #EXTINF:-1 tvg-name="CCTV-2 财经" group-title="央视频道" tvg-id="545933" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/CCTV_2_%E8%B4%A2%E7%BB%8F.png",CCTV-2 财经
 https://outlivecloud-cdn.ysp.cctv.cn/0F0FECBE1501BE1EA267389B0A92107CD79D0D79324B0CEB6879A40BA69EDFEC24A5CC4E66869E7D8A4DDEE85BAE364358F84FF7E42D9854F068A0FED841FC558F7FAFF7D26FD5C408E99498D7EF1D1B737F108CD060E502C87E889662A66D7D07FA6703BAB79B10FACC4172B2872C5FC5BF2D01B2DF211F037ED4CAF104465610F3E027FE58C2160B82DB1FBCD676F1BEB3F7687087B0E261578D16A0B4D880/2024075403.m3u8?from=player&svrtime=1794976050&pid=600001800&cdn=5401
 #EXTINF:-1 tvg-name="CCTV-3 综艺" group-title="央视频道" tvg-id="545934" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/CCTV_3_%E7%BB%BC%E8%89%BA.png",CCTV-3 综艺
-https://outlivecloud-cdn.ysp.cctv.cn/4ABDDCA41BEA007F3D3B35351E6D5DF4BF09279EA619C6C5FBAD68D6024DC7A970F76599FFBA9E5D7CDEDC7EC0DBE19812B428EE682ECC4F6AE2BDC4BF0D1218CE0A4F02043CAAF2810A4212371B37039DF6BC15C5D75D63E54D65D667CF8506EF4F5A0E1A54D5AC7779537CE8443B423E58006AED23EB2B0FD0DCA2F61B9C562EEECDC6A355A3962E96F11B3790D5286ACF6EC2169322BA5F107B3285D10142/2024068503.m3u8?from=player&svrtime=1794986871&pid=600001801&cdn=5401
+http://gmxw.7766.org:808/hls/91/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-4 中文国际" group-title="央视频道" tvg-id="545935" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/CCTV_4_%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.png",CCTV-4 中文国际
 https://outlivecloud-cdn.ysp.cctv.cn/5036119E5B52B7C2C0ABFD7F7B364F505493313AA1DA3606FD4B6239E3815DC80BFC3928FB61083DE2D294A6585862A28183E18B40C472742995522F210C88B521CCE1A0E304E3BB5FF16E918F3843A0E52817893DEB20AE317B1D4DFB34741648F7A4F5CC144AEFFA3E1B546990BBC4A3962ED8C1A18241F72902F8F34356D0EC6BA7F9427792B2B39DF74CAB75D0C07480E0B4C3AAA25EEC8E67D7FB263274/2029797103.m3u8?from=player&svrtime=1794986895&pid=600001814&cdn=5401
 #EXTINF:-1 tvg-name="CCTV-5 体育" group-title="央视频道" tvg-id="545936" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/CCTV_5_%E4%BD%93%E8%82%B2.png",CCTV-5 体育
 http://gmxw.7766.org:808/hls/93/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-5+ 体育赛事" group-title="央视频道" tvg-id="545937" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/CCTV_5_%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png",CCTV-5+ 体育赛事
-http://120.76.248.139/live/bfgd/4200000246.m3u8
+http://223.78.65.165:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV-6 电影" group-title="央视频道" tvg-id="545938" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/CCTV_6_%E7%94%B5%E5%BD%B1.png",CCTV-6 电影
 https://mobilelive-cnc-cdn.ysp.cctv.cn/ysp/182BBB34FF46589B547FF8A1D17DA9B1BF4C46CFC0DF1AD5DEAEEE49C801F6C679D243A9506CB844FAAC7517F501AABA37F70ACE06BC446F42EFFAB858270CF87295110A130BD92C3CB1DB76FCC377F470EC290F843A9B2D32A48EB2170D53B8CFB726B300C29F13FB438419642F8432A16877F60E07C72D16AA31DD379AB070009F554BC1EFABC7576E21676A3EAA6858C1ACA112141C004D1CD6D320F23C53/2013693901_fhd.m3u8?svrtime=1794986896&pid=600108442&m3u8_with_time_tag=2&cdn=5203
 #EXTINF:-1 tvg-name="CCTV-7 国防军事" group-title="央视频道" tvg-id="545939" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/CCTV_7_%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B.png",CCTV-7 国防军事
@@ -91,7 +99,7 @@ https://outlivecloud-cdn.ysp.cctv.cn/DBDCE215DF557B1FABF1026C7A1EF04DEA87956FFCB
 #EXTINF:-1 tvg-name="CCTV-14 少儿" group-title="央视频道" tvg-id="545946" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/CCTV_14_%E5%B0%91%E5%84%BF.png",CCTV-14 少儿
 https://outlivecloud-cdn.ysp.cctv.cn/90176145D0919A45A7459CB4363CABDA52DD5E6CBCEA2E52A55CB7658E4002087FF54BE19D2DEF14292039E9384B50E602CAF6C7A2CED9274FCB9D783FC344342B81BF9AA4CCF1F2F465FB87C1E87D743EC0E28BF37013B815B5195B6BE1BE7C10A0096904E6590E528B1CD061D8B9719BDB25EEEF622B7A5A70774D468CA66F12B0DF4A0B28F114D06258A23BC49237B5B32766A4E6295BAF6336EB8ABBF818/2027248903_dlna.m3u8?from=player&svrtime=1794986971&pid=600001809&cdn=5401
 #EXTINF:-1 tvg-name="CCTV-15 音乐" group-title="央视频道" tvg-id="545947" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/CCTV_15_%E9%9F%B3%E4%B9%90.png",CCTV-15 音乐
-https://outlivecloud-cdn.ysp.cctv.cn/3927EE6D80C42B0DEE135C0EFDEFA00F2B71772E3380482269E3622B6092D308BA334DF528690D05F47ABF07D15257396AD4307A6F1C86BF593B9205A809F4A94C7B95B9E704CCEB3C1646EEFB22B37FD404D5191AA75F4F83D720F4FE48A60A66500079A8C4ADAF87C1E25399DF9876352EF746AEA18CA4258AE993147B7438704E2824E17408CBFE5DB5F577C3FCC8CFDC6D7214E91E4DA1B76083E80D200B/2027249003_dlna.m3u8?from=player&svrtime=1794986973&pid=600001815&cdn=5401
+http://gmxw.7766.org:808/hls/102/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-16 奥林匹克" group-title="央视频道" tvg-id="545948" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/CCTV_16_%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B.png",CCTV-16 奥林匹克
 http://gmxw.7766.org:808/hls/169/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-17 农业农村" group-title="央视频道" tvg-id="545949" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/CCTV_17_%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91.png",CCTV-17 农业农村
@@ -109,7 +117,7 @@ https://outlivecloud-cdn.ysp.cctv.cn/11FD5BBADA8B1814E52829D459DBA83EB96EF220CE5
 #EXTINF:-1 tvg-name="CCTV 4K 超" group-title="央视频道" tvg-id="539634" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/CCTV_4K_%E8%B6%85.png",CCTV 4K 超
 http://107.150.52.50:82/live/cctv4k.m3u8
 #EXTINF:-1 tvg-name="CCTV 8K 超" group-title="央视频道" tvg-id="545950" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/CCTV_8K_%E8%B6%85.png",CCTV 8K 超
-http://107.150.52.50:82/live/cctv8k.m3u8
+http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="重温经典" group-title="央视频道" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8.png",重温经典
 http://8.138.7.223/tv/cwjd.php
 #EXTINF:-1 tvg-name="CHC 家庭影院" group-title="央视频道" tvg-id="539900" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/CHC_%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png",CHC 家庭影院
@@ -123,7 +131,7 @@ https://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" group-title="省级卫视" tvg-id="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png",江苏卫视
 https://outlivecloud-cdn.ysp.cctv.cn/1FA1477B5472895D7861EC6DF26E53331F5C0569FC882B0696BB68ED29C60E22549328AE75856120EC70FA0B1C495589BE013EC1F3E9D24E7CC99DE8BD475A81585AA7FD50B2C6F06497BFE5435EF5FC0EBF653B78938DFAF05E0206899B2E127709E1241CF42268C938CC0F21482047933C45E4D893D6D76B7531F8BC1B6D41EFFDF2DB0406423FCCB451E8BE07A427CAED955ABF276CDEE8F9337FB773BC4E/2024171103.m3u8?from=player&svrtime=1794987000&pid=600002521&cdn=5401
 #EXTINF:-1 tvg-name="东方卫视" group-title="省级卫视" tvg-id="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png",东方卫视
-https://outlivecloud-cdn.ysp.cctv.cn/4A8E657B7770E2B254DFF337B9460A7C9A9560BD68871D9D3B9209D2A72078F68BE51014A60616B5A8E101232840A3F804804DA3057AFF46082245814D7922092480725AD3CB7B1BDB4AFE80DC718151D0FFFA29692FBB7410DD6C555C1AAF4E2D6B385CB34996851C74EDE4BDE7A6737DFFE7CCD5C26FEBC0203B9F01B882A9AD2B681F1680ABD59AA69F16CB3A8D3D2758BD9394DDD6039835DEDD735DE233/2024054503.m3u8?from=player&svrtime=1794987020&pid=600002483&cdn=5401
+http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 #EXTINF:-1 tvg-name="北京卫视" group-title="省级卫视" tvg-id="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png",北京卫视
 https://outlivecloud-cdn.ysp.cctv.cn/27118C0E4FE51FE26F5C156DF5CEFB78A79271D129EB51E1D82BEC9806B436A4AEE8C7C8A802A350BB2482DD3214AAAF8E9BF323196D5036A61181607C89E9EECA4270451994131A0558E3CC16474B3738F415191A7909C91933E936341028EB1B0BF3F0613A446149F3217D634CECA63316CBD42A04A7564AA5619C6E033E4CAD9CBDB16DE91F00C2F6DC1D73B4AA330406E0DEBFBB0A268C87ACF6D8870A5F/2024052703.m3u8?from=player&svrtime=1794986998&pid=600002309&cdn=5401
 #EXTINF:-1 tvg-name="广东卫视" group-title="省级卫视" tvg-id="广东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png",广东卫视
@@ -333,7 +341,7 @@ http://125.227.210.55:3095/VideoInput/play.ts
 #EXTINF:-1 tvg-name="香港-亚洲武侠" group-title="港澳新马" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%BA%9A%E6%B4%B2%E6%AD%A6%E4%BE%A0.png",香港-亚洲武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1 tvg-name="香港-翡翠台" group-title="港澳新马" tvg-id="368366" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",香港-翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+http://r.jdshipin.com/n90gt
 #EXTINF:-1 tvg-name="香港-无线新闻台" group-title="港澳新马" tvg-id="368359" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png",香港-无线新闻台
 https://cdn6.cc.cd/163189/wxxw
 #EXTINF:-1 tvg-name="香港-ViuTV" group-title="港澳新马" tvg-id="565569" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/ViuTV.png",香港-ViuTV
@@ -351,7 +359,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 #EXTINF:-1 tvg-name="香港-凤凰中文" group-title="港澳新马" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png",香港-凤凰中文
 http://r.jdshipin.com/cCCzW
 #EXTINF:-1 tvg-name="香港-凤凰资讯台" group-title="港澳新马" tvg-id="410355" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0.png",香港-凤凰资讯台
-http://r.jdshipin.com/0Rp07
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="香港-TVB娱乐新闻台" group-title="港澳新马" tvg-id="368323" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/TVB%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB%E5%8F%B0.png",香港-TVB娱乐新闻台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 #EXTINF:-1 tvg-name="香港-TVB1（美国）" group-title="港澳新马" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%A6%99%E6%B8%AF-TVB1%EF%BC%88%E7%BE%8E%E5%9B%BD%EF%BC%89.png",香港-TVB1（美国）
@@ -501,7 +509,7 @@ https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
 #EXTINF:-1 tvg-name="Mediaset Italia" group-title="海外纪录" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/Mediaset%20Italia.png",Mediaset Italia
 https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
 #EXTINF:-1 tvg-name="广州综合" group-title="国内地方" tvg-id="广州综合台" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%B9%BF%E5%B7%9E%E7%BB%BC%E5%90%88.png",广州综合
-http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
 #EXTINF:-1 tvg-name="广州新闻" group-title="国内地方" tvg-id="539887" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%B9%BF%E5%B7%9E%E6%96%B0%E9%97%BB.png",广州新闻
 http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 #EXTINF:-1 tvg-name="南京新闻综合" group-title="国内地方" tvg-id="539745" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%8D%97%E4%BA%AC%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",南京新闻综合

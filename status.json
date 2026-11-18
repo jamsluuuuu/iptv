@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18 06:14:54",
+  "generated_at": "2026-11-18 08:42:14",
   "total": 233,
   "counts": {
     "ok": 205,
@@ -8,7 +8,7 @@
     "unverified": 27
   },
   "last_check": "2026-11-18 06:14:54",
-  "last_search": "2026-11-17 07:57:24",
+  "last_search": "2026-11-18 07:57:19",
   "channels": [
     {
       "name": "CCTV-1 综合",
@@ -2110,86 +2110,6 @@
   ],
   "replacements": [
     {
-      "name": "东方卫视",
-      "old_url": "https://outlivecloud-cdn.ysp.cctv.cn/AD0AF0CC44A66439864DFC85AE3DF7DBAF73F05F1886E523CBD5059758FC0D5E232FE41CF25AB2C2EF73B816ECEF50950308467738E5805678742F513A370B42E25018C1BD0EA5033B81F57814BEB763FFB0F69775DFA1656DD432BE82326524814B220B1EA2114B8CF5284008FEE688EFD844D0DB4BA6C06AE431F4569D240848D62FC1C4294B4A6CBA9DFF6E9DA384A5C6463FC2386B350C4077429CD2427C/2024054503.m3u8?from=player&svrtime=1794814238&pid=600002483&cdn=5401",
-      "new_url": "http://bp-resource-dfl.bestv.cn/155/3/video.m3u8",
-      "at": "2026-11-16 07:57:22",
-      "reason": "search-new: 更快 2337ms -> 1362ms",
-      "source": "zilong7728",
-      "resolution": "1920x1080",
-      "open_ms": 1362
-    },
-    {
-      "name": "山西卫视",
-      "old_url": "https://outlivecloud-cdn.ysp.cctv.cn/D42B381C63D533075A1B1FE130340ADE5874F94C4EC35DB314733C3CDC164EFB3631473469E85D4B1A62BD1D0F39311E9FD72AC25D565CA2D9FF62EC77CF00BD466EA8E1FAC9E8E02796E2EC95661FCDA807C73F3FC4C2ECD14506AE179F32A441B644748E9C90DA535424134A632276D3F0EF5A86D5E6470746D83F592A1C253AB9ACD5D26FF50CF0F61A99B45EF74E6A6E5D340D687B2E6257218CF798CCFF/2025560803.m3u8?from=player&svrtime=1794814417&pid=600190407&cdn=5401",
-      "new_url": "http://119.39.9.8:9901/tsfile/live/0118_1.m3u8",
-      "at": "2026-11-16 07:57:22",
-      "reason": "search-new: 更快 2126ms -> 814ms",
-      "source": "zilong7728",
-      "resolution": "1920x1080",
-      "open_ms": 814
-    },
-    {
-      "name": "江西卫视",
-      "old_url": "https://outlivecloud-cdn.ysp.cctv.cn/27A66C8AE11C550D8F76F48499545140A9D63327C790A76C633FDB40CF4D5C542E03E2EBE6D192FF808F56D35043546C0F43B3C1783FB190255D5F9CC0548BA01C79D08D2B4F88513A7D52FAD479A21B8BEE6B1CF8993F91C740D63144EB48612CD5ECA6F8D862A5946A69F85AE40E3F163BC638A1EB1D5A3A65BB2C9515E03929FE3389C4EF07F51A335564DDA7EE4BFA7926A1138411AC607E2B6C4F570DE8/2024061703.m3u8?from=player&svrtime=1794814340&pid=600002503&cdn=5401",
-      "new_url": "http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0",
-      "at": "2026-11-16 07:57:22",
-      "reason": "search-new: 更快 3850ms -> 2094ms",
-      "source": "zilong7728",
-      "resolution": "1920x1080",
-      "open_ms": 2094
-    },
-    {
-      "name": "香港-ViuTV",
-      "old_url": "http://php.jdshipin.com/TVOD/iptv.php?id=viutv",
-      "new_url": "http://r.jdshipin.com/TcKr2",
-      "at": "2026-11-16 07:57:22",
-      "reason": "search-new: 更快 4989ms -> 2935ms",
-      "source": "zilong7728",
-      "resolution": "1920x1080",
-      "open_ms": 2935
-    },
-    {
-      "name": "香港-TVB Plus",
-      "old_url": "https://cdn3.indevs.in/stream/tvb/tvbp/",
-      "new_url": "http://r.jdshipin.com/Nr5jq",
-      "at": "2026-11-16 07:57:22",
-      "reason": "search-new: 更快 3677ms -> 1836ms",
-      "source": "zilong7728",
-      "resolution": "1920x1080",
-      "open_ms": 1836
-    },
-    {
-      "name": "香港-华丽翡翠台",
-      "old_url": "https://cdn3.indevs.in/stream/live/jade/",
-      "new_url": "http://php.jdshipin.com/TVOD/iptv.php?id=huali2",
-      "at": "2026-11-16 07:57:22",
-      "reason": "search-new: 更清 1280x720 -> 1920x1080",
-      "source": "zilong7728",
-      "resolution": "1920x1080",
-      "open_ms": 3704
-    },
-    {
-      "name": "RT Documentary",
-      "old_url": "https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8",
-      "new_url": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8",
-      "at": "2026-11-16 07:57:22",
-      "reason": "search-new: 更快 7582ms -> 2230ms",
-      "source": "zilong7728",
-      "resolution": "1920x1080",
-      "open_ms": 2230
-    },
-    {
-      "name": "CCTV-4 中文国际",
-      "old_url": "https://outlivecloud-cdn.ysp.cctv.cn/79C75418013FA42EFFA0860BE6672B7156F6237C9C20319CB18A19E626A4E7AA14FEA5AB5764D6E07AC4E70D16F39DE42E9BDD062ACDD5BBD49EF378821D1FAEDBE25E69628BF6B530422F0F97BCDB809856BD8A1A5A083B93B3D51F38B6750EA83996986579699AFC5C992FFCDDB295676DBF1F244E083BBB2FD7C5D76BF882E9926D224280340577716FC5A313E889E75E21710E952754B47E545D2FD282B8/2029797103.m3u8?from=player&svrtime=1794900502&pid=600001814&cdn=5401",
-      "new_url": "https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1794945600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-6f8400bc564758c2103d79a36929684a&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c",
-      "at": "2026-11-17 07:57:24",
-      "reason": "search-new: 更快 7935ms -> 1185ms",
-      "source": "zilong7728",
-      "resolution": "1920x1080",
-      "open_ms": 1185
-    },
-    {
       "name": "CCTV-8 电视剧",
       "old_url": "https://outlivecloud-cdn.ysp.cctv.cn/9005A17471B057B0203D18A01545A1DDCB5D57570BB69761B775A78AC83F24AC85C4AE6D45BA0D98F7BF94191D6CF97635F542358166B14BFB732684D187137902DF0ED77C47DB8B7A7088552FF5DA83EEB48083C407C1CA743FE6F2B545BAB47032B99E57DC5730BF246861BD2354499A174008FCA47B74AE008F862982315D2A39C39FB44A0B2DC9632D3C03FC71C642FF3C1D5B1455992115AF4C357C6DD3/2029793003.m3u8?from=player&svrtime=1794900526&pid=600001803&cdn=5401",
       "new_url": "http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0",
@@ -2308,6 +2228,86 @@
       "source": "zilong7728",
       "resolution": "1920x1080",
       "open_ms": 3250
+    },
+    {
+      "name": "CCTV-3 综艺",
+      "old_url": "https://outlivecloud-cdn.ysp.cctv.cn/4ABDDCA41BEA007F3D3B35351E6D5DF4BF09279EA619C6C5FBAD68D6024DC7A970F76599FFBA9E5D7CDEDC7EC0DBE19812B428EE682ECC4F6AE2BDC4BF0D1218CE0A4F02043CAAF2810A4212371B37039DF6BC15C5D75D63E54D65D667CF8506EF4F5A0E1A54D5AC7779537CE8443B423E58006AED23EB2B0FD0DCA2F61B9C562EEECDC6A355A3962E96F11B3790D5286ACF6EC2169322BA5F107B3285D10142/2024068503.m3u8?from=player&svrtime=1794986871&pid=600001801&cdn=5401",
+      "new_url": "http://gmxw.7766.org:808/hls/91/index.m3u8",
+      "at": "2026-11-18 07:57:19",
+      "reason": "search-new: 更快 7479ms -> 1359ms",
+      "source": "zilong7728",
+      "resolution": "1920x1080",
+      "open_ms": 1359
+    },
+    {
+      "name": "CCTV-5+ 体育赛事",
+      "old_url": "http://120.76.248.139/live/bfgd/4200000246.m3u8",
+      "new_url": "http://223.78.65.165:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "at": "2026-11-18 07:57:19",
+      "reason": "search-new: 更快 7294ms -> 2149ms",
+      "source": "zilong7728",
+      "resolution": "1920x1080",
+      "open_ms": 2149
+    },
+    {
+      "name": "CCTV-15 音乐",
+      "old_url": "https://outlivecloud-cdn.ysp.cctv.cn/3927EE6D80C42B0DEE135C0EFDEFA00F2B71772E3380482269E3622B6092D308BA334DF528690D05F47ABF07D15257396AD4307A6F1C86BF593B9205A809F4A94C7B95B9E704CCEB3C1646EEFB22B37FD404D5191AA75F4F83D720F4FE48A60A66500079A8C4ADAF87C1E25399DF9876352EF746AEA18CA4258AE993147B7438704E2824E17408CBFE5DB5F577C3FCC8CFDC6D7214E91E4DA1B76083E80D200B/2027249003_dlna.m3u8?from=player&svrtime=1794986973&pid=600001815&cdn=5401",
+      "new_url": "http://gmxw.7766.org:808/hls/102/index.m3u8",
+      "at": "2026-11-18 07:57:19",
+      "reason": "search-new: 更快 8737ms -> 2276ms",
+      "source": "zilong7728",
+      "resolution": "1920x1080",
+      "open_ms": 2276
+    },
+    {
+      "name": "CCTV 8K 超",
+      "old_url": "http://107.150.52.50:82/live/cctv8k.m3u8",
+      "new_url": "http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "at": "2026-11-18 07:57:19",
+      "reason": "search-new: 更快 2299ms -> 559ms",
+      "source": "zilong7728",
+      "resolution": "1920x1080",
+      "open_ms": 559
+    },
+    {
+      "name": "东方卫视",
+      "old_url": "https://outlivecloud-cdn.ysp.cctv.cn/4A8E657B7770E2B254DFF337B9460A7C9A9560BD68871D9D3B9209D2A72078F68BE51014A60616B5A8E101232840A3F804804DA3057AFF46082245814D7922092480725AD3CB7B1BDB4AFE80DC718151D0FFFA29692FBB7410DD6C555C1AAF4E2D6B385CB34996851C74EDE4BDE7A6737DFFE7CCD5C26FEBC0203B9F01B882A9AD2B681F1680ABD59AA69F16CB3A8D3D2758BD9394DDD6039835DEDD735DE233/2024054503.m3u8?from=player&svrtime=1794987020&pid=600002483&cdn=5401",
+      "new_url": "http://bp-resource-dfl.bestv.cn/155/3/video.m3u8",
+      "at": "2026-11-18 07:57:19",
+      "reason": "search-new: 更快 6351ms -> 913ms",
+      "source": "zilong7728",
+      "resolution": "1920x1080",
+      "open_ms": 913
+    },
+    {
+      "name": "香港-翡翠台",
+      "old_url": "http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4",
+      "new_url": "http://r.jdshipin.com/n90gt",
+      "at": "2026-11-18 07:57:19",
+      "reason": "search-new: 更快 7398ms -> 1282ms",
+      "source": "zilong7728",
+      "resolution": "3840x2160",
+      "open_ms": 1282
+    },
+    {
+      "name": "香港-凤凰资讯台",
+      "old_url": "http://r.jdshipin.com/0Rp07",
+      "new_url": "http://php.jdshipin.com/TVOD/iptv.php?id=fhzx",
+      "at": "2026-11-18 07:57:19",
+      "reason": "search-new: 更快 9338ms -> 3843ms",
+      "source": "zilong7728",
+      "resolution": "1920x1080",
+      "open_ms": 3843
+    },
+    {
+      "name": "广州综合",
+      "old_url": "http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8",
+      "new_url": "https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488",
+      "at": "2026-11-18 07:57:19",
+      "reason": "search-new: 更快 5998ms -> 3486ms",
+      "source": "zilong7728",
+      "resolution": "1280x720",
+      "open_ms": 3486
     }
   ],
   "deletion_requests": [],
