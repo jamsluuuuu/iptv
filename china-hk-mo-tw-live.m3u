@@ -1,4 +1,9 @@
 #EXTM3U x-tvg-url="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/epg.xml"
+# 2026-11-19 08:17 搜源替换（更快/更清）：广州综合 更快 9663ms -> 922ms，新源 http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8（zilong7728，两时点核验通过）
+# 2026-11-19 08:11 搜源替换（更快/更清）：邢台综合 更快 7164ms -> 970ms，新源 http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8（zilong7728，两时点核验通过）
+# 2026-11-19 08:08 搜源替换（更快/更清）：河北卫视 更快 3010ms -> 543ms，新源 http://120.76.248.139/live/bfgd/4200000108.m3u8（zilong7728，两时点核验通过）
+# 2026-11-19 08:03 搜源替换（更快/更清）：江西卫视 更快 7471ms -> 620ms，新源 http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0（zilong7728，两时点核验通过）
+# 2026-11-19 08:01 搜源替换（更快/更清）：山西卫视 更快 8089ms -> 1203ms，新源 http://119.39.9.8:9901/tsfile/live/0118_1.m3u8（zilong7728，两时点核验通过）
 # 2026-11-18 08:29 搜源替换（更快/更清）：广州综合 更快 5998ms -> 3486ms，新源 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488（zilong7728，两时点核验通过）
 # 2026-11-18 08:26 搜源替换（更快/更清）：香港-凤凰资讯台 更快 9338ms -> 3843ms，新源 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx（zilong7728，两时点核验通过）
 # 2026-11-18 08:24 搜源替换（更快/更清）：香港-翡翠台 更快 7398ms -> 1282ms，新源 http://r.jdshipin.com/n90gt（zilong7728，两时点核验通过）
@@ -155,7 +160,7 @@ https://outlivecloud-cdn.ysp.cctv.cn/41E29CA1E89D73915730FD156D8962FBF1E89018504
 #EXTINF:-1 tvg-name="陕西卫视" group-title="省级卫视" tvg-id="陕西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png",陕西卫视
 https://outlivecloud-cdn.ysp.cctv.cn/557316B78D7B25038FA9F0B2691A667BF17BF6E2CE20E75C71FAB60638E63C1A0B2448340F2DE2D0C2634D233F40D83BEC586BDCFAF46C5A3656FC14B91EDB2F454160FABF65348B0ADE3169789FF59738B2084BD8D0F575F93FC89F82FD48E2D52D6D87D08BD93024515510B6DC22E705DBA71F31F235EDF478672DC71942A3D39B24581C26EF4C4634BC3B202D179EC0309FB44C6B578BC76C6A473FA3C1DA/2029795103.m3u8?from=player&svrtime=1795073567&pid=600190400&cdn=5401
 #EXTINF:-1 tvg-name="山西卫视" group-title="省级卫视" tvg-id="山西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png",山西卫视
-https://outlivecloud-cdn.ysp.cctv.cn/9E63857644BE130F486E6C4220CBFE0A05679CFC1F3F1769AFD93EC43C7716E18C5C2EC5984AA8696701567D2AB0539A9F8F019CD193375E7F2B4FE3CEF78E39F891CD8ADD1E073C62FF92D4C4E5D8ABEDA737B08ADCC68509847F1FE7BCBA364CDC9F2D14EF91AEB0641CEDAE02239B3ABC113926F5C0EC499D19FD7B567019E8346B829D504A29C418652B990A0B23E1A733F9252A96A80DA2B5B4BEA79CA4/2025560803.m3u8?from=player&svrtime=1795073614&pid=600190407&cdn=5401
+http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" group-title="省级卫视" tvg-id="贵州卫视" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png",贵州卫视
 https://outlivecloud-cdn.ysp.cctv.cn/014A0BDAA06D32E6BCADF1BEBA4E8781CCA34F2A39BD5EC42312EB64FF0038CB570263D1154B64E4DD6665E85545EA366C72459AD4F48417ECD8D805FCB14924D249CEC778C96B59444216AC44181F7E395058001B0AB62C01253ECE0C02DEDF8FF2D199A274106FA9821BBFE1694DDBEB5EE54880839EE4538419A742B61AA63C60FB0483A37D66E71F4DADB4715C776C3645B4BF9844A1CEC78BF0BDB19C4C/2024061603.m3u8?from=player&svrtime=1795073515&pid=600002490&cdn=5401
 #EXTINF:-1 tvg-name="云南卫视" group-title="省级卫视" tvg-id="云南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png",云南卫视
@@ -165,7 +170,7 @@ https://outlivecloud-cdn.ysp.cctv.cn/D2DDB1E1FF66D35C13FB9AE20B80D83E63F71165AAC
 #EXTINF:-1 tvg-name="海南卫视" group-title="省级卫视" tvg-id="海南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png",海南卫视
 https://outlivecloud-cdn.ysp.cctv.cn/259E41A1716C516F52ADA050FE35E1E9020473C17844CB87A34AFA02A576742D1FCA8DCC9870B6217D8785BD78E3507A5A7C918E537FA8E4483FE87E0019E90C042F607848BD47F91D18357CA8EB162563548D9AA5129C7615E5F8ABA3F29F89887606EBFD8567505B3A8052FE917E58E72317D5B3E3D3681A7AED60B8E8C2EB548A467985DC21EF63F45E551568C219F4F8CE89B3A94F1CF29B1555B0E16172/2024055603.m3u8?from=player&svrtime=1795073463&pid=600002506&cdn=5401
 #EXTINF:-1 tvg-name="江西卫视" group-title="省级卫视" tvg-id="江西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png",江西卫视
-https://outlivecloud-cdn.ysp.cctv.cn/AB3CB97A32C533666941E91554D0D3A61361E75CCE8603A813FA2D61B2C17F8B1E0D92C1ABAAB745BEBDF794C31A8541469CBB2C71B1BF9B1B7049577D4D4D9CB47046FA82CFC4F58797943CB07B91CD984B686E5A1809CE1FFDED286F2FBC28EF37FB7EC9E63414E4A52259254E255B1C675E5A6A650314B7C93EB803C74A062ADEAC8E50562903D5EC2D2A2AD6A32E63C6BE12DCC4C8E3FF2CCB2F37CD6FE3/2024061703.m3u8?from=player&svrtime=1795073539&pid=600002503&cdn=5401
+http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="东南卫视" group-title="省级卫视" tvg-id="东南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png",东南卫视
 https://outlivecloud-cdn.ysp.cctv.cn/64812C92654BD28D55C0AF0A3FADB1FC8C77280379AB53819A206EC3E3F0E8D61CD4F1C12B246FB281C18AAF7BE45175A4F7ED4F5F16A0EC48F0FA5001D48DAB359CD9286B45D59A97D81AB40575D8402425A6B4F28DE69567B987ACD54442E24C85D38A85EFE65BE2CC87EADA7B20BF37DED76339818A4A95B784CACFAD9614A72563566CE9F44FA867DC0968F7398262A7463C0F04EAE734536EF10CB13B69/2024061503.m3u8?from=player&svrtime=1795073515&pid=600002484&cdn=5401
 #EXTINF:-1 tvg-name="甘肃卫视" group-title="省级卫视" tvg-id="甘肃卫视" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png",甘肃卫视
@@ -187,7 +192,7 @@ https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" group-title="省级卫视" tvg-id="吉林卫视" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png",吉林卫视
 http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="河北卫视" group-title="省级卫视" tvg-id="河北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png",河北卫视
-http://112.123.243.37:50085/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
+http://120.76.248.139/live/bfgd/4200000108.m3u8
 #EXTINF:-1 tvg-name="河南卫视" group-title="省级卫视" tvg-id="河南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png",河南卫视
 https://outlivecloud-cdn.ysp.cctv.cn/015C6A56F31CA58D4B2776EBE241B02E6975E576E5F9E64D2A7EC16D8B3AD05D10874370B58285EEB4E1734C7AA9AB7A688412F568019EC0854863F969E836421D7967F11845AC9A6FD16E4CC7EB2E1A98AA6843B77D6D7E516019BBEE7B2299DE5E091DD12EC8E7BE5926C4DAB63B2404EF3C3C65CB0750C8ED1853CF4BF5C69A91A4204028A8ACE675DA8AC0B72EDB33637307C6CF2A4EF0D7E38F0C9E56CA/2029797303.m3u8?from=player&svrtime=1795073513&pid=600002525&cdn=5401
 #EXTINF:-1 tvg-name="南国都市4K" group-title="省级卫视" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%8D%97%E5%9B%BD%E9%83%BD%E5%B8%824K.png",南国都市4K
@@ -217,7 +222,7 @@ http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="邢台生活" group-title="河北本土" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%82%A2%E5%8F%B0%E7%94%9F%E6%B4%BB.png",邢台生活
 https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="邢台综合" group-title="河北本土" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%82%A2%E5%8F%B0%E7%BB%BC%E5%90%88.png",邢台综合
-https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
+http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="邯郸公共频道" group-title="河北本土" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%82%AF%E9%83%B8%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png",邯郸公共频道
 https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="邯郸新闻综合" group-title="河北本土" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%82%AF%E9%83%B8%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",邯郸新闻综合
@@ -503,7 +508,7 @@ https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
 #EXTINF:-1 tvg-name="Mediaset Italia" group-title="海外纪录" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/Mediaset%20Italia.png",Mediaset Italia
 https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
 #EXTINF:-1 tvg-name="广州综合" group-title="国内地方" tvg-id="广州综合台" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%B9%BF%E5%B7%9E%E7%BB%BC%E5%90%88.png",广州综合
-https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
+http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 #EXTINF:-1 tvg-name="广州新闻" group-title="国内地方" tvg-id="539887" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%B9%BF%E5%B7%9E%E6%96%B0%E9%97%BB.png",广州新闻
 http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 #EXTINF:-1 tvg-name="南京新闻综合" group-title="国内地方" tvg-id="539745" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%8D%97%E4%BA%AC%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",南京新闻综合
