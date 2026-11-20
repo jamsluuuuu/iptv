@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-20 06:08:43",
-  "total": 230,
+  "generated_at": "2026-11-20 08:25:59",
+  "total": 229,
   "counts": {
     "ok": 208,
     "replaced": 1,
-    "dead": 1,
+    "dead": 0,
     "unverified": 20
   },
   "last_check": "2026-11-20 06:08:37",
-  "last_search": "2026-11-19 07:57:12",
+  "last_search": "2026-11-20 07:57:27",
   "channels": [
     {
       "name": "CCTV-1 综合",
@@ -1649,15 +1649,6 @@
       "bad_days": 0
     },
     {
-      "name": "Drama Movies",
-      "group": "海外影剧",
-      "status": "dead",
-      "resolution": null,
-      "open_ms": 4323,
-      "note": "http-404",
-      "bad_days": 2
-    },
-    {
       "name": "Thriller TV",
       "group": "海外影剧",
       "status": "ok",
@@ -2083,26 +2074,6 @@
   ],
   "replacements": [
     {
-      "name": "天津卫视",
-      "old_url": "https://outlivecloud-cdn.ysp.cctv.cn/369B911A650DD055D874A7D038FE8336DCED235124A3128C964EA56CF902157A4367957372408E2CF05013B7F545A0A8031A4F704707B5D3BB6A82232312CF4EA86837E5A0F3ABE02C2BA662C29462533674D4A22B698C813609FE04BEC90F239567E6E5E9AB4431DCE3F9FDDCD58D0D3962B65325BE842B5D53CA0B878AD6D9E1CA805A63B493680B0FE2136939E9689B0DEB3DFE5FD4694BD96CB91E1E82D7/2019927003.m3u8?from=player&svrtime=1794900735&pid=600152137&cdn=5401",
-      "new_url": "http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0",
-      "at": "2026-11-17 07:57:24",
-      "reason": "search-new: 更快 6126ms -> 3276ms",
-      "source": "zilong7728",
-      "resolution": "1920x1080",
-      "open_ms": 3276
-    },
-    {
-      "name": "江西卫视",
-      "old_url": "https://outlivecloud-cdn.ysp.cctv.cn/D84FB517F3E0EA13A096C96517E3538B65B749D9779DD7CF9CF1406698E1C6ABFA0098457AD6BB32E1EFEC5797D8FB76C427915A921AF3E078C015ADFFD8C0DB4028026CB6F7A4E926E0F49641BFD74199123E1C42169D0B36231E797569F27A7A6F8171E12675CBA3F72DB3AE28A48488FBE595CAF1FB9559D8C29F58EBC27B6F6DAF9E0A942AF6833FDB60B8A58F2616077C6558C5275515C9C61FB2C8F24A/2024061703.m3u8?from=player&svrtime=1794900712&pid=600002503&cdn=5401",
-      "new_url": "http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0",
-      "at": "2026-11-17 07:57:24",
-      "reason": "search-new: 更快 3099ms -> 1002ms",
-      "source": "zilong7728",
-      "resolution": "1920x1080",
-      "open_ms": 1002
-    },
-    {
       "name": "深圳卫视",
       "old_url": "https://outlivecloud-cdn.ysp.cctv.cn/99B257997BD2D53DB140899FA795AB11A3D7247B02922E368AD6C332E07AEC4B18A6255C6DFFC3842698FB8E172C779C9C5F56C99633F2A5D26E97FE35C7AED25A7D88C7782D8B6313788D0BBCA92B379D8F973C604A9ACC97B74019CEB0057757BF40419B50B932544983CE5D529098959C112C0A41428B17D4CBF8DC1890886BC7DEBC3244F1869E84892961BFC482D5DDE4249F8FD3E79C0BD0A3B2DE561A/2024061303.m3u8?from=player&svrtime=1794900666&pid=600002481&cdn=5401",
       "new_url": "http://gmxw.7766.org:808/hls/45/index.m3u8",
@@ -2281,6 +2252,26 @@
       "source": "zilong7728",
       "resolution": "1280x720",
       "open_ms": 922
+    },
+    {
+      "name": "山西卫视",
+      "old_url": "https://outlivecloud-cdn.ysp.cctv.cn/95B46411847C6F90F28C5CD4AD9B952BA134B1CCEB439C62214B2D8BFF45BEEB3462AD5F5D26B987E9E3644DF41DD51F733AABBC5A4C01027661375BEFAD584E4029E2C8B2A51A6FDDD2CF6B7CE794FE71C55DA3B6C573E75640E993D6A6C9139F898058A6E2E53BE80395E6127CE1ED532424C43B28428A8543A4B84877E63A1A48144EECCB400D5CD777C6D57C9FD4A852EA19CBCF4C70518F8738A056A939/2025560803.m3u8?from=player&svrtime=1795159715&pid=600190407&cdn=5401",
+      "new_url": "http://119.39.9.8:9901/tsfile/live/0118_1.m3u8",
+      "at": "2026-11-20 07:57:27",
+      "reason": "search-new: 更快 3784ms -> 1075ms",
+      "source": "zilong7728",
+      "resolution": "1920x1080",
+      "open_ms": 1075
+    },
+    {
+      "name": "香港-翡翠台",
+      "old_url": "http://r.jdshipin.com/n90gt",
+      "new_url": "http://r.jdshipin.com/GeWKr",
+      "at": "2026-11-20 07:57:27",
+      "reason": "search-new: 更快 9938ms -> 1667ms",
+      "source": "zilong7728",
+      "resolution": "1920x1080",
+      "open_ms": 1667
     }
   ],
   "deletion_requests": [

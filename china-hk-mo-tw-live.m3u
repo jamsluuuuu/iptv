@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/epg.xml"
+# 2026-11-20 08:10 搜源替换（更快/更清）：香港-翡翠台 更快 9938ms -> 1667ms，新源 http://r.jdshipin.com/GeWKr（zilong7728，两时点核验通过）
+# 2026-11-20 08:03 搜源替换（更快/更清）：山西卫视 更快 3784ms -> 1075ms，新源 http://119.39.9.8:9901/tsfile/live/0118_1.m3u8（zilong7728，两时点核验通过）
 # 2026-11-19 08:17 搜源替换（更快/更清）：广州综合 更快 9663ms -> 922ms，新源 http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8（zilong7728，两时点核验通过）
 # 2026-11-19 08:11 搜源替换（更快/更清）：邢台综合 更快 7164ms -> 970ms，新源 http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8（zilong7728，两时点核验通过）
 # 2026-11-19 08:08 搜源替换（更快/更清）：河北卫视 更快 3010ms -> 543ms，新源 http://120.76.248.139/live/bfgd/4200000108.m3u8（zilong7728，两时点核验通过）
@@ -160,7 +162,7 @@ https://outlivecloud-cdn.ysp.cctv.cn/DD1027B63655B09E4FF2A73AFE98D28401F18AC0561
 #EXTINF:-1 tvg-name="陕西卫视" group-title="省级卫视" tvg-id="陕西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png",陕西卫视
 https://outlivecloud-cdn.ysp.cctv.cn/FBD34F53C139528282C72E76E489A3456C583AC96BF1CBA65351D788164F23A18CD59092820AB21C0B688A8DE60CC094575EB1BCEDA10BA1DD18944B48F7DB6A7B42CBC8F30AA11A2392059FEDB4E7B12662C5EB3ADCD5ACCF3C9902BF38E998E0E840C7CD0503CD372390174D72AAFF5A548997635FD48F8EFA2B50B5D466248B6D795298D49C1EEEE06896AE1421E532955D5ED51C5FB0969FAE0F6ED8B8B6/2029795103.m3u8?from=player&svrtime=1795159707&pid=600190400&cdn=5401
 #EXTINF:-1 tvg-name="山西卫视" group-title="省级卫视" tvg-id="山西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png",山西卫视
-https://outlivecloud-cdn.ysp.cctv.cn/95B46411847C6F90F28C5CD4AD9B952BA134B1CCEB439C62214B2D8BFF45BEEB3462AD5F5D26B987E9E3644DF41DD51F733AABBC5A4C01027661375BEFAD584E4029E2C8B2A51A6FDDD2CF6B7CE794FE71C55DA3B6C573E75640E993D6A6C9139F898058A6E2E53BE80395E6127CE1ED532424C43B28428A8543A4B84877E63A1A48144EECCB400D5CD777C6D57C9FD4A852EA19CBCF4C70518F8738A056A939/2025560803.m3u8?from=player&svrtime=1795159715&pid=600190407&cdn=5401
+http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" group-title="省级卫视" tvg-id="贵州卫视" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png",贵州卫视
 https://outlivecloud-cdn.ysp.cctv.cn/7C1D5D545173A7E2CCB1231CE62EF39EDE1214024ABB0BA5768342C89919C33CFFF690081A2EA919CEDC40ACADC34684918F2DBBE60B8EA9845FB9B4B99DAA08A316CDE30C440A5F61C749AA184447414687A3E8676A485EC894C8ACEF42DFFC2937D3F297D0EC6CD218AF3BFA67945B57D237A4DDC72E3F0233193CE66256F62F4A99A5C16FF828B4FDDA2A07763EB5AF26B9454773C4CEA99DB3367FCF3FD5/2024061603.m3u8?from=player&svrtime=1795159699&pid=600002490&cdn=5401
 #EXTINF:-1 tvg-name="云南卫视" group-title="省级卫视" tvg-id="云南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png",云南卫视
@@ -344,7 +346,7 @@ http://125.227.210.55:3095/VideoInput/play.ts
 #EXTINF:-1 tvg-name="香港-亚洲武侠" group-title="港澳新马" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%BA%9A%E6%B4%B2%E6%AD%A6%E4%BE%A0.png",香港-亚洲武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1 tvg-name="香港-翡翠台" group-title="港澳新马" tvg-id="368366" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",香港-翡翠台
-http://r.jdshipin.com/n90gt
+http://r.jdshipin.com/GeWKr
 #EXTINF:-1 tvg-name="香港-ViuTV" group-title="港澳新马" tvg-id="565569" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/ViuTV.png",香港-ViuTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1 tvg-name="香港-港台电视31" group-title="港澳新马" tvg-id="368550" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%B8%AF%E5%8F%B0%E7%94%B5%E8%A7%8631.png",香港-港台电视31
