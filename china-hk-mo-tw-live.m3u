@@ -328,16 +328,12 @@ http://125.227.210.55:3020/VideoInput/play.ts
 http://125.227.210.55:3022/VideoInput/play.ts
 #EXTINF:-1 tvg-name="三立iNEWS" group-title="台湾电视" tvg-id="370173" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000053.png",三立iNEWS
 https://hami.gxdx.org/hami/1690.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
-#EXTINF:-1 tvg-name="东森财经新闻台" group-title="台湾电视" tvg-id="456558" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%B8%9C%E6%A3%AE%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB%E5%8F%B0.png",东森财经新闻台
-http://125.227.210.55:4051/VideoInput/play.ts
 #EXTINF:-1 tvg-name="东森超视" group-title="台湾电视" tvg-id="456533" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%B8%9C%E6%A3%AE%E8%B6%85%E8%A7%86.png",东森超视
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 #EXTINF:-1 tvg-name="东森幼幼" group-title="台湾电视" tvg-id="456525" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%B8%9C%E6%A3%AE%E5%B9%BC%E5%B9%BC.png",东森幼幼
 http://125.227.210.55:4052/VideoInput/play.ts
 #EXTINF:-1 tvg-name="东森新闻台" group-title="台湾电视" tvg-id="456552" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@88@1564_20230303074926.png",东森新闻台
 https://hami.gxdx.org/hami/1564.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
-#EXTINF:-1 tvg-name="东森财经台" group-title="台湾电视" tvg-id="456558" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@88@1563_20230303074948.png",东森财经台
-https://hami.gxdx.org/hami/1563.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="TVBS" group-title="台湾电视" tvg-id="456557" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/TVBS.png",TVBS
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-name="TVBS欢乐台" group-title="台湾电视" tvg-id="456543" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/TVBS%E6%AC%A2%E4%B9%90%E5%8F%B0.png",TVBS欢乐台
@@ -618,44 +614,6 @@ https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b6
 https://family-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/0426b7a3-6dd5-4a24-ac4c-22227a2b2f9d/4.m3u8
 #EXTINF:-1 tvg-name="MovieSphere" group-title="海外影剧" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/MovieSphere.png",MovieSphere
 https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-name="Love Nature 4K" group-title="海外纪录" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/Love%20Nature%204K.png",Love Nature 4K
-https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
-#EXTINF:-1 tvg-name="RT Documentary" group-title="海外纪录" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/RT%20Documentary.png",RT Documentary
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-name="Inside Outside" group-title="海外纪录" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/Inside%20Outside.png",Inside Outside
-https://52405cd167dc41c68edcaa842b916ccd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_InsideOutside/playlist.m3u8
-#EXTINF:-1 tvg-name="History Hit" group-title="海外纪录" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/History%20Hit.png",History Hit
-https://lds-timeline-rakuten.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-name="Court TV" group-title="海外纪录" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/Court%20TV.png",Court TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
-#EXTINF:-1 tvg-name="Documentary+" group-title="海外纪录" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/Documentary%2B.png",Documentary+
-https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="InTravel" group-title="海外纪录" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/InTravel.png",InTravel
-https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/1080p/index.m3u8
-#EXTINF:-1 tvg-name="NASA+" group-title="海外纪录" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/NASA%2B.png",NASA+
-https://ee119c17e6ed643893ff6ae377fe0693.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/NASAPrime/NASAPlus.m3u8
-#EXTINF:-1 tvg-name="Gusto TV" group-title="海外纪录" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/Gusto%20TV.png",Gusto TV
-https://dbrb49pjoymg4.cloudfront.net/10001/99991328/hls/playlist.m3u8?ads.xumo_channelId=99991328
-#EXTINF:-1 tvg-name="FashionTV Paris L'Original" group-title="海外纪录" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/FashionTV%20Paris%20L%27Original.png",FashionTV Paris L'Original
-https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
-#EXTINF:-1 tvg-name="Global Fashion Channel" group-title="海外纪录" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/Global%20Fashion%20Channel.png",Global Fashion Channel
-https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
-#EXTINF:-1 tvg-name="Qello Concerts" group-title="海外纪录" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/Qello%20Concerts.png",Qello Concerts
-https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-name="Wipeout Xtra" group-title="海外纪录" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/Wipeout%20Xtra.png",Wipeout Xtra
-https://amg00627-banijaygroup-wipeoutxtraau-samsungau-ashbl.amagi.tv/playlist/amg00627-banijaygroup-wipeoutxtraau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-name="Graham Norton" group-title="海外纪录" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/Graham%20Norton.png",Graham Norton
-https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist1080_p.m3u8
-#EXTINF:-1 tvg-name="Mystery TV" group-title="海外纪录" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/Mystery%20TV.png",Mystery TV
-https://aenetworks-mysterytv-rakuten.amagi.tv/1080p-vtt/index.m3u8
-#EXTINF:-1 tvg-name="Estrella TV" group-title="海外纪录" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/Estrella%20TV.png",Estrella TV
-https://estrellatv-oando.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-name="Rai Italia" group-title="海外纪录" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/Rai%20Italia.png",Rai Italia
-https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
-#EXTINF:-1 tvg-name="Rai World Premium" group-title="海外纪录" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/Rai%20World%20Premium.png",Rai World Premium
-https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
-#EXTINF:-1 tvg-name="Mediaset Italia" group-title="海外纪录" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/Mediaset%20Italia.png",Mediaset Italia
-https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
 #EXTINF:-1 tvg-name="CNEX纪实频道" group-title="海外纪录" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@7@1752.png",CNEX纪实频道
 https://hami.gxdx.org/hami/1752.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="影迷数位纪实台" group-title="海外纪录" tvg-id="410773" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@21@2113_20251124091211.jpg",影迷数位纪实台
