@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-21 06:10:28",
-  "total": 229,
+  "generated_at": "2026-11-21 08:19:31",
+  "total": 231,
   "counts": {
     "ok": 167,
     "replaced": 0,
     "dead": 0,
-    "unverified": 62
+    "unverified": 64
   },
   "last_check": "2026-11-21 06:10:28",
-  "last_search": "2026-11-20 07:57:27",
+  "last_search": "2026-11-21 07:57:44",
   "channels": [
     {
       "name": "CCTV-1 综合",
@@ -232,6 +232,15 @@
       "status": "ok",
       "resolution": "1920x1080",
       "open_ms": 4047,
+      "note": "",
+      "bad_days": 0
+    },
+    {
+      "name": "CCTV 16 4K 超",
+      "group": "央视频道",
+      "status": "unverified",
+      "resolution": null,
+      "open_ms": null,
       "note": "",
       "bad_days": 0
     },
@@ -503,6 +512,15 @@
       "resolution": "1920x1080",
       "open_ms": 5058,
       "note": "MCP 源，境外无法核验（仅见测试视频），跳过",
+      "bad_days": 0
+    },
+    {
+      "name": "兵团卫视",
+      "group": "省级卫视",
+      "status": "unverified",
+      "resolution": null,
+      "open_ms": null,
+      "note": "",
       "bad_days": 0
     },
     {
@@ -2074,16 +2092,6 @@
   ],
   "replacements": [
     {
-      "name": "深圳卫视",
-      "old_url": "https://outlivecloud-cdn.ysp.cctv.cn/99B257997BD2D53DB140899FA795AB11A3D7247B02922E368AD6C332E07AEC4B18A6255C6DFFC3842698FB8E172C779C9C5F56C99633F2A5D26E97FE35C7AED25A7D88C7782D8B6313788D0BBCA92B379D8F973C604A9ACC97B74019CEB0057757BF40419B50B932544983CE5D529098959C112C0A41428B17D4CBF8DC1890886BC7DEBC3244F1869E84892961BFC482D5DDE4249F8FD3E79C0BD0A3B2DE561A/2024061303.m3u8?from=player&svrtime=1794900666&pid=600002481&cdn=5401",
-      "new_url": "http://gmxw.7766.org:808/hls/45/index.m3u8",
-      "at": "2026-11-17 07:57:24",
-      "reason": "search-new: 更快 8484ms -> 1131ms",
-      "source": "zilong7728",
-      "resolution": "1920x1080",
-      "open_ms": 1131
-    },
-    {
       "name": "香港-亚洲武侠",
       "old_url": "https://cdn6.cc.cd/163189/yzwx",
       "new_url": "http://php.jdshipin.com/TVOD/iptv.php?id=yzwx",
@@ -2272,6 +2280,16 @@
       "source": "zilong7728",
       "resolution": "1920x1080",
       "open_ms": 1667
+    },
+    {
+      "name": "香港-翡翠台",
+      "old_url": "http://r.jdshipin.com/GeWKr",
+      "new_url": "http://r.jdshipin.com/qClQf",
+      "at": "2026-11-21 07:57:44",
+      "reason": "search-new: 更快 2215ms -> 1190ms",
+      "source": "zilong7728",
+      "resolution": "1920x1080",
+      "open_ms": 1190
     }
   ],
   "deletion_requests": [

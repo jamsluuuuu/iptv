@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/epg.xml"
+# 2026-11-21 08:02 搜源替换（更快/更清）：香港-翡翠台 更快 2215ms -> 1190ms，新源 http://r.jdshipin.com/qClQf（zilong7728，两时点核验通过）
 # 2026-11-21 14:20 加台：兵团卫视、CCTV 16 4K 超（MCP 源）
 # 2026-11-20 08:10 搜源替换（更快/更清）：香港-翡翠台 更快 9938ms -> 1667ms，新源 http://r.jdshipin.com/GeWKr（zilong7728，两时点核验通过）
 # 2026-11-20 08:03 搜源替换（更快/更清）：山西卫视 更快 3784ms -> 1075ms，新源 http://119.39.9.8:9901/tsfile/live/0118_1.m3u8（zilong7728，两时点核验通过）
@@ -351,7 +352,7 @@ http://125.227.210.55:3095/VideoInput/play.ts
 #EXTINF:-1 tvg-name="香港-亚洲武侠" group-title="港澳新马" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%BA%9A%E6%B4%B2%E6%AD%A6%E4%BE%A0.png",香港-亚洲武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1 tvg-name="香港-翡翠台" group-title="港澳新马" tvg-id="368366" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",香港-翡翠台
-http://r.jdshipin.com/GeWKr
+http://r.jdshipin.com/qClQf
 #EXTINF:-1 tvg-name="香港-ViuTV" group-title="港澳新马" tvg-id="565569" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/ViuTV.png",香港-ViuTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1 tvg-name="香港-港台电视31" group-title="港澳新马" tvg-id="368550" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%B8%AF%E5%8F%B0%E7%94%B5%E8%A7%8631.png",香港-港台电视31
