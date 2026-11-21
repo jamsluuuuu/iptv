@@ -390,6 +390,26 @@ https://hami.gxdx.org/hami/2115.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0
 https://hami.gxdx.org/hami/1548.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="中央气象署影音频道" group-title="台湾电视" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@36@1508_20230918074446.jpg",中央气象署影音频道
 https://hami.gxdx.org/hami/1508.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
+#EXTINF:-1 tvg-name="TRACE Sport Stars" group-title="台湾电视" tvg-id="492896" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1759.png",TRACE Sport Stars
+https://hami.gxdx.org/hami/1759.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
+#EXTINF:-1 tvg-name="ROCK Action" group-title="台湾电视" tvg-id="368362" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@156@2005_20230117102027.jpg",ROCK Action
+https://hami.gxdx.org/hami/2005.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
+#EXTINF:-1 tvg-name="ROCK Entertainment" group-title="台湾电视" tvg-id="456828" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000229.png",ROCK Entertainment
+https://hami.gxdx.org/hami/1860.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
+#EXTINF:-1 tvg-name="ROCK X Stream" group-title="台湾电视" tvg-id="517642" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000223.png",ROCK X Stream
+https://hami.gxdx.org/hami/1861.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
+#EXTINF:-1 tvg-name="Warner TV" group-title="台湾电视" tvg-id="456652" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@144@1888_20201110165836.png",Warner TV
+https://hami.gxdx.org/hami/1888.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
+#EXTINF:-1 tvg-name="Mezzo Live" group-title="台湾电视" tvg-id="457239" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1757_20241204101929.png",Mezzo Live
+https://hami.gxdx.org/hami/1757.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
+#EXTINF:-1 tvg-name="Trace Urban" group-title="台湾电视" tvg-id="430245" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1758.png",Trace Urban
+https://hami.gxdx.org/hami/1758.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
+#EXTINF:-1 tvg-name="古典音乐台" group-title="台湾电视" tvg-id="457241" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000184.png",古典音乐台
+https://hami.gxdx.org/hami/1539.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
+#EXTINF:-1 tvg-name="电影原声台CMusic" group-title="台湾电视" tvg-id="457242" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000230.png",电影原声台CMusic
+https://hami.gxdx.org/hami/1938.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
+#EXTINF:-1 tvg-name="tvN" group-title="台湾电视" tvg-id="410288" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@144@1884_20201021112150.png",tvN
+https://hami.gxdx.org/hami/1884.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="博斯高球台" group-title="体育频道" tvg-id="457247" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%83%E5%8F%B0.png",博斯高球台
 http://125.227.210.55:3059/VideoInput/play.ts
 #EXTINF:-1 tvg-name="博斯网球台" group-title="体育频道" tvg-id="456813" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%8D%9A%E6%96%AF%E7%BD%91%E7%90%83%E5%8F%B0.png",博斯网球台
@@ -484,44 +504,6 @@ https://hami.gxdx.org/hami/2003.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0
 https://hami.gxdx.org/hami/2004.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="NHK新闻资讯台" group-title="新闻频道" tvg-id="368337" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@214@1974_20220110093956.jpg",NHK新闻资讯台
 https://hami.gxdx.org/hami/1974.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
-#EXTINF:-1 tvg-name="香港-亚洲武侠" group-title="港澳新马" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%BA%9A%E6%B4%B2%E6%AD%A6%E4%BE%A0.png",香港-亚洲武侠
-http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:-1 tvg-name="香港-翡翠台" group-title="港澳新马" tvg-id="368366" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",香港-翡翠台
-http://r.jdshipin.com/qClQf
-#EXTINF:-1 tvg-name="香港-ViuTV" group-title="港澳新马" tvg-id="565569" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/ViuTV.png",香港-ViuTV
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-#EXTINF:-1 tvg-name="香港-港台电视31" group-title="港澳新马" tvg-id="368550" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%B8%AF%E5%8F%B0%E7%94%B5%E8%A7%8631.png",香港-港台电视31
-https://cdn.qd.je/163189/rthk31
-#EXTINF:-1 tvg-name="香港-港台电视32" group-title="港澳新马" tvg-id="368551" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%B8%AF%E5%8F%B0%E7%94%B5%E8%A7%8632.png",香港-港台电视32
-https://cdn.qd.je/163189/rthk32
-#EXTINF:-1 tvg-name="香港-TVB Plus" group-title="港澳新马" tvg-id="368361" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/TVB_Plus.png",香港-TVB Plus
-http://r.jdshipin.com/Nr5jq
-#EXTINF:-1 tvg-name="香港-TVB 星河" group-title="港澳新马" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/TVB_%E6%98%9F%E6%B2%B3.png",香港-TVB 星河
-http://r.jdshipin.com/Voac4
-#EXTINF:-1 tvg-name="香港-明珠" group-title="港澳新马" tvg-id="368369" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%98%8E%E7%8F%A0.png",香港-明珠
-http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-#EXTINF:-1 tvg-name="香港-凤凰中文" group-title="港澳新马" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png",香港-凤凰中文
-http://r.jdshipin.com/cCCzW
-#EXTINF:-1 tvg-name="香港-TVB1（美国）" group-title="港澳新马" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%A6%99%E6%B8%AF-TVB1%EF%BC%88%E7%BE%8E%E5%9B%BD%EF%BC%89.png",香港-TVB1（美国）
-https://cdn6.cc.cd/163189/tvb1
-#EXTINF:-1 tvg-name="香港-TVBJ1" group-title="港澳新马" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%A6%99%E6%B8%AF-TVBJ1.png",香港-TVBJ1
-https://cdn6.cc.cd/163189/j1
-#EXTINF:-1 tvg-name="香港-华丽翡翠台" group-title="港澳新马" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%A6%99%E6%B8%AF-%E5%8D%8E%E4%B8%BD%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",香港-华丽翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-#EXTINF:-1 tvg-name="澳门-澳视澳门" group-title="港澳新马" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%BE%B3%E8%A7%86%E6%BE%B3%E9%97%A8.png",澳门-澳视澳门
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=asam
-#EXTINF:-1 tvg-name="新加坡-CH8" group-title="港澳新马" tvg-id="492894" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%96%B0%E5%8A%A0%E5%9D%A1-CH8.png",新加坡-CH8
-https://cdn.qd.je/163189/ch8
-#EXTINF:-1 tvg-name="新加坡-CHU" group-title="港澳新马" tvg-id="492864" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%96%B0%E5%8A%A0%E5%9D%A1-CHU.png",新加坡-CHU
-https://cdn.qd.je/163189/chu
-#EXTINF:-1 tvg-name="马来西亚-Astro AOD" group-title="港澳新马" tvg-id="2124" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A-Astro%20AOD.png",马来西亚-Astro AOD
-http://php.jdshipin.com/TVOD/iptv.php?id=aod
-#EXTINF:-1 tvg-name="马来西亚-Astro AEC" group-title="港澳新马" tvg-id="2226" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A-Astro%20AEC.png",马来西亚-Astro AEC
-https://cdn3.indevs.in/stream/live/aec/
-#EXTINF:-1 tvg-name="马来西亚-Astro 爱奇艺" group-title="港澳新马" tvg-id="3290" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A-Astro%20%E7%88%B1%E5%A5%87%E8%89%BA.png",马来西亚-Astro 爱奇艺
-https://cdn3.indevs.in/stream/live/iqiyi/
-#EXTINF:-1 tvg-name="马来西亚-Astro 欢喜台" group-title="港澳新马" tvg-id="1951" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A-Astro%20%E6%AC%A2%E5%96%9C%E5%8F%B0.png",马来西亚-Astro 欢喜台
-https://cdn3.indevs.in/stream/live/hxt/
 #EXTINF:-1 tvg-name="日本-NHK World-Japan" group-title="海外综合" tvg-id="368337" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%97%A5%E6%9C%AC_NHK_World_Japan.png",日本-NHK World-Japan
 https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-name="日本-NHK综合" group-title="海外综合" tvg-id="10758" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%97%A5%E6%9C%AC-NHK%E7%BB%BC%E5%90%88.png",日本-NHK综合
@@ -554,28 +536,6 @@ http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-name="Wild Earth" group-title="海外综合" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/Wild%20Earth.png",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 tvg-name="动物星球（美国）" group-title="海外综合" tvg-id="465310" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%8A%A8%E7%89%A9%E6%98%9F%E7%90%83_%E7%BE%8E%E5%9B%BD.png",动物星球（美国）
-http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-#EXTINF:-1 tvg-name="TRACE Sport Stars" group-title="海外综合" tvg-id="492896" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1759.png",TRACE Sport Stars
-https://hami.gxdx.org/hami/1759.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
-#EXTINF:-1 tvg-name="ROCK Action" group-title="海外综合" tvg-id="368362" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@156@2005_20230117102027.jpg",ROCK Action
-https://hami.gxdx.org/hami/2005.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
-#EXTINF:-1 tvg-name="ROCK Entertainment" group-title="海外综合" tvg-id="456828" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000229.png",ROCK Entertainment
-https://hami.gxdx.org/hami/1860.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
-#EXTINF:-1 tvg-name="ROCK X Stream" group-title="海外综合" tvg-id="517642" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000223.png",ROCK X Stream
-https://hami.gxdx.org/hami/1861.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
-#EXTINF:-1 tvg-name="Warner TV" group-title="海外综合" tvg-id="456652" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@144@1888_20201110165836.png",Warner TV
-https://hami.gxdx.org/hami/1888.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
-#EXTINF:-1 tvg-name="Mezzo Live" group-title="海外综合" tvg-id="457239" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1757_20241204101929.png",Mezzo Live
-https://hami.gxdx.org/hami/1757.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
-#EXTINF:-1 tvg-name="Trace Urban" group-title="海外综合" tvg-id="430245" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1758.png",Trace Urban
-https://hami.gxdx.org/hami/1758.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
-#EXTINF:-1 tvg-name="古典音乐台" group-title="海外综合" tvg-id="457241" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000184.png",古典音乐台
-https://hami.gxdx.org/hami/1539.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
-#EXTINF:-1 tvg-name="电影原声台CMusic" group-title="海外综合" tvg-id="457242" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000230.png",电影原声台CMusic
-https://hami.gxdx.org/hami/1938.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
-#EXTINF:-1 tvg-name="tvN" group-title="海外综合" tvg-id="410288" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@144@1884_20201021112150.png",tvN
-https://hami.gxdx.org/hami/1884.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="CNEX纪实频道" group-title="海外纪录" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@7@1752.png",CNEX纪实频道
 https://hami.gxdx.org/hami/1752.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="影迷数位纪实台" group-title="海外纪录" tvg-id="410773" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@21@2113_20251124091211.jpg",影迷数位纪实台
