@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/epg.xml"
+# 2026-11-21 22:30 龙华电影/戏剧/偶像改走 Hami 中继（家里 Clash 代理测分片 HTTP 200，电视待验）
 # 2026-11-21 08:02 搜源替换（更快/更清）：香港-翡翠台 更快 2215ms -> 1190ms，新源 http://r.jdshipin.com/qClQf（zilong7728，两时点核验通过）
 # 2026-11-21 14:20 加台：兵团卫视、CCTV 16 4K 超（MCP 源）
 # 2026-11-20 08:10 搜源替换（更快/更清）：香港-翡翠台 更快 9938ms -> 1667ms，新源 http://r.jdshipin.com/GeWKr（zilong7728，两时点核验通过）
@@ -268,17 +269,17 @@ http://125.227.210.55:3085/VideoInput/play.ts
 #EXTINF:-1 tvg-name="民视新闻" group-title="台湾电视" tvg-id="456553" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB.png",民视新闻
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 tvg-name="龙华电影" group-title="台湾电视" tvg-id="457361" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png",龙华电影
-https://cdn.qd.je/163189/lhdy
+https://hami.gxdx.org/hami/1840.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="龙华经典" group-title="台湾电视" tvg-id="457370" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%BE%99%E5%8D%8E%E7%BB%8F%E5%85%B8.png",龙华经典
 https://cdn.qd.je/163189/lhjd
 #EXTINF:-1 tvg-name="龙华卡通" group-title="台湾电视" tvg-id="457225" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%BE%99%E5%8D%8E%E5%8D%A1%E9%80%9A.png",龙华卡通
 https://cdn.qd.je/163189/lhkt
 #EXTINF:-1 tvg-name="龙华偶像" group-title="台湾电视" tvg-id="457314" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%BE%99%E5%8D%8E%E5%81%B6%E5%83%8F.png",龙华偶像
-https://cdn.qd.je/163189/lhox
+https://hami.gxdx.org/hami/1904.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="龙华日韩" group-title="台湾电视" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%BE%99%E5%8D%8E%E6%97%A5%E9%9F%A9.png",龙华日韩
 https://cdn.qd.je/163189/lhrh
 #EXTINF:-1 tvg-name="龙华戏剧" group-title="台湾电视" tvg-id="457313" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7.png",龙华戏剧
-https://cdn.qd.je/163189/lhxj
+https://hami.gxdx.org/hami/1839.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="龙华洋片" group-title="台湾电视" tvg-id="457364" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%BE%99%E5%8D%8E%E6%B4%8B%E7%89%87.png",龙华洋片
 https://cdn.qd.je/163189/lhyp
 #EXTINF:-1 tvg-name="纬来电影" group-title="台湾电视" tvg-id="456565" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E7%BA%AC%E6%9D%A5%E7%94%B5%E5%BD%B1.png",纬来电影
