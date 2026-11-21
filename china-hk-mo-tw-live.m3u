@@ -356,8 +356,6 @@ http://125.227.210.55:3056/VideoInput/play.ts
 http://125.227.210.55:4050/VideoInput/play.ts
 #EXTINF:-1 tvg-name="CINEMAX" group-title="台湾电视" tvg-id="456574" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/CINEMAX.png",CINEMAX
 http://125.227.210.55:1001/VideoInput/play.ts
-#EXTINF:-1 tvg-name="Discovery" group-title="台湾电视" tvg-id="456519" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/Discovery.png",Discovery
-http://125.227.210.55:1004/VideoInput/play.ts
 #EXTINF:-1 tvg-name="HBO HD" group-title="台湾电视" tvg-id="456655" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/HBO_HD.png",HBO HD
 http://125.227.210.55:1003/VideoInput/play.ts
 #EXTINF:-1 tvg-name="大立电视" group-title="台湾电视" tvg-id="456622" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%A4%A7%E7%AB%8B%E7%94%B5%E8%A7%86.png",大立电视
