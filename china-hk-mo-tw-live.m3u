@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/epg.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/jamsluuuuu/iptv/main/epg.xml"
 # 2026-11-21 22:30 龙华电影/戏剧/偶像改走 Hami 中继（家里 Clash 代理测分片 HTTP 200，电视待验）
 # 2026-11-21 08:02 搜源替换（更快/更清）：香港-翡翠台 更快 2215ms -> 1190ms，新源 http://r.jdshipin.com/qClQf（zilong7728，两时点核验通过）
 # 2026-11-21 14:20 加台：兵团卫视、CCTV 16 4K 超（MCP 源）
