@@ -270,7 +270,7 @@ https://hami.gxdx.org/hami/1549.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0
 https://hami.gxdx.org/hami/1652.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="靖天育乐台" group-title="台湾电视" tvg-id="456665" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@80@2095_20250327091224.jpg",靖天育乐台
 https://hami.gxdx.org/hami/2095.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
-#EXTINF:-1 tvg-name="靖天中文台" group-title="台湾电视" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@21@2113_20251124091157.jpg",靖天中文台
+#EXTINF:-1 tvg-name="靖天中文台" group-title="台湾电视" tvg-id="靖天中文台" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@21@2113_20251124091157.jpg",靖天中文台
 https://hami.gxdx.org/hami/2114.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="中天娱乐" group-title="台湾电视" tvg-id="456539" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%B8%AD%E5%A4%A9%E5%A8%B1%E4%B9%90.png",中天娱乐
 http://125.227.210.55:3044/VideoInput/play.ts
@@ -292,7 +292,7 @@ http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 https://hami.gxdx.org/hami/1789.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="爱尔达影剧台" group-title="台湾电视" tvg-id="457316" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1517.png",爱尔达影剧台
 https://hami.gxdx.org/hami/1517.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
-#EXTINF:-1 tvg-name="爱尔达日韩台" group-title="台湾电视" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@2079_20240314140751.jpg",爱尔达日韩台
+#EXTINF:-1 tvg-name="爱尔达日韩台" group-title="台湾电视" tvg-id="爱尔达日韩台" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@2079_20240314140751.jpg",爱尔达日韩台
 https://hami.gxdx.org/hami/2079.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="爱尔达综合" group-title="台湾电视" tvg-id="457288" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000024.png",爱尔达综合
 https://hami.gxdx.org/hami/1573.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
@@ -308,7 +308,7 @@ http://125.227.210.55:1003/VideoInput/play.ts
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-name="天映经典" group-title="台湾电视" tvg-id="368371" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8.png",天映经典
 https://cdn.qd.je/163189/ccm2
-#EXTINF:-1 tvg-name="天映频道" group-title="台湾电视" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93.png",天映频道
+#EXTINF:-1 tvg-name="天映频道" group-title="台湾电视" tvg-id="369730" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93.png",天映频道
 https://cdn.qd.je/163189/typd2
 #EXTINF:-1 tvg-name="龙祥时代" group-title="台湾电视" tvg-id="龙祥时代" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%BE%99%E7%A5%A5%E6%97%B6%E4%BB%A3.png",龙祥时代
 http://125.227.210.55:1084/VideoInput/play.ts

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="iptv-epg-merge" generator-info-url="https://github.com/jamsluuuuu/iptv" date="20261122113935 +0800">
+<tv generator-info-name="iptv-epg-merge" generator-info-url="https://github.com/jamsluuuuu/iptv" date="20261122114822 +0800">
   <channel id="545932">
     <display-name lang="zh">CCTV-1 综合</display-name>
   </channel>
@@ -264,6 +264,9 @@
   <channel id="368371">
     <display-name lang="zh">天映经典</display-name>
   </channel>
+  <channel id="369730">
+    <display-name lang="zh">天映频道</display-name>
+  </channel>
   <channel id="456557">
     <display-name lang="zh">TVBS</display-name>
   </channel>
@@ -477,6 +480,9 @@
   <channel id="457316">
     <display-name lang="zh">爱尔达影剧台</display-name>
   </channel>
+  <channel id="爱尔达日韩台">
+    <display-name lang="zh">爱尔达日韩台</display-name>
+  </channel>
   <channel id="457288">
     <display-name lang="zh">爱尔达综合</display-name>
   </channel>
@@ -497,6 +503,9 @@
   </channel>
   <channel id="456587">
     <display-name lang="zh">镜电视新闻台</display-name>
+  </channel>
+  <channel id="靖天中文台">
+    <display-name lang="zh">靖天中文台</display-name>
   </channel>
   <channel id="456659">
     <display-name lang="zh">靖天日本台</display-name>
@@ -16478,6 +16487,174 @@
   <programme channel="368371" start="20261128223000 +0800" stop="20261129000000 +0800">
     <title lang="zh">包剪石沓</title>
     <desc lang="zh">幽默風趣的愛情喜劇,三個年青醫生常開道、史瑞科、蕭而可,被安排追求院長的三個女兒靈珍、靈珊、靈玲.三人以「包、剪、搥」來決定追求對象,他們的追女橋段層出不窮,用盡英雄救美、苦肉計、死纏爛打等愛情藥方,卻全部失靈,烏龍百出...</desc>
+  </programme>
+  <programme channel="369730" start="20261122001000 +0800" stop="20261122014500 +0800">
+    <title lang="zh">铁线功夫拳 / Iron Kung Fu Fist</title>
+    <desc lang="zh">武术宗师梁坤为保护心爱的女人毅然退隐江湖，不料他的隐忍却换来了爱人的惨死。意识到宿命避无可避，他重返武林，在丐帮帮主苏灿的鼎力相助下，梁坤杀出一条血路，誓要向那些冷血仇敌讨回血债。.</desc>
+  </programme>
+  <programme channel="369730" start="20261122014500 +0800" stop="20261122032000 +0800">
+    <title lang="zh">逃学威龙三之龙过鸡年 / Fight Back to School III</title>
+    <desc lang="zh">富商王百万被发现离奇死于酒店房间，由于周星星与他极为相似，星星再次接受任务，作卧底调查这宗谋杀案。王百万生前与妻子感情早已破裂，妻子因此成为头号嫌疑人。然而，在调查过程中，星星发现王百万的友人林大岳同样形迹可疑…….</desc>
+  </programme>
+  <programme channel="369730" start="20261122032000 +0800" stop="20261122044000 +0800">
+    <title lang="zh">风流冤鬼 / Sex Beyond The Grave</title>
+    <desc lang="zh">红歌女阿花遭大户陶老爷奸杀，陶宅即常闹鬼，后陶老爷亦神秘死亡。陶之后人陶明嗜赌如命，更因鬼魂作怪而欠下巨款。明妻暗中将陶宅售予杨教授夫妇，即遇上怪事连篇...</desc>
+  </programme>
+  <programme channel="369730" start="20261122044000 +0800" stop="20261122061500 +0800">
+    <title lang="zh">少年陈真之乱世英雄 / Young Heroes of Chaotic Times</title>
+    <desc lang="zh">电影讲述清末上海的小人物陈真，在经历苦难及面对无数挑战后，蜕变成长为民族英雄的故事。.</desc>
+  </programme>
+  <programme channel="369730" start="20261122061500 +0800" stop="20261122074500 +0800">
+    <title lang="zh">画皮 / Painted Face</title>
+    <desc lang="zh">书生王怀卿卖画，为要筹药费救患重病的妻子，途中意外遇上雀妖的追击，幸得狐妖小容相救。为躲避雀妖，王怀卿将小容带回家中，三人随即陷入一场情感困局，而一段凄美的人妖虐恋亦随即展开。.</desc>
+  </programme>
+  <programme channel="369730" start="20261122074500 +0800" stop="20261122094000 +0800">
+    <title lang="zh">关云长 / The Lost Bladesman</title>
+    <desc lang="zh">这是一场发生在三国动荡时期的史诗式之旅。曹操试图招揽关羽加入他的阵营，但关羽忠于他的结拜兄弟刘备，也是曹操的敌人。当关羽试图从曹操手上救出刘备的小妾时，迫于无奈要大开杀戒。最后他能否杀出重围？.</desc>
+  </programme>
+  <programme channel="369730" start="20261122094000 +0800" stop="20261122110500 +0800">
+    <title lang="zh">少年叶问之危机时刻 / Young Ip Man: Crisis Time</title>
+    <desc lang="zh">1917年，少年叶问初到香港求学。英文演讲比赛当天，学校发生一宗惊天绑架案，全校同学都被挟持。面对眼前的危机，叶问挺身而出，发现绑匪竟然是自己的师父和好兄弟。少年叶问在危机时刻可否打败绑匪，从而伸张正义？.</desc>
+  </programme>
+  <programme channel="369730" start="20261122110500 +0800" stop="20261122130500 +0800">
+    <title lang="zh">新宿事件 / Shinjuku Incident</title>
+    <desc lang="zh">偷渡到东京的铁头与一帮华人在当地艰难求生，并逐渐建立起一股黑帮新势力。当铁头取得居留权，决心退出江湖、展开新生活时，势力的急速扩张却引来各方势力围剿。面对警方大举扫黑，加上兄弟无情出卖，他最终被迫重返江湖。.</desc>
+  </programme>
+  <programme channel="369730" start="20261122130500 +0800" stop="20261122144000 +0800">
+    <title lang="zh">打雀英雄传 / Mahjong Heroes</title>
+    <desc lang="zh">足智多谋的麻雀英雄，为避免年轻计算机专家的麻雀馆落入麻雀千王手上，不惜重新出山与千王鏖战。.</desc>
+  </programme>
+  <programme channel="369730" start="20261122144000 +0800" stop="20261122160500 +0800">
+    <title lang="zh">六耳猕猴 / The Macaque Monkey</title>
+    <desc lang="zh">生命之树被烧毁后，世间陷入一片混沌。为拯救苍生，孙悟空决定回到过去，帮助生命之树复活。因为失去了金箍棒，孙悟空力量时有时无，只得找回儿时的自己，一同前往寻找时间之力。不料，六耳猕猴却想据为己有，两人就此爆发激战。.</desc>
+  </programme>
+  <programme channel="369730" start="20261122160500 +0800" stop="20261122174500 +0800">
+    <title lang="zh">追女三十六房 / 36 Secrets of Courtship</title>
+    <desc lang="zh">故事描述一间「猛男训练中心」专门教授男人在情场上的杀着。可惜校长与其女友缠绵时不幸暴毙，学校三位教授想出招数争夺学校拥有权，闹出连场笑话...</desc>
+  </programme>
+  <programme channel="369730" start="20261122174500 +0800" stop="20261122192500 +0800">
+    <title lang="zh">龙虎武师 / Kungfu Stuntmen</title>
+    <desc lang="zh">香港动作电影向来以龙虎武师的真功夫蜚声国际。这部纪录片向过去所有的龙虎武师致敬，并用上超过两年时间梳理了海量的影像数据，更采访了无数动作特技演员分享拍摄时的辛酸事迹，当中包括著名武打巨星成龙、甄子丹及洪金宝。.</desc>
+  </programme>
+  <programme channel="369730" start="20261122192500 +0800" stop="20261122210000 +0800">
+    <title lang="zh">天官赐福 / How to Choose a Royal Bride</title>
+    <desc lang="zh">康熙少年嗣位，太后急欲替他完婚，遂选纳大臣之女纳兰琼瑶为妃，但琼瑶为争取婚姻自由离家出走，康熙亦乐得不用成婚。后来康熙微服下江南，却偶遇女扮男装的琼瑶….</desc>
+  </programme>
+  <programme channel="369730" start="20261122210000 +0800" stop="20261122224000 +0800">
+    <title lang="zh">黑白潜行 / The Grey Men</title>
+    <desc lang="zh">警校生阿山奉命卧底监狱，接近犯罪集团二把手阿天，暗中搜集其犯罪证据。阿天出狱后，阿山协助他以铁血手段一路厮杀，最终登上社团话事人之位。然而，阿山频繁与警方接触的行迹逐渐败露，卧底身份被社团识破，瞬间陷入生死危局，而一个足以颠覆一切的秘密也即将浮出水面。.</desc>
+  </programme>
+  <programme channel="369730" start="20261122224000 +0800" stop="20261123000000 +0800">
+    <title lang="zh">爱的世界 / The Story Of My Son</title>
+    <desc lang="zh">李子良丧妻后，与两个儿子相依为命。妻子的巨额医药费令子良经济十分拮据，受同事教唆往马场孤注一掷，迫得向高利贷借款，从此子良债台高筑，疲于奔命，没有时间与儿子沟通，父子疏离。与此同时高利贷不断登门恐吓，骚扰儿子，最终弄至悲剧发生….</desc>
+  </programme>
+  <programme channel="369730" start="20261123000000 +0800" stop="20261123013000 +0800">
+    <title lang="zh">错爱迷踪 / Endless Love</title>
+    <desc lang="zh">跟朋友在酒吧喝酒的女孩邂逅恐怖小说家，两人一见钟情感情迅速升温。原来女孩已悄然落入惊天迷局，全因小说家的前女友是个毁容的女鬼，她借用人面还魂复仇，与前男友连手开启夺命惊吓。.</desc>
+  </programme>
+  <programme channel="369730" start="20261123013000 +0800" stop="20261123032000 +0800">
+    <title lang="zh">消失的子弹 / The Bullet Vanishes</title>
+    <desc lang="zh">民国初年，一家兵工厂发生离奇连环命案。死者皆死于枪击，现场却遍寻不到弹头，引发幽灵子弹索命恐慌。警政官松东路与热血神枪手郭追受命连手侦破此案。随着调查深入，两人发现阿森纳内黑幕重重，而真相竟隐藏在一个关于正义与人性堕落的惊人诡计之中。.</desc>
+  </programme>
+  <programme channel="369730" start="20261123032000 +0800" stop="20261123050000 +0800">
+    <title lang="zh">神勇双妹唛 / Doubles Cause Troubles</title>
+    <desc lang="zh">故事描述一对表姐妹梁山伯与祝英台乃斗气冤家，两女为争夺神秘俊男阿山欢心，却惹来大圈杀手威吓逼害，更陷入一场宝物争夺战。两女身陷险境，惟有摒弃前嫌，连手反抗…….</desc>
+  </programme>
+  <programme channel="369730" start="20261123050000 +0800" stop="20261123063500 +0800">
+    <title lang="zh">白发鬼 / Face to Face</title>
+    <desc lang="zh">年轻俊秀，生于名门望族的日籍华人林保，自幼失去父母，与大学好友川村感情深厚。二人都对美少女琉璃子心存爱慕，但川村自怜身世，不敢与林保争夺，林保顺利娶得琉璃子为妻。林保出国公干期间，川村和琉璃子耐不住寂寞，有了奸情。不久之后，林保竟在一次滑雪中意外身亡...</desc>
+  </programme>
+  <programme channel="369730" start="20261123063500 +0800" stop="20261123080500 +0800">
+    <title lang="zh">飞龙再生 / The Medallion</title>
+    <desc lang="zh">香港特警阿狄在跨国追捕人蛇集团时，为救圣童不幸溺毙，却意外在「再生龙章」圣光中重获新生，并获得惊人的自愈能力。岂料宿敌同样夺取神力，设局步步追杀。退无可退的阿狄孤身深入虎穴，在幽暗古堡展开一场拳拳到肉、生死一线的终极激战。.</desc>
+  </programme>
+  <programme channel="369730" start="20261123080500 +0800" stop="20261123102000 +0800">
+    <title lang="zh">让子弹飞 / Let The Bullets Fly</title>
+    <desc lang="zh">悍匪张牧之劫持火车，冒充新任县长强横进驻鹅城。本想靠升官发财大捞一笔，却撞上了只手遮天的当地地头蛇恶霸黄四郎。在满嘴谎言的骗子师爷马邦德的利益周旋下，黑白两道展开一场智力与火力的巅峰对决。在这场荒诞的杀戮游戏中，且看子弹如何飞往最终的真相。.</desc>
+  </programme>
+  <programme channel="369730" start="20261123102000 +0800" stop="20261123115500 +0800">
+    <title lang="zh">我的野蛮同学 / My School Mate, The Barbarian</title>
+    <desc lang="zh">在一间Band5学校有个打擂台的传统，学生会在课室将很多张书桌拼成一个擂台，在擂台上进行决胜去解决一切争执。四个性格各异的少年石头、Edward、亚凤、Seven意外地成为朋友，共同经历了难忘的成长体验...</desc>
+  </programme>
+  <programme channel="369730" start="20261123115500 +0800" stop="20261123132500 +0800">
+    <title lang="zh">赤脚小子 / The Bare-footed Kid</title>
+    <desc lang="zh">穷乡青年关丰曜，终日赤着双脚，以背人过河为活。关父临终前，嘱其出城投靠段青云；段骤见故人之子，留下关在布店当小工。关与私塾女教师华小莲交心，却遭莲父白眼；关为求出人头地，竟往投靠土霸喀和布，结果连累莲父与段相继被喀暗算身亡。关得知真相，惜为时已晚，追悔莫及，决与喀拼过死活...</desc>
+  </programme>
+  <programme channel="369730" start="20261123132500 +0800" stop="20261123151500 +0800">
+    <title lang="zh">十万火急 / Lifeline</title>
+    <desc lang="zh">这是关于香港消防员的英勇救火故事。勇敢的消防员无惧冲天大火，肩负救灾扶危的重任，甚至舍身救人。但当消防员脱下制服后，是否仍同样勇敢地面对自身的难题呢？.</desc>
+  </programme>
+  <programme channel="369730" start="20261123151500 +0800" stop="20261123173000 +0800">
+    <title lang="zh">风云雄霸天下 / The Stormriders</title>
+    <desc lang="zh">十年前，笃信命理的「天下会」霸主雄霸请来泥菩萨推算命运。泥菩萨预言，若想称霸武林，必须收两位名字分别带有「风」与「云」的少年为徒，他们将助他成就霸业，也将左右他一生的命运。霸业虽成，预言却骤然逆转，一场由批言引发的武林浩劫，彻底改变了整个武林的命运。.</desc>
+  </programme>
+  <programme channel="369730" start="20261123173000 +0800" stop="20261123191000 +0800">
+    <title lang="zh">鬼马飞人 / The Flying Mr. B</title>
+    <desc lang="zh">阿B为一名中学的体育教师，其执教之学校篮、足球队成绩甚差，学校下令他务必赢得校际比赛冠军，否则将撤换教练。阿B因头痛，误服同事研制之神药，变成超人，令球队屡次创造奇迹...</desc>
+  </programme>
+  <programme channel="369730" start="20261123191000 +0800" stop="20261123210000 +0800">
+    <title lang="zh">冰封侠重生之门 / Iceman</title>
+    <desc lang="zh">明朝锦衣卫贺英被诬陷为弑君逆贼，三位结义兄弟奉命追杀。在生死对决之际，四人意外被冰封于时空裂隙。四百年后，他们在现代香港苏醒。一场跨越时代的宿命之战，于陌生都市再度引爆。.</desc>
+  </programme>
+  <programme channel="369730" start="20261123210000 +0800" stop="20261123224000 +0800">
+    <title lang="zh">贼王之王 / Winner Takes All</title>
+    <desc lang="zh">两名私家侦探欲藉破一连环大劫案而声名大噪。岂料调查过程中竟一再被贼王使计愚弄，笑话连篇。及后更发现原来所有劫案均与日商宫本有关，到底谁才是真正的贼王之王？.</desc>
+  </programme>
+  <programme channel="369730" start="20261123224000 +0800" stop="20261124003000 +0800">
+    <title lang="zh">特务迷城 / The Accidental Spy</title>
+    <desc lang="zh">天赋异禀的健身器材店员小北跨国寻亲，意外卷入特务父亲遗留的谜局，远赴土耳其追寻身世与巨额遗产，却不料陷入国际反恐阴谋。面对炭疽病毒引发的全球危机，小北在土耳其街头展开惊心动魄的跨国大逃亡。在重重谜局的考验中，他突破自我极限，从平凡蜕变为守护世界的孤胆英雄。.</desc>
+  </programme>
+  <programme channel="369730" start="20261124003000 +0800" stop="20261124024000 +0800">
+    <title lang="zh">新少林寺 / Shaolin</title>
+    <desc lang="zh">骄横军阀侯杰在惨遭亲信曹蛮残酷背叛、痛失至爱幼女后，心灰意冷下大彻大悟投身少林隐姓埋名。不料野心勃勃的叛将曹蛮紧随其后引兵屠城，使千年古刹少林危在旦夕。已皈依佛门的侯杰重拾昔日信念，在这场充满血色的因果轮回中，誓以血肉之躯筑起最后的救赎。.</desc>
+  </programme>
+  <programme channel="369730" start="20261124024000 +0800" stop="20261124041500 +0800">
+    <title lang="zh">看不见的他们 / Never Leave</title>
+    <desc lang="zh">一场车祸后，林月家里怪事连连。全身冰冷的姐姐在镜子里看不见家人的身影，黑夜里爸爸窥探的双眼，和每天凌晨阁楼传来的弹珠声。林月循声而上去寻找真相，却在打开阁楼的门后，发现里面紧锁的是自己的遗像….</desc>
+  </programme>
+  <programme channel="369730" start="20261124041500 +0800" stop="20261124054000 +0800">
+    <title lang="zh">曼谷风云 / Bangkok Storm</title>
+    <desc lang="zh">地下拳手林枫因拒绝替曼谷黑帮打黑拳，因此被追杀。他虽成功逃脱，却失去记忆。当林枫开展其新生活时，却被黑帮发现行踪，并找来绝顶打手对付他。期间林枫忽然回复记忆，并誓要将黑帮歼灭。.</desc>
+  </programme>
+  <programme channel="369730" start="20261124054000 +0800" stop="20261124072000 +0800">
+    <title lang="zh">花心大少 / Hong Kong Playboys</title>
+    <desc lang="zh">严钱声是一名自恃追女高手的富家花花公子，被母亲劝喻要成家立室。他在寻找生命中的女主角时，被两个追女高手挑战。到底他最后能否找到心中最爱?</desc>
+  </programme>
+  <programme channel="369730" start="20261124072000 +0800" stop="20261124083500 +0800">
+    <title lang="zh">怪谈 / The Case of Disappearances</title>
+    <desc lang="zh">在迷雾村，为人养子的文杰反复梦见同一个噩梦。为了解开身世之谜，他卷入连串神秘的失踪案件中。随着更多村民相继离奇死去，村民更深信不疑千年来的井龙王诅咒。于是，文杰与保安队长连手探寻真相，揭开反派阴谋，最终拯救被危害的无辜村民.</desc>
+  </programme>
+  <programme channel="369730" start="20261124083500 +0800" stop="20261124104000 +0800">
+    <title lang="zh">逆战 / The Viral Factor</title>
+    <desc lang="zh">国际安全局探员Jon在一次行动中遭上司Sean背叛，导致几乎全军覆没，自己亦身负重伤，脑中残留的弹头如定时炸弹般随时可能夺命。为圆母亲心愿，他远赴马来西亚寻找失散多年的兄长，却意外卷入一宗绑架案。追查之下，发现绑匪竟是兄长万阳，而幕后黑手正是Sean！.</desc>
+  </programme>
+  <programme channel="369730" start="20261124104000 +0800" stop="20261124125000 +0800">
+    <title lang="zh">大魔术师 / The Great Magician</title>
+    <desc lang="zh">军阀雷大牛手握重兵，权倾一方，却始终无法赢得三姨太柳遥的芳心。此时，神秘魔术师张贤凭惊世古彩戏法名动京城，并受邀入雷府表演。表面卖艺的他，实则是柳遥昔日未婚夫。在这场真假难辨的奇幻博弈中，张贤暗藏着偷天换日的救人与复仇计划。.</desc>
+  </programme>
+  <programme channel="369730" start="20261124125000 +0800" stop="20261124143000 +0800">
+    <title lang="zh">逃学威龙 / Fight Back to School</title>
+    <desc lang="zh">飞虎队精英周星星奉命潜入校园，调查一宗警枪失窃案。在拍档达叔的协助下，他不仅成功寻回失枪，更意外揭发一宗大型地下军火交易。走私集团为报复，悍然持械闯入学校，挟持多名学生作为人质。周星星必须不惜一切代价，拯救所有人质。.</desc>
+  </programme>
+  <programme channel="369730" start="20261124143000 +0800" stop="20261124155000 +0800">
+    <title lang="zh">火云邪神之修罗面具 / The Mask of Shura of Fire Cloud</title>
+    <desc lang="zh">十八年前，邪恶的黑羽会潜入了老邪神西城勇的地盘，盗走了修罗面具，而利用修罗面具放出当时只是个婴儿的魔神。老邪神为了魔神日后不作恶收养了婴儿，教他好好做人，成为小邪神。小邪神最后控制了面具的力量成为老邪神的接班人，继续守护城市。.</desc>
+  </programme>
+  <programme channel="369730" start="20261124155000 +0800" stop="20261124173000 +0800">
+    <title lang="zh">我爱罗兰度 / I Love Lolanto</title>
+    <desc lang="zh">Lolanto自命风流，一次因伤入院结识了富商的弱智独生女儿阿蚊，她如小孩般天真可爱，渐渐更与Lolanto成为好友。蚊父因此聘请Lolanto来照顾她。不久，蚊入院做智力恢复手术，但恢复智力后的阿蚊与Lolanto建立的情谊却黯然离去….</desc>
+  </programme>
+  <programme channel="369730" start="20261124173000 +0800" stop="20261124192000 +0800">
+    <title lang="zh">赌城大亨II 之至尊无敌 / Casino Tycoon II</title>
+    <desc lang="zh">本片是《赌城大亨之新哥传奇》的续集，讲述贺新用了20年时间，成功建立其赌业王国，但同伴却不甘屈居其下，于是设局争夺赌业控制权。另一方面，青年傅震为贺新旧情人的儿子，以为父亲被新所杀，便处心积虑安排报仇大计。胆识过人的贺新面对各样的威胁，绝不坐以待弊….</desc>
+  </programme>
+  <programme channel="369730" start="20261124192000 +0800" stop="20261124210000 +0800">
+    <title lang="zh">珠光宝气 / Whatever You Want</title>
+    <desc lang="zh">一名商人的私生女，无意中擦出神仙阿宝，并得到三个愿望。可惜阿宝法术不精，而发生了很多啼笑皆非的事。.</desc>
+  </programme>
+  <programme channel="369730" start="20261124210000 +0800" stop="20261125000000 +0800">
+    <title lang="zh">无间道 II / Infernal Affairs II</title>
+    <desc lang="zh">《无间道》的秘密最终在此前传中揭露 — 重案组督察黄志诚与黑帮头领韩琛的恩怨和两名卧底陈永仁与刘建明的宿命纠缠何时开始。关键原来系于三个人身上：琛妻、新任黑帮龙头及重案组高层。无间之门亦在这最坏的时代敞开….</desc>
   </programme>
   <programme channel="370146" start="20261122000000 +0800" stop="20261122010000 +0800">
     <title lang="zh">WTO姐妹會-20260831</title>
@@ -134026,6 +134203,84 @@
   <programme channel="湖南卫视" start="20261122233000 +0800" stop="20261122235900 +0800">
     <title lang="zh">你好，星期六</title>
   </programme>
+  <programme channel="爱尔达日韩台" start="20261122000000 +0800" stop="20261122004000 +0800">
+    <title lang="zh">我的野蠻公主(第5集) (普)</title>
+  </programme>
+  <programme channel="爱尔达日韩台" start="20261122004000 +0800" stop="20261122012000 +0800">
+    <title lang="zh">我的野蠻公主(第6集) (普)</title>
+  </programme>
+  <programme channel="爱尔达日韩台" start="20261122012000 +0800" stop="20261122020000 +0800">
+    <title lang="zh">我的野蠻公主(第7集) (普)</title>
+  </programme>
+  <programme channel="爱尔达日韩台" start="20261122020000 +0800" stop="20261122024000 +0800">
+    <title lang="zh">我的野蠻公主(第8集) (普)</title>
+  </programme>
+  <programme channel="爱尔达日韩台" start="20261122024000 +0800" stop="20261122032000 +0800">
+    <title lang="zh">我的野蠻公主(第9集) (普)</title>
+  </programme>
+  <programme channel="爱尔达日韩台" start="20261122032000 +0800" stop="20261122040000 +0800">
+    <title lang="zh">我的野蠻公主(第10集) (普)</title>
+  </programme>
+  <programme channel="爱尔达日韩台" start="20261122040000 +0800" stop="20261122052000 +0800">
+    <title lang="zh">無人知曉(第6集) (護)</title>
+  </programme>
+  <programme channel="爱尔达日韩台" start="20261122052000 +0800" stop="20261122064000 +0800">
+    <title lang="zh">無人知曉(第7集) (護)</title>
+  </programme>
+  <programme channel="爱尔达日韩台" start="20261122064000 +0800" stop="20261122080000 +0800">
+    <title lang="zh">無人知曉(第8集) (護)</title>
+  </programme>
+  <programme channel="爱尔达日韩台" start="20261122080000 +0800" stop="20261122090000 +0800">
+    <title lang="zh">信號(泰) 23:23(第15集) (護)</title>
+  </programme>
+  <programme channel="爱尔达日韩台" start="20261122090000 +0800" stop="20261122100000 +0800">
+    <title lang="zh">信號(泰) 23:23(第16集) (護)</title>
+  </programme>
+  <programme channel="爱尔达日韩台" start="20261122100000 +0800" stop="20261122110000 +0800">
+    <title lang="zh">信號(泰) 23:23(第17集) (護)</title>
+  </programme>
+  <programme channel="爱尔达日韩台" start="20261122110000 +0800" stop="20261122120000 +0800">
+    <title lang="zh">信號(泰) 23:23(第18集) (護)</title>
+  </programme>
+  <programme channel="爱尔达日韩台" start="20261122120000 +0800" stop="20261122124000 +0800">
+    <title lang="zh">我的野蠻公主(第5集) (普)</title>
+  </programme>
+  <programme channel="爱尔达日韩台" start="20261122124000 +0800" stop="20261122132000 +0800">
+    <title lang="zh">我的野蠻公主(第6集) (普)</title>
+  </programme>
+  <programme channel="爱尔达日韩台" start="20261122132000 +0800" stop="20261122140000 +0800">
+    <title lang="zh">我的野蠻公主(第7集) (普)</title>
+  </programme>
+  <programme channel="爱尔达日韩台" start="20261122140000 +0800" stop="20261122144000 +0800">
+    <title lang="zh">我的野蠻公主(第8集) (普)</title>
+  </programme>
+  <programme channel="爱尔达日韩台" start="20261122144000 +0800" stop="20261122152000 +0800">
+    <title lang="zh">我的野蠻公主(第9集) (普)</title>
+  </programme>
+  <programme channel="爱尔达日韩台" start="20261122152000 +0800" stop="20261122160000 +0800">
+    <title lang="zh">我的野蠻公主(第10集) (普)</title>
+  </programme>
+  <programme channel="爱尔达日韩台" start="20261122160000 +0800" stop="20261122172000 +0800">
+    <title lang="zh">無人知曉(第6集) (護)</title>
+  </programme>
+  <programme channel="爱尔达日韩台" start="20261122172000 +0800" stop="20261122184000 +0800">
+    <title lang="zh">無人知曉(第7集) (護)</title>
+  </programme>
+  <programme channel="爱尔达日韩台" start="20261122184000 +0800" stop="20261122200000 +0800">
+    <title lang="zh">無人知曉(第8集) (護)</title>
+  </programme>
+  <programme channel="爱尔达日韩台" start="20261122200000 +0800" stop="20261122210000 +0800">
+    <title lang="zh">信號(泰) 23:23(第15集) (護)</title>
+  </programme>
+  <programme channel="爱尔达日韩台" start="20261122210000 +0800" stop="20261122220000 +0800">
+    <title lang="zh">信號(泰) 23:23(第16集) (護)</title>
+  </programme>
+  <programme channel="爱尔达日韩台" start="20261122220000 +0800" stop="20261122230000 +0800">
+    <title lang="zh">信號(泰) 23:23(第17集) (護)</title>
+  </programme>
+  <programme channel="爱尔达日韩台" start="20261122230000 +0800" stop="20261122235959 +0800">
+    <title lang="zh">信號(泰) 23:23(第18集) (護)</title>
+  </programme>
   <programme channel="甘肃卫视" start="20261122003300 +0800" stop="20261122010200 +0800">
     <title lang="zh">晚间剧场</title>
   </programme>
@@ -135610,6 +135865,420 @@
   <programme channel="青海卫视" start="20261122234000 +0800" stop="20261122235900 +0800">
     <title lang="zh">午夜剧场</title>
   </programme>
+  <programme channel="靖天中文台" start="20261121234732 +0800" stop="20261122003059 +0800">
+    <title lang="zh">人生醬美味 15</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122003059 +0800" stop="20261122011428 +0800">
+    <title lang="zh">人生醬美味 16</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122011428 +0800" stop="20261122012856 +0800">
+    <title lang="zh">NowJelli紫金國際台-歡喜一家人之家族榮耀 09</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122012856 +0800" stop="20261122014211 +0800">
+    <title lang="zh">NowJelli紫金國際台-歡喜一家人之家族榮耀 10</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122014211 +0800" stop="20261122022945 +0800">
+    <title lang="zh">NowJelli紫金國際台-開始跳舞吧2 01</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122022945 +0800" stop="20261122031837 +0800">
+    <title lang="zh">NowJelli紫金國際台-開始跳舞吧2 02</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122031837 +0800" stop="20261122040438 +0800">
+    <title lang="zh">NowJelli紫金國際台-開始跳舞吧2 03</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122040438 +0800" stop="20261122045249 +0800">
+    <title lang="zh">NowJelli紫金國際台-開始跳舞吧2 04</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122045249 +0800" stop="20261122061607 +0800">
+    <title lang="zh">NowJelli紫金國際台-音你而來 01</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122061607 +0800" stop="20261122074137 +0800">
+    <title lang="zh">NowJelli紫金國際台-音你而來 02</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122074137 +0800" stop="20261122082503 +0800">
+    <title lang="zh">人生醬美味 13</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122082503 +0800" stop="20261122090828 +0800">
+    <title lang="zh">人生醬美味 14</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122090828 +0800" stop="20261122095154 +0800">
+    <title lang="zh">人生醬美味 15</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122095154 +0800" stop="20261122103524 +0800">
+    <title lang="zh">人生醬美味 16</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122103524 +0800" stop="20261122104952 +0800">
+    <title lang="zh">NowJelli紫金國際台-歡喜一家人之家族榮耀 09</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122104952 +0800" stop="20261122110307 +0800">
+    <title lang="zh">NowJelli紫金國際台-歡喜一家人之家族榮耀 10</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122110307 +0800" stop="20261122115041 +0800">
+    <title lang="zh">NowJelli紫金國際台-開始跳舞吧2 01</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122115041 +0800" stop="20261122123932 +0800">
+    <title lang="zh">NowJelli紫金國際台-開始跳舞吧2 02</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122123932 +0800" stop="20261122132534 +0800">
+    <title lang="zh">NowJelli紫金國際台-開始跳舞吧2 03</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122132534 +0800" stop="20261122141345 +0800">
+    <title lang="zh">NowJelli紫金國際台-開始跳舞吧2 04</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122141345 +0800" stop="20261122153702 +0800">
+    <title lang="zh">NowJelli紫金國際台-音你而來 01</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122153702 +0800" stop="20261122170233 +0800">
+    <title lang="zh">NowJelli紫金國際台-音你而來 02</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122170233 +0800" stop="20261122174558 +0800">
+    <title lang="zh">人生醬美味 13</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122174558 +0800" stop="20261122182924 +0800">
+    <title lang="zh">人生醬美味 14</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122182924 +0800" stop="20261122191250 +0800">
+    <title lang="zh">人生醬美味 15</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122191250 +0800" stop="20261122195620 +0800">
+    <title lang="zh">人生醬美味 16</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122195620 +0800" stop="20261122201047 +0800">
+    <title lang="zh">NowJelli紫金國際台-歡喜一家人之家族榮耀 09</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122201047 +0800" stop="20261122202402 +0800">
+    <title lang="zh">NowJelli紫金國際台-歡喜一家人之家族榮耀 10</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122202402 +0800" stop="20261122211136 +0800">
+    <title lang="zh">NowJelli紫金國際台-開始跳舞吧2 01</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122211136 +0800" stop="20261122220028 +0800">
+    <title lang="zh">NowJelli紫金國際台-開始跳舞吧2 02</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122220028 +0800" stop="20261122224630 +0800">
+    <title lang="zh">NowJelli紫金國際台-開始跳舞吧2 03</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122224630 +0800" stop="20261122233441 +0800">
+    <title lang="zh">NowJelli紫金國際台-開始跳舞吧2 04</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261122233441 +0800" stop="20261123005758 +0800">
+    <title lang="zh">NowJelli紫金國際台-音你而來 01</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123005758 +0800" stop="20261123022327 +0800">
+    <title lang="zh">NowJelli紫金國際台-音你而來 02</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123022328 +0800" stop="20261123030652 +0800">
+    <title lang="zh">人生醬美味 13</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123030653 +0800" stop="20261123035018 +0800">
+    <title lang="zh">人生醬美味 14</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123035019 +0800" stop="20261123043344 +0800">
+    <title lang="zh">人生醬美味 15</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123043345 +0800" stop="20261123051714 +0800">
+    <title lang="zh">人生醬美味 16</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123051715 +0800" stop="20261123053142 +0800">
+    <title lang="zh">NowJelli紫金國際台-歡喜一家人之家族榮耀 09</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123053143 +0800" stop="20261123054457 +0800">
+    <title lang="zh">NowJelli紫金國際台-歡喜一家人之家族榮耀 10</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123054458 +0800" stop="20261123063223 +0800">
+    <title lang="zh">NowJelli紫金國際台-開始跳舞吧2 05</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123063224 +0800" stop="20261123072031 +0800">
+    <title lang="zh">NowJelli紫金國際台-開始跳舞吧2 06</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123072032 +0800" stop="20261123080736 +0800">
+    <title lang="zh">NowJelli紫金國際台-開始跳舞吧2 07</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123080737 +0800" stop="20261123085457 +0800">
+    <title lang="zh">NowJelli紫金國際台-開始跳舞吧2 08</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123085458 +0800" stop="20261123101719 +0800">
+    <title lang="zh">NowJelli紫金國際台-音你而來 03</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123101720 +0800" stop="20261123114530 +0800">
+    <title lang="zh">NowJelli紫金國際台-音你而來 04</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123114531 +0800" stop="20261123122721 +0800">
+    <title lang="zh">陪你到最後 09</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123122722 +0800" stop="20261123130926 +0800">
+    <title lang="zh">陪你到最後 10</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123130927 +0800" stop="20261123132923 +0800">
+    <title lang="zh">醫生不是神 53</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123132924 +0800" stop="20261123134937 +0800">
+    <title lang="zh">醫生不是神 54</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123134938 +0800" stop="20261123140929 +0800">
+    <title lang="zh">醫生不是神 55</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123140930 +0800" stop="20261123142841 +0800">
+    <title lang="zh">醫生不是神 56</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123142842 +0800" stop="20261123144646 +0800">
+    <title lang="zh">醫生不是神 57</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123144647 +0800" stop="20261123150239 +0800">
+    <title lang="zh">NowJelli紫金國際台-歡喜一家人之家族榮耀 11</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123150240 +0800" stop="20261123151546 +0800">
+    <title lang="zh">NowJelli紫金國際台-歡喜一家人之家族榮耀 12</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123151547 +0800" stop="20261123160312 +0800">
+    <title lang="zh">NowJelli紫金國際台-開始跳舞吧2 05</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123160313 +0800" stop="20261123165120 +0800">
+    <title lang="zh">NowJelli紫金國際台-開始跳舞吧2 06</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123165121 +0800" stop="20261123173826 +0800">
+    <title lang="zh">NowJelli紫金國際台-開始跳舞吧2 07</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123173827 +0800" stop="20261123182546 +0800">
+    <title lang="zh">NowJelli紫金國際台-開始跳舞吧2 08</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123182547 +0800" stop="20261123194808 +0800">
+    <title lang="zh">NowJelli紫金國際台-音你而來 03</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123194809 +0800" stop="20261123211619 +0800">
+    <title lang="zh">NowJelli紫金國際台-音你而來 04</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123211620 +0800" stop="20261123215811 +0800">
+    <title lang="zh">陪你到最後 09</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123215812 +0800" stop="20261123224015 +0800">
+    <title lang="zh">陪你到最後 10</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123224016 +0800" stop="20261123230012 +0800">
+    <title lang="zh">醫生不是神 53</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123230013 +0800" stop="20261123232027 +0800">
+    <title lang="zh">醫生不是神 54</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123232028 +0800" stop="20261123234018 +0800">
+    <title lang="zh">醫生不是神 55</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123234019 +0800" stop="20261123235930 +0800">
+    <title lang="zh">醫生不是神 56</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261123235931 +0800" stop="20261124001735 +0800">
+    <title lang="zh">醫生不是神 57</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124001736 +0800" stop="20261124003328 +0800">
+    <title lang="zh">NowJelli紫金國際台-歡喜一家人之家族榮耀 11</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124003329 +0800" stop="20261124004634 +0800">
+    <title lang="zh">NowJelli紫金國際台-歡喜一家人之家族榮耀 12</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124004635 +0800" stop="20261124013401 +0800">
+    <title lang="zh">NowJelli紫金國際台-開始跳舞吧2 05</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124013402 +0800" stop="20261124022208 +0800">
+    <title lang="zh">NowJelli紫金國際台-開始跳舞吧2 06</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124022209 +0800" stop="20261124030914 +0800">
+    <title lang="zh">NowJelli紫金國際台-開始跳舞吧2 07</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124030915 +0800" stop="20261124035634 +0800">
+    <title lang="zh">NowJelli紫金國際台-開始跳舞吧2 08</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124035635 +0800" stop="20261124051856 +0800">
+    <title lang="zh">NowJelli紫金國際台-音你而來 03</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124051857 +0800" stop="20261124064708 +0800">
+    <title lang="zh">NowJelli紫金國際台-音你而來 04</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124064709 +0800" stop="20261124072859 +0800">
+    <title lang="zh">陪你到最後 09</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124072900 +0800" stop="20261124081104 +0800">
+    <title lang="zh">陪你到最後 10</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124081105 +0800" stop="20261124083100 +0800">
+    <title lang="zh">醫生不是神 53</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124083101 +0800" stop="20261124085115 +0800">
+    <title lang="zh">醫生不是神 54</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124085116 +0800" stop="20261124091106 +0800">
+    <title lang="zh">醫生不是神 55</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124091107 +0800" stop="20261124093018 +0800">
+    <title lang="zh">醫生不是神 56</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124093019 +0800" stop="20261124094824 +0800">
+    <title lang="zh">醫生不是神 57</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124094825 +0800" stop="20261124100417 +0800">
+    <title lang="zh">NowJelli紫金國際台-歡喜一家人之家族榮耀 11</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124100418 +0800" stop="20261124101723 +0800">
+    <title lang="zh">NowJelli紫金國際台-歡喜一家人之家族榮耀 12</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124101724 +0800" stop="20261124110450 +0800">
+    <title lang="zh">NowJelli紫金國際台-開始跳舞吧2 05</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124110451 +0800" stop="20261124115257 +0800">
+    <title lang="zh">NowJelli紫金國際台-開始跳舞吧2 06</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124115258 +0800" stop="20261124124003 +0800">
+    <title lang="zh">NowJelli紫金國際台-開始跳舞吧2 07</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124124004 +0800" stop="20261124132723 +0800">
+    <title lang="zh">NowJelli紫金國際台-開始跳舞吧2 08</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124132724 +0800" stop="20261124144946 +0800">
+    <title lang="zh">NowJelli紫金國際台-音你而來 03</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124144947 +0800" stop="20261124161757 +0800">
+    <title lang="zh">NowJelli紫金國際台-音你而來 04</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124161758 +0800" stop="20261124165948 +0800">
+    <title lang="zh">陪你到最後 09</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124165949 +0800" stop="20261124174153 +0800">
+    <title lang="zh">陪你到最後 10</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124174154 +0800" stop="20261124180150 +0800">
+    <title lang="zh">醫生不是神 53</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124180151 +0800" stop="20261124182204 +0800">
+    <title lang="zh">醫生不是神 54</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124182205 +0800" stop="20261124184155 +0800">
+    <title lang="zh">醫生不是神 55</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124184156 +0800" stop="20261124190107 +0800">
+    <title lang="zh">醫生不是神 56</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124190108 +0800" stop="20261124191913 +0800">
+    <title lang="zh">醫生不是神 57</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124191914 +0800" stop="20261124193506 +0800">
+    <title lang="zh">NowJelli紫金國際台-歡喜一家人之家族榮耀 11</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124193507 +0800" stop="20261124194812 +0800">
+    <title lang="zh">NowJelli紫金國際台-歡喜一家人之家族榮耀 12</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124194813 +0800" stop="20261124212402 +0800">
+    <title lang="zh">NowJelli紫金國際台-有祕密的我們 第二季01</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124212403 +0800" stop="20261124225900 +0800">
+    <title lang="zh">NowJelli紫金國際台-有祕密的我們 第二季02</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261124225901 +0800" stop="20261125002051 +0800">
+    <title lang="zh">NowJelli紫金國際台-音你而來 05</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125002052 +0800" stop="20261125014855 +0800">
+    <title lang="zh">NowJelli紫金國際台-音你而來 06</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125014856 +0800" stop="20261125023131 +0800">
+    <title lang="zh">陪你到最後 11</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125023132 +0800" stop="20261125031406 +0800">
+    <title lang="zh">陪你到最後 12</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125031407 +0800" stop="20261125033351 +0800">
+    <title lang="zh">醫生不是神 58</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125033352 +0800" stop="20261125035244 +0800">
+    <title lang="zh">醫生不是神 59</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125035245 +0800" stop="20261125041140 +0800">
+    <title lang="zh">醫生不是神 60</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125041141 +0800" stop="20261125043059 +0800">
+    <title lang="zh">醫生不是神 61</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125043100 +0800" stop="20261125045037 +0800">
+    <title lang="zh">醫生不是神 62</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125045038 +0800" stop="20261125050742 +0800">
+    <title lang="zh">NowJelli紫金國際台-歡喜一家人之我家有喜01</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125050743 +0800" stop="20261125052148 +0800">
+    <title lang="zh">NowJelli紫金國際台-歡喜一家人之我家有喜02</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125052149 +0800" stop="20261125065737 +0800">
+    <title lang="zh">NowJelli紫金國際台-有祕密的我們 第二季01</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125065738 +0800" stop="20261125083236 +0800">
+    <title lang="zh">NowJelli紫金國際台-有祕密的我們 第二季02</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125083237 +0800" stop="20261125095427 +0800">
+    <title lang="zh">NowJelli紫金國際台-音你而來 05</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125095428 +0800" stop="20261125112232 +0800">
+    <title lang="zh">NowJelli紫金國際台-音你而來 06</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125112233 +0800" stop="20261125120507 +0800">
+    <title lang="zh">陪你到最後 11</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125120508 +0800" stop="20261125124743 +0800">
+    <title lang="zh">陪你到最後 12</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125124744 +0800" stop="20261125130727 +0800">
+    <title lang="zh">醫生不是神 58</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125130728 +0800" stop="20261125132620 +0800">
+    <title lang="zh">醫生不是神 59</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125132621 +0800" stop="20261125134517 +0800">
+    <title lang="zh">醫生不是神 60</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125134518 +0800" stop="20261125140436 +0800">
+    <title lang="zh">醫生不是神 61</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125140437 +0800" stop="20261125142414 +0800">
+    <title lang="zh">醫生不是神 62</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125142415 +0800" stop="20261125144119 +0800">
+    <title lang="zh">NowJelli紫金國際台-歡喜一家人之我家有喜01</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125144120 +0800" stop="20261125145525 +0800">
+    <title lang="zh">NowJelli紫金國際台-歡喜一家人之我家有喜02</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125145526 +0800" stop="20261125163114 +0800">
+    <title lang="zh">NowJelli紫金國際台-有祕密的我們 第二季01</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125163115 +0800" stop="20261125180612 +0800">
+    <title lang="zh">NowJelli紫金國際台-有祕密的我們 第二季02</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125180613 +0800" stop="20261125192804 +0800">
+    <title lang="zh">NowJelli紫金國際台-音你而來 05</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125192805 +0800" stop="20261125205608 +0800">
+    <title lang="zh">NowJelli紫金國際台-音你而來 06</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125205609 +0800" stop="20261125213844 +0800">
+    <title lang="zh">陪你到最後 11</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125213845 +0800" stop="20261125222120 +0800">
+    <title lang="zh">陪你到最後 12</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125222121 +0800" stop="20261125224104 +0800">
+    <title lang="zh">醫生不是神 58</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125224105 +0800" stop="20261125225957 +0800">
+    <title lang="zh">醫生不是神 59</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125225958 +0800" stop="20261125231853 +0800">
+    <title lang="zh">醫生不是神 60</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125231854 +0800" stop="20261125233812 +0800">
+    <title lang="zh">醫生不是神 61</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125233813 +0800" stop="20261125235750 +0800">
+    <title lang="zh">醫生不是神 62</title>
+  </programme>
+  <programme channel="靖天中文台" start="20261125235751 +0800" stop="20261126001456 +0800">
+    <title lang="zh">NowJelli紫金國際台-歡喜一家人之我家有喜01</title>
+  </programme>
   <programme channel="黑龙江卫视" start="20261122003000 +0800" stop="20261122010000 +0800">
     <title lang="zh">纪录片</title>
   </programme>
@@ -135742,7 +136411,253 @@
   <programme channel="龙祥时代" start="20261122210000 +0800" stop="20261122232000 +0800">
     <title lang="zh">神鬼大盜</title>
   </programme>
-  <programme channel="龙祥时代" start="20261122232000 +0800" stop="20261122235900 +0800">
+  <programme channel="龙祥时代" start="20261122232000 +0800" stop="20261123013000 +0800">
     <title lang="zh">火鍋英雄</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261123013000 +0800" stop="20261123033000 +0800">
+    <title lang="zh">正牌韋小寶之奉旨溝女</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261123033000 +0800" stop="20261123054000 +0800">
+    <title lang="zh">大話神探</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261123054000 +0800" stop="20261123075500 +0800">
+    <title lang="zh">鬼咬鬼</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261123075500 +0800" stop="20261123103000 +0800">
+    <title lang="zh">秘密</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261123103000 +0800" stop="20261123124000 +0800">
+    <title lang="zh">風雨同路（雙語）</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261123124000 +0800" stop="20261123145500 +0800">
+    <title lang="zh">最佳損友闖情關</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261123145500 +0800" stop="20261123170000 +0800">
+    <title lang="zh">我要富貴（雙語）</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261123170000 +0800" stop="20261123190000 +0800">
+    <title lang="zh">很想和你在一起</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261123190000 +0800" stop="20261123200000 +0800">
+    <title lang="zh">唐人街探案 影集版 第二季</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261123200000 +0800" stop="20261123210000 +0800">
+    <title lang="zh">唐人街探案 影集版 第二季</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261123210000 +0800" stop="20261123231000 +0800">
+    <title lang="zh">異靈靈異</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261123231000 +0800" stop="20261124011000 +0800">
+    <title lang="zh">陰陽路十二之美容屍</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261124011000 +0800" stop="20261124032500 +0800">
+    <title lang="zh">大追擊</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261124032500 +0800" stop="20261124053000 +0800">
+    <title lang="zh">夕陽武士</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261124053000 +0800" stop="20261124072000 +0800">
+    <title lang="zh">鬼賭鬼（雙語）</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261124072000 +0800" stop="20261124092500 +0800">
+    <title lang="zh">總統要出嫁</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261124092500 +0800" stop="20261124113500 +0800">
+    <title lang="zh">告別紫禁城（雙語）</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261124113500 +0800" stop="20261124132500 +0800">
+    <title lang="zh">國產凌凌漆（雙語）</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261124132500 +0800" stop="20261124155500 +0800">
+    <title lang="zh">運財五福星</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261124155500 +0800" stop="20261124190000 +0800">
+    <title lang="zh">我不是潘金蓮</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261124190000 +0800" stop="20261124200000 +0800">
+    <title lang="zh">唐人街探案 影集版 第二季</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261124200000 +0800" stop="20261124210000 +0800">
+    <title lang="zh">唐人街探案 影集版 第二季</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261124210000 +0800" stop="20261124231000 +0800">
+    <title lang="zh">不二神探（雙語）</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261124231000 +0800" stop="20261125013000 +0800">
+    <title lang="zh">陰陽路十三之花鬼</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261125013000 +0800" stop="20261125032500 +0800">
+    <title lang="zh">中俄列車大劫案</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261125032500 +0800" stop="20261125052000 +0800">
+    <title lang="zh">妄想症</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261125052000 +0800" stop="20261125072000 +0800">
+    <title lang="zh">唬人專家</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261125072000 +0800" stop="20261125095000 +0800">
+    <title lang="zh">魂魄唔齊（雙語）</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261125095000 +0800" stop="20261125121500 +0800">
+    <title lang="zh">倩女幽魂3道道道（雙語）</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261125121500 +0800" stop="20261125144500 +0800">
+    <title lang="zh">唱吧！奇蹟！（雙語）</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261125144500 +0800" stop="20261125164500 +0800">
+    <title lang="zh">最佳女婿（雙語）</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261125164500 +0800" stop="20261125190000 +0800">
+    <title lang="zh">雷頓大冒險永遠的歌姬</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261125190000 +0800" stop="20261125200000 +0800">
+    <title lang="zh">唐人街探案 影集版 第二季</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261125200000 +0800" stop="20261125210000 +0800">
+    <title lang="zh">唐人街探案 影集版 第二季</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261125210000 +0800" stop="20261125233000 +0800">
+    <title lang="zh">雲水謠</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261125233000 +0800" stop="20261126015500 +0800">
+    <title lang="zh">法內情完結篇（雙語）</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261126015500 +0800" stop="20261126034500 +0800">
+    <title lang="zh">八喜臨門</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261126034500 +0800" stop="20261126054500 +0800">
+    <title lang="zh">中華戰士</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261126054500 +0800" stop="20261126074500 +0800">
+    <title lang="zh">愛情保險</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261126074500 +0800" stop="20261126100000 +0800">
+    <title lang="zh">神算鯊鯊鯊</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261126100000 +0800" stop="20261126120500 +0800">
+    <title lang="zh">臨終囧事</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261126120500 +0800" stop="20261126142500 +0800">
+    <title lang="zh">志明與春嬌（雙語）</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261126142500 +0800" stop="20261126164000 +0800">
+    <title lang="zh">同謀（雙語）</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261126164000 +0800" stop="20261126190000 +0800">
+    <title lang="zh">賭俠</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261126190000 +0800" stop="20261126200000 +0800">
+    <title lang="zh">唐人街探案 影集版 第二季</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261126200000 +0800" stop="20261126210000 +0800">
+    <title lang="zh">唐人街探案 影集版 第二季</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261126210000 +0800" stop="20261126234000 +0800">
+    <title lang="zh">春嬌救志明</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261126234000 +0800" stop="20261127014000 +0800">
+    <title lang="zh">和平飯店（雙語）</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261127014000 +0800" stop="20261127034500 +0800">
+    <title lang="zh">情色驚變</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261127034500 +0800" stop="20261127060500 +0800">
+    <title lang="zh">黑幫愛美麗</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261127060500 +0800" stop="20261127080500 +0800">
+    <title lang="zh">讓我活下去</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261127080500 +0800" stop="20261127102500 +0800">
+    <title lang="zh">殺手之王</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261127102500 +0800" stop="20261127122500 +0800">
+    <title lang="zh">聽不到的說話（雙語）</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261127122500 +0800" stop="20261127142500 +0800">
+    <title lang="zh">水玲瓏</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261127142500 +0800" stop="20261127162500 +0800">
+    <title lang="zh">追夢人</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261127162500 +0800" stop="20261127190000 +0800">
+    <title lang="zh">青夏：戀上你的30日</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261127190000 +0800" stop="20261127200000 +0800">
+    <title lang="zh">唐人街探案 影集版 第二季</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261127200000 +0800" stop="20261127210000 +0800">
+    <title lang="zh">唐人街探案 影集版 第二季</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261127210000 +0800" stop="20261127231000 +0800">
+    <title lang="zh">超跑斯特拉（雙語）</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261127231000 +0800" stop="20261128011500 +0800">
+    <title lang="zh">老虎出差（雙語）</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261128011500 +0800" stop="20261128031000 +0800">
+    <title lang="zh">人海孤鴻（雙語）</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261128031000 +0800" stop="20261128051500 +0800">
+    <title lang="zh">丐世英雄</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261128051500 +0800" stop="20261128073500 +0800">
+    <title lang="zh">北京樂與路</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261128073500 +0800" stop="20261128095500 +0800">
+    <title lang="zh">情癲大聖</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261128095500 +0800" stop="20261128121500 +0800">
+    <title lang="zh">家有囍事</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261128121500 +0800" stop="20261128143500 +0800">
+    <title lang="zh">分手100次（雙語）</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261128143500 +0800" stop="20261128164500 +0800">
+    <title lang="zh">笑拳怪招</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261128164500 +0800" stop="20261128190000 +0800">
+    <title lang="zh">行運超人</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261128190000 +0800" stop="20261128210000 +0800">
+    <title lang="zh">天天星期七（雙語）</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261128210000 +0800" stop="20261128231000 +0800">
+    <title lang="zh">殭屍哪有這麼帥</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261128231000 +0800" stop="20261129014000 +0800">
+    <title lang="zh">鬼鏡</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261129014000 +0800" stop="20261129035500 +0800">
+    <title lang="zh">天國逆子</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261129035500 +0800" stop="20261129055500 +0800">
+    <title lang="zh">表哥你好</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261129055500 +0800" stop="20261129075000 +0800">
+    <title lang="zh">烈火街頭</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261129075000 +0800" stop="20261129095000 +0800">
+    <title lang="zh">開心鬼上錯身</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261129095000 +0800" stop="20261129115500 +0800">
+    <title lang="zh">富貴再三逼人（雙語）</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261129115500 +0800" stop="20261129140500 +0800">
+    <title lang="zh">小親親</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261129140500 +0800" stop="20261129160000 +0800">
+    <title lang="zh">螢火蟲之墓（雙語）</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261129160000 +0800" stop="20261129181000 +0800">
+    <title lang="zh">新天生一對（雙語）</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261129181000 +0800" stop="20261129210000 +0800">
+    <title lang="zh">見鬼的戀愛季節（雙語）</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261129210000 +0800" stop="20261129233500 +0800">
+    <title lang="zh">福島50英雄（雙語）</title>
+  </programme>
+  <programme channel="龙祥时代" start="20261129233500 +0800" stop="20261130013500 +0800">
+    <title lang="zh">初戀日記（雙語）</title>
   </programme>
 </tv>
