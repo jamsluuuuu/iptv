@@ -132,10 +132,6 @@ http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 https://mursor.ottiptv.cc/mcp/cctv164k.m3u8?userid=625559087&sign=c6d892216debd6da8011b9c43f4d6eaaed4108a4179b74db2866b7e172783050b9c9d1f1b8b7d06f5d418ce73ea68e339ae7e0459bb21c85de66d1177054999aa70dd604a12514128da09e692284de&auth_token=b53cabde7cf057c80eee65d5c77f0978
 #EXTINF:-1 tvg-name="重温经典" group-title="央视频道" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8.png",重温经典
 http://8.138.7.223/tv/cwjd.php
-#EXTINF:-1 tvg-name="CHC 家庭影院" group-title="央视频道" tvg-id="539900" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/CHC_%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png",CHC 家庭影院
-http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
-#EXTINF:-1 tvg-name="CHC 影迷电影" group-title="央视频道" tvg-id="CHC高清电影" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/CHC_%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png",CHC 影迷电影
-http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" group-title="省级卫视" tvg-id="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png",湖南卫视
 https://mursor.ottiptv.cc/mcp/hunan.m3u8?userid=625559087&sign=bc7058a689abf69c0d509d23b74ef6cad2a44ba1999d9d3dd016a71c1dde139d36243c77af59eae3d4a8a6f784a1e92fdf8022953f92a7fe3f68deff6ff4d687cca922d280b0093098746f93&auth_token=b53cabde7cf057c80eee65d5c77f0978
 #EXTINF:-1 tvg-name="浙江卫视" group-title="省级卫视" tvg-id="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",浙江卫视
