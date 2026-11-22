@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="iptv-epg-merge" generator-info-url="https://github.com/jamsluuuuu/iptv" date="20261122142948 +0800">
+<tv generator-info-name="iptv-epg-merge" generator-info-url="https://github.com/jamsluuuuu/iptv" date="20261122143505 +0800">
   <channel id="545932">
     <display-name lang="zh">CCTV-1 综合</display-name>
   </channel>
@@ -6135,7 +6135,7 @@
     <desc lang="zh">AI時代に必要なのは激しい変化に翻弄されない「自分の軸」を持つこと。花まる学習会代表・高濱正伸さんが語る、子どもたちの「軸」の育て方とは?</desc>
   </programme>
   <programme channel="1298" start="20261122002000 +0800" stop="20261122020000 +0800">
-    <title lang="zh">Death Stranding</title>
+    <title lang="zh">死亡搁浅</title>
     <desc lang="zh">The Police and gambling association team up to overhaul underground gambling by auctioning new casino licenses. This unveils the hidden interests and secrets while sparking conflicts between gangs...</desc>
   </programme>
   <programme channel="1298" start="20261122020000 +0800" stop="20261122033000 +0800">
@@ -6151,23 +6151,23 @@
     <desc lang="zh">When a struggling painter receives a magical wallet that endlessly produces RM8 notes, his life transforms from hardship to luxury. However, is this miracle truly a blessing or a hidden curse?</desc>
   </programme>
   <programme channel="1298" start="20261122065500 +0800" stop="20261122083500 +0800">
-    <title lang="zh">Chinese Odyssey Part I - A Pandora's box</title>
+    <title lang="zh">大话西游之月光宝盒</title>
     <desc lang="zh">In this Stephen Chow vehicle, a once divine but now human Monkey King needs the titular box to send him back in time.</desc>
   </programme>
   <programme channel="1298" start="20261122083500 +0800" stop="20261122114000 +0800">
-    <title lang="zh">The Wandering Earth 2</title>
+    <title lang="zh">流浪地球2</title>
     <desc lang="zh">Set as a prequel, when the sun was found to be dying, humans build enormous engines on the Earth's surface to find a new home. To save the world, a group of young people decide to step forth.</desc>
   </programme>
   <programme channel="1298" start="20261122114000 +0800" stop="20261122132000 +0800">
-    <title lang="zh">Smashing Frank</title>
+    <title lang="zh">捣破法兰克</title>
     <desc lang="zh">After a jewelry store heist, the young thieves left behind a graffiti tag that reads 'FRANK', sparking public curiosity about their motives. What message are they trying to convey?</desc>
   </programme>
   <programme channel="1298" start="20261122132000 +0800" stop="20261122150000 +0800">
-    <title lang="zh">The Medallion</title>
+    <title lang="zh">飞龙再生</title>
     <desc lang="zh">Chan plays Eddie Yang, a Hong Kong cop who is working with Interpol officer Arthur Watson in order to protect a gifted young child.</desc>
   </programme>
   <programme channel="1298" start="20261122150000 +0800" stop="20261122172500 +0800">
-    <title lang="zh">A Writer's Odyssey II</title>
+    <title lang="zh">刺杀小说家2</title>
     <desc lang="zh">Fallen novelist Lu Kong Wen is drawn into his own fictional world, where a villain seeks to invade reality, sparking a cross-dimensional clash that will change both worlds.</desc>
   </programme>
   <programme channel="1298" start="20261122172500 +0800" stop="20261122193000 +0800">
@@ -6183,31 +6183,31 @@
     <desc lang="zh">A leak of advanced fighter jet technology sparks a national security crisis. As an intel unit's urban spy hunt falters, suspicion turns inward. Two elite agents face off in a silent, ruthless duel.</desc>
   </programme>
   <programme channel="1298" start="20261122225500 +0800" stop="20261123005500 +0800">
-    <title lang="zh">New Kung Fu Cult Master 1</title>
+    <title lang="zh">新倚天屠龙记</title>
     <desc lang="zh">First instalment of the new remake of The Heaven Sword and Dragon Saber, adapted from Jin Yong's novel, see Zhang Wu Ji embroiled in a dispute involving two legendary weapons.</desc>
   </programme>
   <programme channel="1298" start="20261123005500 +0800" stop="20261123025000 +0800">
-    <title lang="zh">Old Fox</title>
+    <title lang="zh">老狐狸</title>
     <desc lang="zh">Liao Jie and his father save to buy a home but are too poor. Liao Jie learns survival skills from their landlord Old Fox and ends up hurting him, but his empathy stops him from becoming like Old Fox.</desc>
   </programme>
   <programme channel="1298" start="20261123025000 +0800" stop="20261123045500 +0800">
-    <title lang="zh">Over My Dead Body</title>
+    <title lang="zh">死尸死时四十四</title>
     <desc lang="zh">When an unidentified corpse is found at a residential unit, the residents fear that its presence will turn their home into an ill-fated house, leading to a chaotic endeavor to remove the body.</desc>
   </programme>
   <programme channel="1298" start="20261123045500 +0800" stop="20261123062000 +0800">
-    <title lang="zh">The Bride With White Hair II</title>
+    <title lang="zh">白发魔女传2</title>
     <desc lang="zh">Powerful, insane and obsessed with hatred, the bride with white hair has gone on a killing rampage, and can only be stopped by the one person she loves.</desc>
   </programme>
   <programme channel="1298" start="20261123062000 +0800" stop="20261123083000 +0800">
-    <title lang="zh">My Indian Boyfriend</title>
+    <title lang="zh">我的印度男友</title>
     <desc lang="zh">The first Bollywood movie made in Hong Kong, it is about an interracial love story between a Hong Kong girl and an Indian boy! Faced with many difficulties, can their love prevail?</desc>
   </programme>
   <programme channel="1298" start="20261123083000 +0800" stop="20261123102000 +0800">
-    <title lang="zh">Chinese Odyssey Part II - A Cinderella</title>
+    <title lang="zh">大话西游之大圣娶亲</title>
     <desc lang="zh">After Joker (Stephen Chow) goes back 500 years, he runs into myriad oddball characters, including the Longevity Monk.</desc>
   </programme>
   <programme channel="1298" start="20261123102000 +0800" stop="20261123122000 +0800">
-    <title lang="zh">LEIO</title>
+    <title lang="zh">749局</title>
     <desc lang="zh">An ex-singer returns to his hometown &amp;amp; takes part in a water drilling contest to save his drought-stricken town, only to discover a fierce and deadly beast lurking underground!</desc>
   </programme>
   <programme channel="1298" start="20261123122000 +0800" stop="20261123141500 +0800">
@@ -6223,7 +6223,7 @@
     <desc lang="zh">Celebrity Peng travels to Rome for the shooting of a reality show and encounters an ordinary girl, Man Man, who dreams of becoming a great chef after migrating to Italy.</desc>
   </programme>
   <programme channel="1298" start="20261123174500 +0800" stop="20261123192000 +0800">
-    <title lang="zh">Iceman The Time Traveler</title>
+    <title lang="zh">冰封侠：时空行者</title>
     <desc lang="zh">Defrosted in modern Hong Kong, four imperial guards return in pursuit of the Golden Wheel of Time. As Ying seeks to rewrite the past, he unknowingly steps into a deadly trap.</desc>
   </programme>
   <programme channel="1298" start="20261123192000 +0800" stop="20261123210000 +0800">
@@ -6231,11 +6231,11 @@
     <desc lang="zh">Caught in an underground fight to pay off debts, talented boxer Jia Yang loses her Olympics dream and quits boxing. A decade later, Coach Li aids her comeback. Can Jia Yang resurrect her boxing dream?</desc>
   </programme>
   <programme channel="1298" start="20261123210000 +0800" stop="20261123225500 +0800">
-    <title lang="zh">Ip Man 3</title>
+    <title lang="zh">叶问3</title>
     <desc lang="zh">Ip Man fights some gangsters to protect a school, and is challenged by a Wing Chun master. He accepts the duel for his family and disciples and emerges victorious, securing the Grandmaster title.</desc>
   </programme>
   <programme channel="1298" start="20261123225500 +0800" stop="20261124011000 +0800">
-    <title lang="zh">The Ex-Files 4: Marriage Plan</title>
+    <title lang="zh">前任4：英年早婚</title>
     <desc lang="zh">Two brothers, Yun and Fei, face challenges in love. Yun dodges family pressure to marry after his breakup, and Fei and his girlfriend opt for a 'marriage cooling-off period' to tackle marriage issues.</desc>
   </programme>
   <programme channel="1298" start="20261124011000 +0800" stop="20261124025000 +0800">
@@ -6243,7 +6243,7 @@
     <desc lang="zh">Featuring three stories about two high school friends, a magician and a lost man, the movie reveals the most terrifying and ugly side of human nature, where life and death are just a thought away!</desc>
   </programme>
   <programme channel="1298" start="20261124025000 +0800" stop="20261124050000 +0800">
-    <title lang="zh">Born to Fly</title>
+    <title lang="zh">长空之王</title>
     <desc lang="zh">Headed by elite pilots, a special operations team is tasked to test new fighter jets. During test flights, the pilots face different difficulties and challenges, and try to push beyond their limits.</desc>
   </programme>
   <programme channel="1298" start="20261124050000 +0800" stop="20261124063000 +0800">
@@ -6251,15 +6251,15 @@
     <desc lang="zh">A year ago, Bo became blind in a serious car accident. One day, an intruder enters her house and takes her hostage. As she tries to survive, she discovers her husband's involvement in her accident!</desc>
   </programme>
   <programme channel="1298" start="20261124063000 +0800" stop="20261124082500 +0800">
-    <title lang="zh">Shining for One Thing</title>
+    <title lang="zh">一闪一闪亮星星</title>
     <desc lang="zh">Zhang Wan Sen plans to confess his crush on Lin Bei Xing after the exam. When an accident changes everything tragically, Zhang travels back in time. Can he amend things this time?</desc>
   </programme>
   <programme channel="1298" start="20261124082500 +0800" stop="20261124105000 +0800">
-    <title lang="zh">A Guilty Conscience</title>
+    <title lang="zh">毒舌大状</title>
     <desc lang="zh">The highest grossing Chinese movie in Hong Kong history, the story tells of a barrister who swears to prove his client's innocence, going against one of the most powerful families in Hong Kong.</desc>
   </programme>
   <programme channel="1298" start="20261124105000 +0800" stop="20261124130500 +0800">
-    <title lang="zh">Blades of the Guardians: Wind Rises in the Desert</title>
+    <title lang="zh">镖人：风起大漠</title>
     <desc lang="zh">Fugitive bounty hunter Dao Ma escorts the most wanted fugitive across the desert to Chang'an, only to be drawn into a plot that threatens war between the imperial court and the martial world.</desc>
   </programme>
   <programme channel="1298" start="20261124130500 +0800" stop="20261124150000 +0800">
@@ -6267,15 +6267,15 @@
     <desc lang="zh">A successful lawyer's secret affair turns into a nightmare when a corpse unexpectedly turns up in the hotel room, triggering a desperate cover-up that spirals into uncontrollable chaos.</desc>
   </programme>
   <programme channel="1298" start="20261124150000 +0800" stop="20261124164000 +0800">
-    <title lang="zh">Love for All Seasons</title>
+    <title lang="zh">百年好合</title>
     <desc lang="zh">Womanizer Tiger Hung arrives in Mount Emei to get the cure of his illness. May is the only woman who is capable to do so, but Tiger has to break her heart first before she gains the healing power.</desc>
   </programme>
   <programme channel="1298" start="20261124164000 +0800" stop="20261124185500 +0800">
-    <title lang="zh">One and Only</title>
+    <title lang="zh">热烈</title>
     <desc lang="zh">A veteran and a passionate street dancer both strive to reach their goals and pursue their dreams in street dancing. After overcoming many challenges, can they finally shine on stage?</desc>
   </programme>
   <programme channel="1298" start="20261124185500 +0800" stop="20261124210000 +0800">
-    <title lang="zh">The Last Tycoon</title>
+    <title lang="zh">大上海</title>
     <desc lang="zh">Framed and forced to leave all he loves, a grocery clerk ultimately grows into one of Shanghai's most powerful mob bosses. Yet, can he leave the past behind?</desc>
   </programme>
   <programme channel="1298" start="20261124210000 +0800" stop="20261124231000 +0800">
@@ -6283,15 +6283,15 @@
     <desc lang="zh">A lawyer must defend a murder suspect and win the case in order to save her daughter who has been taken hostage. As evidence emerges, she unveils the truth and the man behind the case.</desc>
   </programme>
   <programme channel="1298" start="20261124231000 +0800" stop="20261125012000 +0800">
-    <title lang="zh">Mama's Affair</title>
+    <title lang="zh">阿妈有咗第二个</title>
     <desc lang="zh">A Hong Kong drama written &amp;amp; directed by Kearen Pang, former talent manager Mei Fung retired to take care of her husband &amp;amp; son, but decides to return to work to find her value in life.</desc>
   </programme>
   <programme channel="1298" start="20261125012000 +0800" stop="20261125030000 +0800">
-    <title lang="zh">She's Got No Name</title>
+    <title lang="zh">酱园弄</title>
     <desc lang="zh">In 1945 Shanghai, a gruesome murder shocks "Jiang Yuan Nong" when the frail Zhan Zhou Shi kills and dismembers her husband. As dark truths emerge, the fate of everyone involved begins to twist.</desc>
   </programme>
   <programme channel="1298" start="20261125030000 +0800" stop="20261125050500 +0800">
-    <title lang="zh">Shock Wave</title>
+    <title lang="zh">拆弹专家</title>
     <desc lang="zh">Superstar Andy Lau stars as a bomb specialist set on capturing a wanted criminal called Blast in this action-drama. However, will he be able to do it in time when Blast threatens a massacre?</desc>
   </programme>
   <programme channel="1298" start="20261125050500 +0800" stop="20261125071500 +0800">
@@ -6303,7 +6303,7 @@
     <desc lang="zh">ICAC officer Lok sets up a special team to investigate a corruption case involving a bank's top executive's use of cryptocurrency to manipulate the trading market.</desc>
   </programme>
   <programme channel="1298" start="20261125090500 +0800" stop="20261125110000 +0800">
-    <title lang="zh">All's Well End's Well (Extended version)</title>
+    <title lang="zh">家有囍事</title>
     <desc lang="zh">In this Hong Kong comedy, three Chang brothers learn love needs care, not haste or selfishness. This extended cut adds a shootout scene missing from the 2016 Lunar New Year release</desc>
   </programme>
   <programme channel="1298" start="20261125110000 +0800" stop="20261125124000 +0800">
@@ -6323,11 +6323,11 @@
     <desc lang="zh">During a diamond heist, Jelly steals the loot and flees, with his other cohorts hot on his heel. They stumble onto a remote village with strange villagers and mysterious eerie occurrences.</desc>
   </programme>
   <programme channel="1298" start="20261125185000 +0800" stop="20261125210000 +0800">
-    <title lang="zh">The Myth</title>
+    <title lang="zh">神话</title>
     <desc lang="zh">Jackie Chan gets transported to the past as he goes after a valuable treasure. He now has to experience his past life, while searching for his way back to the present life.</desc>
   </programme>
   <programme channel="1298" start="20261125210000 +0800" stop="20261125231000 +0800">
-    <title lang="zh">The Wig</title>
+    <title lang="zh">假发</title>
     <desc lang="zh">Meng Zhong is a successful lawyer. During an investigation into a court case, he meets a girl who triggers his memories of a rainy night, revealing a long-hidden secret from 20 years ago...</desc>
   </programme>
   <programme channel="1298" start="20261125231000 +0800" stop="20261126010000 +0800">
@@ -6335,19 +6335,19 @@
     <desc lang="zh">A leak of advanced fighter jet technology sparks a national security crisis. As an intel unit's urban spy hunt falters, suspicion turns inward. Two elite agents face off in a silent, ruthless duel.</desc>
   </programme>
   <programme channel="1298" start="20261126010000 +0800" stop="20261126030000 +0800">
-    <title lang="zh">The Vanished Murderer</title>
+    <title lang="zh">消失的凶手</title>
     <desc lang="zh">In this sequel to THE BULLET VANISHES, Sean Lau plays an inspector who is lead down a rabbit hole of discovery as he investigates a prison escape.</desc>
   </programme>
   <programme channel="1298" start="20261126030000 +0800" stop="20261126052000 +0800">
-    <title lang="zh">Better Days</title>
+    <title lang="zh">少年的你</title>
     <desc lang="zh">A high school student befriends a street punk as she copes with college entrance exam pressure and ruthless bullying. A murder investigation is set to alter both their lives.</desc>
   </programme>
   <programme channel="1298" start="20261126052000 +0800" stop="20261126065000 +0800">
-    <title lang="zh">All's Well End's Well Too</title>
+    <title lang="zh">花田囍事</title>
     <desc lang="zh">Another super comedy directed by Clifton Ko about more farcical couplings, mistaken identities, infidelities, and arranged marriages set in the Sung Dynasty.</desc>
   </programme>
   <programme channel="1298" start="20261126065000 +0800" stop="20261126090500 +0800">
-    <title lang="zh">Don't Forget I Love You</title>
+    <title lang="zh">不要忘记我爱你</title>
     <desc lang="zh">Lu Yao has amnesia &amp;amp; wakes up every day remembering nothing from the day before. He meets psychotherapist Xing Yue &amp;amp; they fall in love despite knowing they have no future together.</desc>
   </programme>
   <programme channel="1298" start="20261126090500 +0800" stop="20261126110000 +0800">
@@ -6363,11 +6363,11 @@
     <desc lang="zh">Gao is in prison as she steals to buy a cochlear implant for her daughter. She befriends 3 women there and upon release, they stand together to defy fate and support each other in life's challenges.</desc>
   </programme>
   <programme channel="1298" start="20261126150000 +0800" stop="20261126170000 +0800">
-    <title lang="zh">Unbeatable</title>
+    <title lang="zh">激战</title>
     <desc lang="zh">When a former boxing champ &amp;amp; a rich man's son both enter an MMA competition, they believe they are powerful - until they meet an even more formidable opponent.</desc>
   </programme>
   <programme channel="1298" start="20261126170000 +0800" stop="20261126191000 +0800">
-    <title lang="zh">God of Gambler's Return</title>
+    <title lang="zh">赌神2</title>
     <desc lang="zh">A Taiwanese crime boss wants to become the new God of Gamblers, so he kills Gao Jin's pregnant wife. Gao Jin is indignant and vows to fight the crime boss to avenge his wife's death.</desc>
   </programme>
   <programme channel="1298" start="20261126191000 +0800" stop="20261126210000 +0800">
@@ -6375,19 +6375,19 @@
     <desc lang="zh">Zhou Ran falls prey to an online dating scam. Tracing the scammer's clues, she reaches a coastal town and encounters two young men. Uncovering their involvement, her revenge plot unfolds.</desc>
   </programme>
   <programme channel="1298" start="20261126210000 +0800" stop="20261126230000 +0800">
-    <title lang="zh">Man On the Edge</title>
+    <title lang="zh">边缘行者</title>
     <desc lang="zh">A triad leader assigns his right-hand man Ah Lok to take charge of the drug trafficking business, but Ah Lok is actually an undercover policeman who unveils a shocking political conspiracy.</desc>
   </programme>
   <programme channel="1298" start="20261126230000 +0800" stop="20261127012000 +0800">
-    <title lang="zh">Dead To Rights</title>
+    <title lang="zh">南京照相馆</title>
     <desc lang="zh">During the 1937 Nanjing Massacre, civilians hiding in Ji Xiang Studio are forced to develop film for the Japanese army, uncovering its atrocities and risking their lives to expose the truth.</desc>
   </programme>
   <programme channel="1298" start="20261127012000 +0800" stop="20261127031500 +0800">
-    <title lang="zh">Tales from the Occult</title>
+    <title lang="zh">迷离夜</title>
     <desc lang="zh">An anthology of 3 horrifying tales; a singer spirals when spooky things happen in her home; a livestream ends with an influencer's death; the battle between residents &amp;amp; a creature in the stairwell.</desc>
   </programme>
   <programme channel="1298" start="20261127031500 +0800" stop="20261127051500 +0800">
-    <title lang="zh">Flashover</title>
+    <title lang="zh">惊天救援</title>
     <desc lang="zh">Based on a true story, an earthquake causes the gas pipes in an industrial park to break, resulting in explosions &amp;amp; fires in the area. Firefighters must fight to safeguard lives, including their own.</desc>
   </programme>
   <programme channel="1298" start="20261127051500 +0800" stop="20261127065500 +0800">
@@ -6395,7 +6395,7 @@
     <desc lang="zh">Ordinary girl Bao meets troubled rich guy Edward. They conspire to ruin his father's remarriage and love blossoms. However, their romance takes an unexpected turn...</desc>
   </programme>
   <programme channel="1298" start="20261127065500 +0800" stop="20261127090500 +0800">
-    <title lang="zh">High Forces</title>
+    <title lang="zh">危机航线</title>
     <desc lang="zh">An A380 airliner is hijacked by gunmen on its maiden flight. Among the passengers is a security expert, whose daughter is one of the captives. Can he save all the passengers and avert the crisis?</desc>
   </programme>
   <programme channel="1298" start="20261127090500 +0800" stop="20261127104500 +0800">
@@ -6403,7 +6403,7 @@
     <desc lang="zh">When a flash of her groom's infidelity is revealed at their wedding, Bo cancels the entire affair. However, within a year, he comes knocking on her door again.</desc>
   </programme>
   <programme channel="1298" start="20261127104500 +0800" stop="20261127123000 +0800">
-    <title lang="zh">Caught In Time</title>
+    <title lang="zh">除暴</title>
     <desc lang="zh">Based on a string of real robberies and murder cases, a detective engages in a mouse-and-cat game with the 'Eagle Gang', a group of sophisticated, well-trained and ruthless robbers.</desc>
   </programme>
   <programme channel="1298" start="20261127123000 +0800" stop="20261127141000 +0800">
@@ -6423,11 +6423,11 @@
     <desc lang="zh">A leak of advanced fighter jet technology sparks a national security crisis. As an intel unit's urban spy hunt falters, suspicion turns inward. Two elite agents face off in a silent, ruthless duel.</desc>
   </programme>
   <programme channel="1298" start="20261127191500 +0800" stop="20261127210000 +0800">
-    <title lang="zh">77 Heartwarmings</title>
+    <title lang="zh">77次心碎</title>
     <desc lang="zh">After breaking up with Adam, Eva focuses on her career, but Adam is determined to win her back and makes 77 attempts to do so. The situation worsens when a Thai movie idol courts Eva</desc>
   </programme>
   <programme channel="1298" start="20261127210000 +0800" stop="20261127230000 +0800">
-    <title lang="zh">Cyber Heist</title>
+    <title lang="zh">断网</title>
     <desc lang="zh">After a security engineer unwittingly becomes involved in a money laundering operation, he must fight against his boss in the cyber world to prove his innocence.</desc>
   </programme>
   <programme channel="1298" start="20261127230000 +0800" stop="20261128004500 +0800">
@@ -6435,7 +6435,7 @@
     <desc lang="zh">Zhi has been secretly in love with high school classmate Nan from the moment they met. They finally become close friends when they entered the same university, but will Zhi ever confess his feelings?</desc>
   </programme>
   <programme channel="1298" start="20261128004500 +0800" stop="20261128025000 +0800">
-    <title lang="zh">Call Of Heroes</title>
+    <title lang="zh">危城</title>
     <desc lang="zh">Sean Lau, Louise Koo &amp;amp; Eddie Peng star in this action-packed story of a group of villagers who stand up to a cruel young warlord to protect their home.</desc>
   </programme>
   <programme channel="1298" start="20261128025000 +0800" stop="20261128043000 +0800">
@@ -6443,27 +6443,27 @@
     <desc lang="zh">Ching is a forensic psychiatrist who can enter a person's subconscious. As she investigates a murder-cum-suicide case, she finds herself under suspicion and comes face-to-face with a past trauma...</desc>
   </programme>
   <programme channel="1298" start="20261128043000 +0800" stop="20261128054500 +0800">
-    <title lang="zh">Detective Dee and Nine-storey Demon Buil</title>
+    <title lang="zh">狄仁杰之九层妖塔</title>
     <desc lang="zh">Detective Dee investigates a series of strange incidents at Tang's building, finding the master suspicious when even his eldest daughter secretly tells Dee of his odd behavior.</desc>
   </programme>
   <programme channel="1298" start="20261128054500 +0800" stop="20261128081000 +0800">
-    <title lang="zh">Detective Chinatown 1900</title>
+    <title lang="zh">唐探1900</title>
     <desc lang="zh">In 1900s San Francisco, the murder of a white woman in Chinatown ignites public outrage. Two Chinese detectives race against time to uncover the true killer amid mounting tension and danger.</desc>
   </programme>
   <programme channel="1298" start="20261128081000 +0800" stop="20261128100000 +0800">
-    <title lang="zh">The White Storm 2 : Drug Lords</title>
+    <title lang="zh">扫毒2天地对决</title>
     <desc lang="zh">In this epic action-thriller starring Andy Lau &amp;amp; Louis Koo, a bounty of USD $100 million awaits those who successfully capture the biggest drug dealer in Hong Kong.</desc>
   </programme>
   <programme channel="1298" start="20261128100000 +0800" stop="20261128115500 +0800">
-    <title lang="zh">The Invisible Guest</title>
+    <title lang="zh">看不见的客人</title>
     <desc lang="zh">Joanna is a suspect of a locked-room murder where her lover is found dead. When the police investigates the case, they discover another murder case which leads them to the truth.</desc>
   </programme>
   <programme channel="1298" start="20261128115500 +0800" stop="20261128134000 +0800">
-    <title lang="zh">L Storm</title>
+    <title lang="zh">L风暴</title>
     <desc lang="zh">ICAC officer Luk and Inspector Lau are stuck in their investigation for bribery and money laundering cases. Framed for bribery, Luk risks everything to gather evidence to clear his name.</desc>
   </programme>
   <programme channel="1298" start="20261128134000 +0800" stop="20261128153000 +0800">
-    <title lang="zh">Seoul Raiders</title>
+    <title lang="zh">韩城攻略</title>
     <desc lang="zh">A Japanese security agent teams up with a master thief to recover counterfeit USD plates until a U.S. Embassy official betrays them and escapes to Korea with the prize.</desc>
   </programme>
   <programme channel="1298" start="20261128153000 +0800" stop="20261128172500 +0800">
@@ -6475,7 +6475,7 @@
     <desc lang="zh">Featuring three stories about two high school friends, a magician and a lost man, the movie reveals the most terrifying and ugly side of human nature, where life and death are just a thought away!</desc>
   </programme>
   <programme channel="1298" start="20261128191000 +0800" stop="20261128210000 +0800">
-    <title lang="zh">Sky on Fire</title>
+    <title lang="zh">冲天火</title>
     <desc lang="zh">Directed by Ringo Lam, Daniel Wu stars as a security chief embroiled in a battle to protect a cure for deadly disease from falling into the wrong hands. Joseph Chang &amp;amp; Zhang Ruo Yun co-star.</desc>
   </programme>
   <programme channel="1298" start="20261128210000 +0800" stop="20261128225500 +0800">
