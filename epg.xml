@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="iptv-epg-merge" generator-info-url="https://github.com/jamsluuuuu/iptv" date="20261122114822 +0800">
+<tv generator-info-name="iptv-epg-merge" generator-info-url="https://github.com/jamsluuuuu/iptv" date="20261122115810 +0800">
   <channel id="545932">
     <display-name lang="zh">CCTV-1 综合</display-name>
   </channel>
@@ -263,9 +263,6 @@
   </channel>
   <channel id="368371">
     <display-name lang="zh">天映经典</display-name>
-  </channel>
-  <channel id="369730">
-    <display-name lang="zh">天映频道</display-name>
   </channel>
   <channel id="456557">
     <display-name lang="zh">TVBS</display-name>
@@ -16487,174 +16484,6 @@
   <programme channel="368371" start="20261128223000 +0800" stop="20261129000000 +0800">
     <title lang="zh">包剪石沓</title>
     <desc lang="zh">幽默風趣的愛情喜劇,三個年青醫生常開道、史瑞科、蕭而可,被安排追求院長的三個女兒靈珍、靈珊、靈玲.三人以「包、剪、搥」來決定追求對象,他們的追女橋段層出不窮,用盡英雄救美、苦肉計、死纏爛打等愛情藥方,卻全部失靈,烏龍百出...</desc>
-  </programme>
-  <programme channel="369730" start="20261122001000 +0800" stop="20261122014500 +0800">
-    <title lang="zh">铁线功夫拳 / Iron Kung Fu Fist</title>
-    <desc lang="zh">武术宗师梁坤为保护心爱的女人毅然退隐江湖，不料他的隐忍却换来了爱人的惨死。意识到宿命避无可避，他重返武林，在丐帮帮主苏灿的鼎力相助下，梁坤杀出一条血路，誓要向那些冷血仇敌讨回血债。.</desc>
-  </programme>
-  <programme channel="369730" start="20261122014500 +0800" stop="20261122032000 +0800">
-    <title lang="zh">逃学威龙三之龙过鸡年 / Fight Back to School III</title>
-    <desc lang="zh">富商王百万被发现离奇死于酒店房间，由于周星星与他极为相似，星星再次接受任务，作卧底调查这宗谋杀案。王百万生前与妻子感情早已破裂，妻子因此成为头号嫌疑人。然而，在调查过程中，星星发现王百万的友人林大岳同样形迹可疑…….</desc>
-  </programme>
-  <programme channel="369730" start="20261122032000 +0800" stop="20261122044000 +0800">
-    <title lang="zh">风流冤鬼 / Sex Beyond The Grave</title>
-    <desc lang="zh">红歌女阿花遭大户陶老爷奸杀，陶宅即常闹鬼，后陶老爷亦神秘死亡。陶之后人陶明嗜赌如命，更因鬼魂作怪而欠下巨款。明妻暗中将陶宅售予杨教授夫妇，即遇上怪事连篇...</desc>
-  </programme>
-  <programme channel="369730" start="20261122044000 +0800" stop="20261122061500 +0800">
-    <title lang="zh">少年陈真之乱世英雄 / Young Heroes of Chaotic Times</title>
-    <desc lang="zh">电影讲述清末上海的小人物陈真，在经历苦难及面对无数挑战后，蜕变成长为民族英雄的故事。.</desc>
-  </programme>
-  <programme channel="369730" start="20261122061500 +0800" stop="20261122074500 +0800">
-    <title lang="zh">画皮 / Painted Face</title>
-    <desc lang="zh">书生王怀卿卖画，为要筹药费救患重病的妻子，途中意外遇上雀妖的追击，幸得狐妖小容相救。为躲避雀妖，王怀卿将小容带回家中，三人随即陷入一场情感困局，而一段凄美的人妖虐恋亦随即展开。.</desc>
-  </programme>
-  <programme channel="369730" start="20261122074500 +0800" stop="20261122094000 +0800">
-    <title lang="zh">关云长 / The Lost Bladesman</title>
-    <desc lang="zh">这是一场发生在三国动荡时期的史诗式之旅。曹操试图招揽关羽加入他的阵营，但关羽忠于他的结拜兄弟刘备，也是曹操的敌人。当关羽试图从曹操手上救出刘备的小妾时，迫于无奈要大开杀戒。最后他能否杀出重围？.</desc>
-  </programme>
-  <programme channel="369730" start="20261122094000 +0800" stop="20261122110500 +0800">
-    <title lang="zh">少年叶问之危机时刻 / Young Ip Man: Crisis Time</title>
-    <desc lang="zh">1917年，少年叶问初到香港求学。英文演讲比赛当天，学校发生一宗惊天绑架案，全校同学都被挟持。面对眼前的危机，叶问挺身而出，发现绑匪竟然是自己的师父和好兄弟。少年叶问在危机时刻可否打败绑匪，从而伸张正义？.</desc>
-  </programme>
-  <programme channel="369730" start="20261122110500 +0800" stop="20261122130500 +0800">
-    <title lang="zh">新宿事件 / Shinjuku Incident</title>
-    <desc lang="zh">偷渡到东京的铁头与一帮华人在当地艰难求生，并逐渐建立起一股黑帮新势力。当铁头取得居留权，决心退出江湖、展开新生活时，势力的急速扩张却引来各方势力围剿。面对警方大举扫黑，加上兄弟无情出卖，他最终被迫重返江湖。.</desc>
-  </programme>
-  <programme channel="369730" start="20261122130500 +0800" stop="20261122144000 +0800">
-    <title lang="zh">打雀英雄传 / Mahjong Heroes</title>
-    <desc lang="zh">足智多谋的麻雀英雄，为避免年轻计算机专家的麻雀馆落入麻雀千王手上，不惜重新出山与千王鏖战。.</desc>
-  </programme>
-  <programme channel="369730" start="20261122144000 +0800" stop="20261122160500 +0800">
-    <title lang="zh">六耳猕猴 / The Macaque Monkey</title>
-    <desc lang="zh">生命之树被烧毁后，世间陷入一片混沌。为拯救苍生，孙悟空决定回到过去，帮助生命之树复活。因为失去了金箍棒，孙悟空力量时有时无，只得找回儿时的自己，一同前往寻找时间之力。不料，六耳猕猴却想据为己有，两人就此爆发激战。.</desc>
-  </programme>
-  <programme channel="369730" start="20261122160500 +0800" stop="20261122174500 +0800">
-    <title lang="zh">追女三十六房 / 36 Secrets of Courtship</title>
-    <desc lang="zh">故事描述一间「猛男训练中心」专门教授男人在情场上的杀着。可惜校长与其女友缠绵时不幸暴毙，学校三位教授想出招数争夺学校拥有权，闹出连场笑话...</desc>
-  </programme>
-  <programme channel="369730" start="20261122174500 +0800" stop="20261122192500 +0800">
-    <title lang="zh">龙虎武师 / Kungfu Stuntmen</title>
-    <desc lang="zh">香港动作电影向来以龙虎武师的真功夫蜚声国际。这部纪录片向过去所有的龙虎武师致敬，并用上超过两年时间梳理了海量的影像数据，更采访了无数动作特技演员分享拍摄时的辛酸事迹，当中包括著名武打巨星成龙、甄子丹及洪金宝。.</desc>
-  </programme>
-  <programme channel="369730" start="20261122192500 +0800" stop="20261122210000 +0800">
-    <title lang="zh">天官赐福 / How to Choose a Royal Bride</title>
-    <desc lang="zh">康熙少年嗣位，太后急欲替他完婚，遂选纳大臣之女纳兰琼瑶为妃，但琼瑶为争取婚姻自由离家出走，康熙亦乐得不用成婚。后来康熙微服下江南，却偶遇女扮男装的琼瑶….</desc>
-  </programme>
-  <programme channel="369730" start="20261122210000 +0800" stop="20261122224000 +0800">
-    <title lang="zh">黑白潜行 / The Grey Men</title>
-    <desc lang="zh">警校生阿山奉命卧底监狱，接近犯罪集团二把手阿天，暗中搜集其犯罪证据。阿天出狱后，阿山协助他以铁血手段一路厮杀，最终登上社团话事人之位。然而，阿山频繁与警方接触的行迹逐渐败露，卧底身份被社团识破，瞬间陷入生死危局，而一个足以颠覆一切的秘密也即将浮出水面。.</desc>
-  </programme>
-  <programme channel="369730" start="20261122224000 +0800" stop="20261123000000 +0800">
-    <title lang="zh">爱的世界 / The Story Of My Son</title>
-    <desc lang="zh">李子良丧妻后，与两个儿子相依为命。妻子的巨额医药费令子良经济十分拮据，受同事教唆往马场孤注一掷，迫得向高利贷借款，从此子良债台高筑，疲于奔命，没有时间与儿子沟通，父子疏离。与此同时高利贷不断登门恐吓，骚扰儿子，最终弄至悲剧发生….</desc>
-  </programme>
-  <programme channel="369730" start="20261123000000 +0800" stop="20261123013000 +0800">
-    <title lang="zh">错爱迷踪 / Endless Love</title>
-    <desc lang="zh">跟朋友在酒吧喝酒的女孩邂逅恐怖小说家，两人一见钟情感情迅速升温。原来女孩已悄然落入惊天迷局，全因小说家的前女友是个毁容的女鬼，她借用人面还魂复仇，与前男友连手开启夺命惊吓。.</desc>
-  </programme>
-  <programme channel="369730" start="20261123013000 +0800" stop="20261123032000 +0800">
-    <title lang="zh">消失的子弹 / The Bullet Vanishes</title>
-    <desc lang="zh">民国初年，一家兵工厂发生离奇连环命案。死者皆死于枪击，现场却遍寻不到弹头，引发幽灵子弹索命恐慌。警政官松东路与热血神枪手郭追受命连手侦破此案。随着调查深入，两人发现阿森纳内黑幕重重，而真相竟隐藏在一个关于正义与人性堕落的惊人诡计之中。.</desc>
-  </programme>
-  <programme channel="369730" start="20261123032000 +0800" stop="20261123050000 +0800">
-    <title lang="zh">神勇双妹唛 / Doubles Cause Troubles</title>
-    <desc lang="zh">故事描述一对表姐妹梁山伯与祝英台乃斗气冤家，两女为争夺神秘俊男阿山欢心，却惹来大圈杀手威吓逼害，更陷入一场宝物争夺战。两女身陷险境，惟有摒弃前嫌，连手反抗…….</desc>
-  </programme>
-  <programme channel="369730" start="20261123050000 +0800" stop="20261123063500 +0800">
-    <title lang="zh">白发鬼 / Face to Face</title>
-    <desc lang="zh">年轻俊秀，生于名门望族的日籍华人林保，自幼失去父母，与大学好友川村感情深厚。二人都对美少女琉璃子心存爱慕，但川村自怜身世，不敢与林保争夺，林保顺利娶得琉璃子为妻。林保出国公干期间，川村和琉璃子耐不住寂寞，有了奸情。不久之后，林保竟在一次滑雪中意外身亡...</desc>
-  </programme>
-  <programme channel="369730" start="20261123063500 +0800" stop="20261123080500 +0800">
-    <title lang="zh">飞龙再生 / The Medallion</title>
-    <desc lang="zh">香港特警阿狄在跨国追捕人蛇集团时，为救圣童不幸溺毙，却意外在「再生龙章」圣光中重获新生，并获得惊人的自愈能力。岂料宿敌同样夺取神力，设局步步追杀。退无可退的阿狄孤身深入虎穴，在幽暗古堡展开一场拳拳到肉、生死一线的终极激战。.</desc>
-  </programme>
-  <programme channel="369730" start="20261123080500 +0800" stop="20261123102000 +0800">
-    <title lang="zh">让子弹飞 / Let The Bullets Fly</title>
-    <desc lang="zh">悍匪张牧之劫持火车，冒充新任县长强横进驻鹅城。本想靠升官发财大捞一笔，却撞上了只手遮天的当地地头蛇恶霸黄四郎。在满嘴谎言的骗子师爷马邦德的利益周旋下，黑白两道展开一场智力与火力的巅峰对决。在这场荒诞的杀戮游戏中，且看子弹如何飞往最终的真相。.</desc>
-  </programme>
-  <programme channel="369730" start="20261123102000 +0800" stop="20261123115500 +0800">
-    <title lang="zh">我的野蛮同学 / My School Mate, The Barbarian</title>
-    <desc lang="zh">在一间Band5学校有个打擂台的传统，学生会在课室将很多张书桌拼成一个擂台，在擂台上进行决胜去解决一切争执。四个性格各异的少年石头、Edward、亚凤、Seven意外地成为朋友，共同经历了难忘的成长体验...</desc>
-  </programme>
-  <programme channel="369730" start="20261123115500 +0800" stop="20261123132500 +0800">
-    <title lang="zh">赤脚小子 / The Bare-footed Kid</title>
-    <desc lang="zh">穷乡青年关丰曜，终日赤着双脚，以背人过河为活。关父临终前，嘱其出城投靠段青云；段骤见故人之子，留下关在布店当小工。关与私塾女教师华小莲交心，却遭莲父白眼；关为求出人头地，竟往投靠土霸喀和布，结果连累莲父与段相继被喀暗算身亡。关得知真相，惜为时已晚，追悔莫及，决与喀拼过死活...</desc>
-  </programme>
-  <programme channel="369730" start="20261123132500 +0800" stop="20261123151500 +0800">
-    <title lang="zh">十万火急 / Lifeline</title>
-    <desc lang="zh">这是关于香港消防员的英勇救火故事。勇敢的消防员无惧冲天大火，肩负救灾扶危的重任，甚至舍身救人。但当消防员脱下制服后，是否仍同样勇敢地面对自身的难题呢？.</desc>
-  </programme>
-  <programme channel="369730" start="20261123151500 +0800" stop="20261123173000 +0800">
-    <title lang="zh">风云雄霸天下 / The Stormriders</title>
-    <desc lang="zh">十年前，笃信命理的「天下会」霸主雄霸请来泥菩萨推算命运。泥菩萨预言，若想称霸武林，必须收两位名字分别带有「风」与「云」的少年为徒，他们将助他成就霸业，也将左右他一生的命运。霸业虽成，预言却骤然逆转，一场由批言引发的武林浩劫，彻底改变了整个武林的命运。.</desc>
-  </programme>
-  <programme channel="369730" start="20261123173000 +0800" stop="20261123191000 +0800">
-    <title lang="zh">鬼马飞人 / The Flying Mr. B</title>
-    <desc lang="zh">阿B为一名中学的体育教师，其执教之学校篮、足球队成绩甚差，学校下令他务必赢得校际比赛冠军，否则将撤换教练。阿B因头痛，误服同事研制之神药，变成超人，令球队屡次创造奇迹...</desc>
-  </programme>
-  <programme channel="369730" start="20261123191000 +0800" stop="20261123210000 +0800">
-    <title lang="zh">冰封侠重生之门 / Iceman</title>
-    <desc lang="zh">明朝锦衣卫贺英被诬陷为弑君逆贼，三位结义兄弟奉命追杀。在生死对决之际，四人意外被冰封于时空裂隙。四百年后，他们在现代香港苏醒。一场跨越时代的宿命之战，于陌生都市再度引爆。.</desc>
-  </programme>
-  <programme channel="369730" start="20261123210000 +0800" stop="20261123224000 +0800">
-    <title lang="zh">贼王之王 / Winner Takes All</title>
-    <desc lang="zh">两名私家侦探欲藉破一连环大劫案而声名大噪。岂料调查过程中竟一再被贼王使计愚弄，笑话连篇。及后更发现原来所有劫案均与日商宫本有关，到底谁才是真正的贼王之王？.</desc>
-  </programme>
-  <programme channel="369730" start="20261123224000 +0800" stop="20261124003000 +0800">
-    <title lang="zh">特务迷城 / The Accidental Spy</title>
-    <desc lang="zh">天赋异禀的健身器材店员小北跨国寻亲，意外卷入特务父亲遗留的谜局，远赴土耳其追寻身世与巨额遗产，却不料陷入国际反恐阴谋。面对炭疽病毒引发的全球危机，小北在土耳其街头展开惊心动魄的跨国大逃亡。在重重谜局的考验中，他突破自我极限，从平凡蜕变为守护世界的孤胆英雄。.</desc>
-  </programme>
-  <programme channel="369730" start="20261124003000 +0800" stop="20261124024000 +0800">
-    <title lang="zh">新少林寺 / Shaolin</title>
-    <desc lang="zh">骄横军阀侯杰在惨遭亲信曹蛮残酷背叛、痛失至爱幼女后，心灰意冷下大彻大悟投身少林隐姓埋名。不料野心勃勃的叛将曹蛮紧随其后引兵屠城，使千年古刹少林危在旦夕。已皈依佛门的侯杰重拾昔日信念，在这场充满血色的因果轮回中，誓以血肉之躯筑起最后的救赎。.</desc>
-  </programme>
-  <programme channel="369730" start="20261124024000 +0800" stop="20261124041500 +0800">
-    <title lang="zh">看不见的他们 / Never Leave</title>
-    <desc lang="zh">一场车祸后，林月家里怪事连连。全身冰冷的姐姐在镜子里看不见家人的身影，黑夜里爸爸窥探的双眼，和每天凌晨阁楼传来的弹珠声。林月循声而上去寻找真相，却在打开阁楼的门后，发现里面紧锁的是自己的遗像….</desc>
-  </programme>
-  <programme channel="369730" start="20261124041500 +0800" stop="20261124054000 +0800">
-    <title lang="zh">曼谷风云 / Bangkok Storm</title>
-    <desc lang="zh">地下拳手林枫因拒绝替曼谷黑帮打黑拳，因此被追杀。他虽成功逃脱，却失去记忆。当林枫开展其新生活时，却被黑帮发现行踪，并找来绝顶打手对付他。期间林枫忽然回复记忆，并誓要将黑帮歼灭。.</desc>
-  </programme>
-  <programme channel="369730" start="20261124054000 +0800" stop="20261124072000 +0800">
-    <title lang="zh">花心大少 / Hong Kong Playboys</title>
-    <desc lang="zh">严钱声是一名自恃追女高手的富家花花公子，被母亲劝喻要成家立室。他在寻找生命中的女主角时，被两个追女高手挑战。到底他最后能否找到心中最爱?</desc>
-  </programme>
-  <programme channel="369730" start="20261124072000 +0800" stop="20261124083500 +0800">
-    <title lang="zh">怪谈 / The Case of Disappearances</title>
-    <desc lang="zh">在迷雾村，为人养子的文杰反复梦见同一个噩梦。为了解开身世之谜，他卷入连串神秘的失踪案件中。随着更多村民相继离奇死去，村民更深信不疑千年来的井龙王诅咒。于是，文杰与保安队长连手探寻真相，揭开反派阴谋，最终拯救被危害的无辜村民.</desc>
-  </programme>
-  <programme channel="369730" start="20261124083500 +0800" stop="20261124104000 +0800">
-    <title lang="zh">逆战 / The Viral Factor</title>
-    <desc lang="zh">国际安全局探员Jon在一次行动中遭上司Sean背叛，导致几乎全军覆没，自己亦身负重伤，脑中残留的弹头如定时炸弹般随时可能夺命。为圆母亲心愿，他远赴马来西亚寻找失散多年的兄长，却意外卷入一宗绑架案。追查之下，发现绑匪竟是兄长万阳，而幕后黑手正是Sean！.</desc>
-  </programme>
-  <programme channel="369730" start="20261124104000 +0800" stop="20261124125000 +0800">
-    <title lang="zh">大魔术师 / The Great Magician</title>
-    <desc lang="zh">军阀雷大牛手握重兵，权倾一方，却始终无法赢得三姨太柳遥的芳心。此时，神秘魔术师张贤凭惊世古彩戏法名动京城，并受邀入雷府表演。表面卖艺的他，实则是柳遥昔日未婚夫。在这场真假难辨的奇幻博弈中，张贤暗藏着偷天换日的救人与复仇计划。.</desc>
-  </programme>
-  <programme channel="369730" start="20261124125000 +0800" stop="20261124143000 +0800">
-    <title lang="zh">逃学威龙 / Fight Back to School</title>
-    <desc lang="zh">飞虎队精英周星星奉命潜入校园，调查一宗警枪失窃案。在拍档达叔的协助下，他不仅成功寻回失枪，更意外揭发一宗大型地下军火交易。走私集团为报复，悍然持械闯入学校，挟持多名学生作为人质。周星星必须不惜一切代价，拯救所有人质。.</desc>
-  </programme>
-  <programme channel="369730" start="20261124143000 +0800" stop="20261124155000 +0800">
-    <title lang="zh">火云邪神之修罗面具 / The Mask of Shura of Fire Cloud</title>
-    <desc lang="zh">十八年前，邪恶的黑羽会潜入了老邪神西城勇的地盘，盗走了修罗面具，而利用修罗面具放出当时只是个婴儿的魔神。老邪神为了魔神日后不作恶收养了婴儿，教他好好做人，成为小邪神。小邪神最后控制了面具的力量成为老邪神的接班人，继续守护城市。.</desc>
-  </programme>
-  <programme channel="369730" start="20261124155000 +0800" stop="20261124173000 +0800">
-    <title lang="zh">我爱罗兰度 / I Love Lolanto</title>
-    <desc lang="zh">Lolanto自命风流，一次因伤入院结识了富商的弱智独生女儿阿蚊，她如小孩般天真可爱，渐渐更与Lolanto成为好友。蚊父因此聘请Lolanto来照顾她。不久，蚊入院做智力恢复手术，但恢复智力后的阿蚊与Lolanto建立的情谊却黯然离去….</desc>
-  </programme>
-  <programme channel="369730" start="20261124173000 +0800" stop="20261124192000 +0800">
-    <title lang="zh">赌城大亨II 之至尊无敌 / Casino Tycoon II</title>
-    <desc lang="zh">本片是《赌城大亨之新哥传奇》的续集，讲述贺新用了20年时间，成功建立其赌业王国，但同伴却不甘屈居其下，于是设局争夺赌业控制权。另一方面，青年傅震为贺新旧情人的儿子，以为父亲被新所杀，便处心积虑安排报仇大计。胆识过人的贺新面对各样的威胁，绝不坐以待弊….</desc>
-  </programme>
-  <programme channel="369730" start="20261124192000 +0800" stop="20261124210000 +0800">
-    <title lang="zh">珠光宝气 / Whatever You Want</title>
-    <desc lang="zh">一名商人的私生女，无意中擦出神仙阿宝，并得到三个愿望。可惜阿宝法术不精，而发生了很多啼笑皆非的事。.</desc>
-  </programme>
-  <programme channel="369730" start="20261124210000 +0800" stop="20261125000000 +0800">
-    <title lang="zh">无间道 II / Infernal Affairs II</title>
-    <desc lang="zh">《无间道》的秘密最终在此前传中揭露 — 重案组督察黄志诚与黑帮头领韩琛的恩怨和两名卧底陈永仁与刘建明的宿命纠缠何时开始。关键原来系于三个人身上：琛妻、新任黑帮龙头及重案组高层。无间之门亦在这最坏的时代敞开….</desc>
   </programme>
   <programme channel="370146" start="20261122000000 +0800" stop="20261122010000 +0800">
     <title lang="zh">WTO姐妹會-20260831</title>
