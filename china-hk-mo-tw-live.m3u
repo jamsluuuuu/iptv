@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/jamsluuuuu/iptv/main/epg.xml"
-# 2026-11-22 08:03 搜源替换（更快/更清）：Travel Channel 更快 5527ms -> 959ms，新源 http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1（iptv-org-cn，两时点核验通过）
 # 2026-11-22 08:00 搜源替换（更快/更清）：TRACE Sport Stars 更快 7135ms -> 1390ms，新源 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8（zilong7728，两时点核验通过）
 # 2026-11-21 22:30 龙华电影/戏剧/偶像改走 Hami 中继（家里 Clash 代理测分片 HTTP 200，电视待验）
 # 2026-11-21 08:02 搜源替换（更快/更清）：香港-翡翠台 更快 2215ms -> 1190ms，新源 http://r.jdshipin.com/qClQf（zilong7728，两时点核验通过）
@@ -411,7 +410,7 @@ https://hami.gxdx.org/hami/2056.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0
 #EXTINF:-1 tvg-name="Lifetime" group-title="海外纪录" tvg-id="456666" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@156@1970_20211222120324.jpg",Lifetime
 https://hami.gxdx.org/hami/1970.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="Travel Channel" group-title="海外纪录" tvg-id="457285" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@210@1756_20210901102231.jpg",Travel Channel
-http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
+https://hami.gxdx.org/hami/1756.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="亚洲旅游台" group-title="海外纪录" tvg-id="456810" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@149@1969_20211223113449.png",亚洲旅游台
 https://hami.gxdx.org/hami/2070.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="日本-NHK World-Japan" group-title="海外综合" tvg-id="368337" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E6%97%A5%E6%9C%AC_NHK_World_Japan.png",日本-NHK World-Japan
