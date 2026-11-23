@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-23 06:10:48",
-  "total": 229,
+  "generated_at": "2026-11-23 08:06:34",
+  "total": 228,
   "counts": {
-    "ok": 123,
+    "ok": 122,
     "replaced": 0,
     "dead": 0,
     "unverified": 106
   },
   "last_check": "2026-11-23 06:10:48",
-  "last_search": "2026-11-22 07:57:39",
+  "last_search": "2026-11-23 07:57:12",
   "channels": [
     {
       "name": "CCTV-1 综合",
@@ -1304,15 +1304,6 @@
       "resolution": null,
       "open_ms": 5176,
       "note": "variant-fetch-failed",
-      "bad_days": 0
-    },
-    {
-      "name": "MovieSphere AU",
-      "group": "台湾电视",
-      "status": "ok",
-      "resolution": "1920x1080",
-      "open_ms": 6859,
-      "note": "",
       "bad_days": 0
     },
     {
