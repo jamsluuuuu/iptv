@@ -367,8 +367,6 @@ https://hami.gxdx.org/hami/1860.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0
 https://hami.gxdx.org/hami/1861.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="Warner TV" group-title="台湾电视" tvg-id="456652" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@144@1888_20201110165836.png",Warner TV
 https://hami.gxdx.org/hami/1888.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
-#EXTINF:-1 tvg-name="MovieSphere AU" group-title="台湾电视" tvg-id="538953",MovieSphere AU
-https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-name="Mezzo Live" group-title="台湾电视" tvg-id="457239" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1757_20241204101929.png",Mezzo Live
 https://hami.gxdx.org/hami/1757.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="Trace Urban" group-title="台湾电视" tvg-id="430245" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1758.png",Trace Urban
