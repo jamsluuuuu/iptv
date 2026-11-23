@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-22 20:10:35",
+  "generated_at": "2026-11-23 06:10:48",
   "total": 229,
   "counts": {
-    "ok": 124,
+    "ok": 123,
     "replaced": 0,
-    "dead": 3,
-    "unverified": 102
+    "dead": 0,
+    "unverified": 106
   },
-  "last_check": "2026-11-22 20:10:26",
+  "last_check": "2026-11-23 06:10:48",
   "last_search": "2026-11-22 07:57:39",
   "channels": [
     {
@@ -15,7 +15,7 @@
       "group": "央视频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 6860,
+      "open_ms": 5420,
       "note": "",
       "bad_days": 0
     },
@@ -24,7 +24,7 @@
       "group": "央视频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 8758,
+      "open_ms": 7259,
       "note": "",
       "bad_days": 0
     },
@@ -33,7 +33,7 @@
       "group": "央视频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 5827,
+      "open_ms": 7618,
       "note": "",
       "bad_days": 0
     },
@@ -42,7 +42,7 @@
       "group": "央视频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 8405,
+      "open_ms": 6386,
       "note": "",
       "bad_days": 0
     },
@@ -51,7 +51,7 @@
       "group": "央视频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 6477,
+      "open_ms": 5734,
       "note": "",
       "bad_days": 0
     },
@@ -60,7 +60,7 @@
       "group": "央视频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 7856,
+      "open_ms": 5167,
       "note": "",
       "bad_days": 0
     },
@@ -69,7 +69,7 @@
       "group": "央视频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 7748,
+      "open_ms": 8262,
       "note": "",
       "bad_days": 0
     },
@@ -78,7 +78,7 @@
       "group": "央视频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 6236,
+      "open_ms": 6790,
       "note": "",
       "bad_days": 0
     },
@@ -87,7 +87,7 @@
       "group": "央视频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 7791,
+      "open_ms": 5511,
       "note": "",
       "bad_days": 0
     },
@@ -96,7 +96,7 @@
       "group": "央视频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 8026,
+      "open_ms": 4798,
       "note": "",
       "bad_days": 0
     },
@@ -105,7 +105,7 @@
       "group": "央视频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 6055,
+      "open_ms": 6397,
       "note": "",
       "bad_days": 0
     },
@@ -114,7 +114,7 @@
       "group": "央视频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 6593,
+      "open_ms": 5286,
       "note": "",
       "bad_days": 0
     },
@@ -123,7 +123,7 @@
       "group": "央视频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 7438,
+      "open_ms": 5773,
       "note": "",
       "bad_days": 0
     },
@@ -132,7 +132,7 @@
       "group": "央视频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 8094,
+      "open_ms": 7007,
       "note": "",
       "bad_days": 0
     },
@@ -141,7 +141,7 @@
       "group": "央视频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 6435,
+      "open_ms": 6019,
       "note": "",
       "bad_days": 0
     },
@@ -150,17 +150,17 @@
       "group": "央视频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 8425,
+      "open_ms": 3640,
       "note": "",
       "bad_days": 0
     },
     {
       "name": "CCTV-16 奥林匹克",
       "group": "央视频道",
-      "status": "ok",
-      "resolution": "1920x1080",
-      "open_ms": 3546,
-      "note": "",
+      "status": "unverified",
+      "resolution": null,
+      "open_ms": 1794,
+      "note": "http-503",
       "bad_days": 0
     },
     {
@@ -168,7 +168,7 @@
       "group": "央视频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 2564,
+      "open_ms": 2335,
       "note": "",
       "bad_days": 0
     },
@@ -177,7 +177,7 @@
       "group": "央视频道",
       "status": "ok",
       "resolution": "1280x720",
-      "open_ms": 2934,
+      "open_ms": 2819,
       "note": "",
       "bad_days": 0
     },
@@ -186,7 +186,7 @@
       "group": "央视频道",
       "status": "ok",
       "resolution": "1280x720",
-      "open_ms": 5347,
+      "open_ms": 4010,
       "note": "",
       "bad_days": 0
     },
@@ -195,7 +195,7 @@
       "group": "央视频道",
       "status": "ok",
       "resolution": "1280x720",
-      "open_ms": 5679,
+      "open_ms": 4860,
       "note": "",
       "bad_days": 0
     },
@@ -204,7 +204,7 @@
       "group": "央视频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 4984,
+      "open_ms": 5285,
       "note": "",
       "bad_days": 0
     },
@@ -213,7 +213,7 @@
       "group": "央视频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 5463,
+      "open_ms": 4908,
       "note": "",
       "bad_days": 0
     },
@@ -222,7 +222,7 @@
       "group": "央视频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 2667,
+      "open_ms": 2493,
       "note": "",
       "bad_days": 0
     },
@@ -231,7 +231,7 @@
       "group": "央视频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 1181,
+      "open_ms": 2918,
       "note": "",
       "bad_days": 0
     },
@@ -240,17 +240,17 @@
       "group": "央视频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 3336,
+      "open_ms": 2936,
       "note": "",
       "bad_days": 0
     },
     {
       "name": "重温经典",
       "group": "央视频道",
-      "status": "ok",
+      "status": "unverified",
       "resolution": null,
-      "open_ms": 7489,
-      "note": "直播单核验：播放列表在推进，分片被源站屏蔽、境外仅核到直播单，未抽帧",
+      "open_ms": null,
+      "note": "segment-too-small(343)",
       "bad_days": 0
     },
     {
@@ -258,7 +258,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 4072,
+      "open_ms": 2854,
       "note": "",
       "bad_days": 0
     },
@@ -267,7 +267,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "3840x2160",
-      "open_ms": 5108,
+      "open_ms": 4099,
       "note": "",
       "bad_days": 0
     },
@@ -276,7 +276,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 5474,
+      "open_ms": 3782,
       "note": "",
       "bad_days": 0
     },
@@ -285,7 +285,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 4811,
+      "open_ms": 3967,
       "note": "",
       "bad_days": 0
     },
@@ -294,7 +294,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 4349,
+      "open_ms": 3708,
       "note": "",
       "bad_days": 0
     },
@@ -303,7 +303,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 1645,
+      "open_ms": 1527,
       "note": "",
       "bad_days": 0
     },
@@ -312,7 +312,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 2455,
+      "open_ms": 2033,
       "note": "",
       "bad_days": 0
     },
@@ -321,7 +321,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 4904,
+      "open_ms": 3293,
       "note": "",
       "bad_days": 0
     },
@@ -330,7 +330,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 4257,
+      "open_ms": 4453,
       "note": "",
       "bad_days": 0
     },
@@ -339,7 +339,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 4640,
+      "open_ms": 3758,
       "note": "",
       "bad_days": 0
     },
@@ -348,7 +348,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 4318,
+      "open_ms": 2910,
       "note": "",
       "bad_days": 0
     },
@@ -357,7 +357,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 4581,
+      "open_ms": 4324,
       "note": "",
       "bad_days": 0
     },
@@ -366,7 +366,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 2351,
+      "open_ms": 4530,
       "note": "",
       "bad_days": 0
     },
@@ -375,7 +375,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 2121,
+      "open_ms": 3694,
       "note": "",
       "bad_days": 0
     },
@@ -384,7 +384,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 2121,
+      "open_ms": 2192,
       "note": "",
       "bad_days": 0
     },
@@ -393,7 +393,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 2165,
+      "open_ms": 3245,
       "note": "",
       "bad_days": 0
     },
@@ -402,7 +402,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 2130,
+      "open_ms": 2465,
       "note": "",
       "bad_days": 0
     },
@@ -411,7 +411,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 3021,
+      "open_ms": 3949,
       "note": "",
       "bad_days": 0
     },
@@ -420,7 +420,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 4758,
+      "open_ms": 4791,
       "note": "",
       "bad_days": 0
     },
@@ -429,7 +429,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 3709,
+      "open_ms": 5014,
       "note": "",
       "bad_days": 0
     },
@@ -438,7 +438,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 4335,
+      "open_ms": 5345,
       "note": "",
       "bad_days": 0
     },
@@ -447,7 +447,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 4191,
+      "open_ms": 2181,
       "note": "",
       "bad_days": 0
     },
@@ -456,7 +456,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 2260,
+      "open_ms": 2524,
       "note": "",
       "bad_days": 0
     },
@@ -465,7 +465,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 4689,
+      "open_ms": 5042,
       "note": "",
       "bad_days": 0
     },
@@ -474,7 +474,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 3673,
+      "open_ms": 5267,
       "note": "",
       "bad_days": 0
     },
@@ -483,7 +483,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 4090,
+      "open_ms": 5272,
       "note": "",
       "bad_days": 0
     },
@@ -492,7 +492,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 3768,
+      "open_ms": 5702,
       "note": "",
       "bad_days": 0
     },
@@ -501,7 +501,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 3861,
+      "open_ms": 6121,
       "note": "",
       "bad_days": 0
     },
@@ -510,7 +510,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 4129,
+      "open_ms": 4109,
       "note": "",
       "bad_days": 0
     },
@@ -519,7 +519,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 5404,
+      "open_ms": 3451,
       "note": "",
       "bad_days": 0
     },
@@ -537,7 +537,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 1524,
+      "open_ms": 1217,
       "note": "",
       "bad_days": 0
     },
@@ -545,18 +545,18 @@
       "name": "河北卫视",
       "group": "省级卫视",
       "status": "ok",
-      "resolution": null,
-      "open_ms": 1577,
-      "note": "直播单核验：播放列表在推进，分片被源站屏蔽、境外仅核到直播单，未抽帧",
+      "resolution": "1920x1080",
+      "open_ms": 1019,
+      "note": "",
       "bad_days": 0
     },
     {
       "name": "河南卫视",
       "group": "省级卫视",
-      "status": "ok",
-      "resolution": "1920x1080",
-      "open_ms": 3581,
-      "note": "",
+      "status": "unverified",
+      "resolution": null,
+      "open_ms": null,
+      "note": "segment-fetch-failed(empty)",
       "bad_days": 0
     },
     {
@@ -564,35 +564,35 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 3636,
+      "open_ms": 4166,
       "note": "",
       "bad_days": 0
     },
     {
       "name": "河北三农",
       "group": "省级卫视",
-      "status": "ok",
+      "status": "unverified",
       "resolution": null,
-      "open_ms": 4859,
-      "note": "直播单核验：播放列表在推进，分片被源站屏蔽、境外仅核到直播单，未抽帧",
+      "open_ms": 6945,
+      "note": "segment-too-small(148)",
       "bad_days": 0
     },
     {
       "name": "河北经济生活",
       "group": "省级卫视",
-      "status": "ok",
+      "status": "unverified",
       "resolution": null,
-      "open_ms": 4654,
-      "note": "直播单核验：播放列表在推进，分片被源站屏蔽、境外仅核到直播单，未抽帧",
+      "open_ms": 6394,
+      "note": "segment-too-small(148)",
       "bad_days": 0
     },
     {
       "name": "河北少儿科教",
       "group": "省级卫视",
-      "status": "ok",
+      "status": "unverified",
       "resolution": null,
-      "open_ms": 5100,
-      "note": "直播单核验：播放列表在推进，分片被源站屏蔽、境外仅核到直播单，未抽帧",
+      "open_ms": 5950,
+      "note": "segment-too-small(148)",
       "bad_days": 0
     },
     {
@@ -600,7 +600,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": null,
-      "open_ms": 3435,
+      "open_ms": 4281,
       "note": "直播单核验：播放列表在推进，分片被源站屏蔽、境外仅核到直播单，未抽帧",
       "bad_days": 0
     },
@@ -609,7 +609,7 @@
       "group": "省级卫视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 4767,
+      "open_ms": 3574,
       "note": "",
       "bad_days": 0
     },
@@ -627,7 +627,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 3613,
+      "open_ms": 4672,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -643,11 +643,11 @@
     {
       "name": "华视教育体育文化",
       "group": "台湾电视",
-      "status": "dead",
+      "status": "ok",
       "resolution": "1280x720",
       "open_ms": null,
-      "note": "frozen-loop",
-      "bad_days": 1
+      "note": "",
+      "bad_days": 0
     },
     {
       "name": "中视",
@@ -663,7 +663,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 4095,
+      "open_ms": 3326,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -672,7 +672,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 3941,
+      "open_ms": 3878,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -690,7 +690,7 @@
       "group": "台湾电视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 3191,
+      "open_ms": 4204,
       "note": "",
       "bad_days": 0
     },
@@ -699,7 +699,7 @@
       "group": "台湾电视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 4384,
+      "open_ms": 3880,
       "note": "",
       "bad_days": 0
     },
@@ -708,7 +708,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 5343,
+      "open_ms": 6274,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -717,7 +717,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6280,
+      "open_ms": 6025,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -726,7 +726,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6716,
+      "open_ms": 5300,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -735,7 +735,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6848,
+      "open_ms": 5095,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -744,7 +744,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6452,
+      "open_ms": 6014,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -753,7 +753,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6804,
+      "open_ms": 5759,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -787,20 +787,20 @@
     {
       "name": "公视台语",
       "group": "台湾电视",
-      "status": "dead",
+      "status": "ok",
       "resolution": "1280x720",
       "open_ms": null,
-      "note": "frozen-loop",
-      "bad_days": 1
+      "note": "",
+      "bad_days": 0
     },
     {
       "name": "小公视",
       "group": "台湾电视",
-      "status": "dead",
+      "status": "ok",
       "resolution": "1280x720",
       "open_ms": null,
-      "note": "frozen-loop",
-      "bad_days": 1
+      "note": "",
+      "bad_days": 0
     },
     {
       "name": "客家电视台",
@@ -825,7 +825,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 2300,
+      "open_ms": 2524,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -843,7 +843,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 3132,
+      "open_ms": 2206,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -852,7 +852,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 3002,
+      "open_ms": 2786,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -861,7 +861,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 4981,
+      "open_ms": 3737,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -870,7 +870,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 4437,
+      "open_ms": 5514,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -879,7 +879,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 5026,
+      "open_ms": 4820,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -915,7 +915,7 @@
       "group": "台湾电视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 1543,
+      "open_ms": 819,
       "note": "",
       "bad_days": 0
     },
@@ -933,7 +933,7 @@
       "group": "台湾电视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 604,
+      "open_ms": 626,
       "note": "",
       "bad_days": 0
     },
@@ -942,7 +942,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 3035,
+      "open_ms": 2348,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -951,7 +951,7 @@
       "group": "台湾电视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 740,
+      "open_ms": 492,
       "note": "",
       "bad_days": 0
     },
@@ -960,7 +960,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 2996,
+      "open_ms": 2457,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -969,7 +969,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6481,
+      "open_ms": 2504,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -978,7 +978,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 4364,
+      "open_ms": 3342,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -987,7 +987,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 4852,
+      "open_ms": 3448,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1032,7 +1032,7 @@
       "group": "台湾电视",
       "status": "ok",
       "resolution": "1280x720",
-      "open_ms": 1376,
+      "open_ms": 1439,
       "note": "",
       "bad_days": 0
     },
@@ -1041,7 +1041,7 @@
       "group": "台湾电视",
       "status": "ok",
       "resolution": "720x540",
-      "open_ms": 2754,
+      "open_ms": 1815,
       "note": "",
       "bad_days": 0
     },
@@ -1050,7 +1050,7 @@
       "group": "台湾电视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 2407,
+      "open_ms": 1669,
       "note": "",
       "bad_days": 0
     },
@@ -1068,7 +1068,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 4042,
+      "open_ms": 2292,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1077,7 +1077,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 3138,
+      "open_ms": 2425,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1086,7 +1086,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6934,
+      "open_ms": 3332,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1095,7 +1095,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 7715,
+      "open_ms": 4298,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1104,7 +1104,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 5509,
+      "open_ms": 4752,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1113,7 +1113,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 5770,
+      "open_ms": 4528,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1122,7 +1122,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 4577,
+      "open_ms": 5424,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1131,7 +1131,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 9021,
+      "open_ms": 5038,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1140,7 +1140,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6991,
+      "open_ms": 6040,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1149,7 +1149,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 7171,
+      "open_ms": 6295,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1158,7 +1158,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 9406,
+      "open_ms": 8561,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1167,7 +1167,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 8360,
+      "open_ms": 6783,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1176,7 +1176,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 8180,
+      "open_ms": 7174,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1185,7 +1185,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 8731,
+      "open_ms": 6908,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1194,7 +1194,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 7409,
+      "open_ms": 6229,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1203,7 +1203,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6080,
+      "open_ms": 5397,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1212,7 +1212,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6627,
+      "open_ms": 6628,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1221,7 +1221,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6776,
+      "open_ms": 6248,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1230,7 +1230,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 8173,
+      "open_ms": 8472,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1239,7 +1239,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 8344,
+      "open_ms": 7434,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1248,7 +1248,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6240,
+      "open_ms": 7473,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1257,7 +1257,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6290,
+      "open_ms": 6289,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1266,7 +1266,7 @@
       "group": "台湾电视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 6094,
+      "open_ms": 6584,
       "note": "",
       "bad_days": 0
     },
@@ -1275,7 +1275,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6234,
+      "open_ms": 5710,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1284,7 +1284,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6544,
+      "open_ms": 6828,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1293,7 +1293,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6347,
+      "open_ms": 6233,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1302,7 +1302,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 4951,
+      "open_ms": 5176,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1311,7 +1311,7 @@
       "group": "台湾电视",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 7277,
+      "open_ms": 6859,
       "note": "",
       "bad_days": 0
     },
@@ -1320,7 +1320,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 7133,
+      "open_ms": 7080,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1329,7 +1329,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 7220,
+      "open_ms": 7221,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1338,7 +1338,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 8138,
+      "open_ms": 6157,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1347,7 +1347,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6163,
+      "open_ms": 6534,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1356,7 +1356,7 @@
       "group": "台湾电视",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6986,
+      "open_ms": 6079,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1365,7 +1365,7 @@
       "group": "海外纪录",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 7065,
+      "open_ms": 5952,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1374,7 +1374,7 @@
       "group": "海外纪录",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6293,
+      "open_ms": 5919,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1383,7 +1383,7 @@
       "group": "海外纪录",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6843,
+      "open_ms": 8341,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1392,7 +1392,7 @@
       "group": "海外纪录",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 7212,
+      "open_ms": 7549,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1401,7 +1401,7 @@
       "group": "海外纪录",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 9438,
+      "open_ms": 6911,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1410,7 +1410,7 @@
       "group": "海外纪录",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 7425,
+      "open_ms": 7851,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1419,7 +1419,7 @@
       "group": "海外纪录",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 5603,
+      "open_ms": 5808,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1428,7 +1428,7 @@
       "group": "海外纪录",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6678,
+      "open_ms": 7844,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1437,7 +1437,7 @@
       "group": "海外纪录",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 7435,
+      "open_ms": 7844,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1446,7 +1446,7 @@
       "group": "海外纪录",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 7425,
+      "open_ms": 5258,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1455,7 +1455,7 @@
       "group": "海外纪录",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 7186,
+      "open_ms": 7023,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1464,7 +1464,7 @@
       "group": "海外纪录",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 7711,
+      "open_ms": 7404,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1473,7 +1473,7 @@
       "group": "海外纪录",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 7575,
+      "open_ms": 7209,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1482,7 +1482,7 @@
       "group": "海外纪录",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 8256,
+      "open_ms": 6881,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1491,7 +1491,7 @@
       "group": "海外纪录",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6643,
+      "open_ms": 6590,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1500,7 +1500,7 @@
       "group": "海外纪录",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 7277,
+      "open_ms": 7822,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1509,7 +1509,7 @@
       "group": "海外纪录",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 7521,
+      "open_ms": 6598,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1518,7 +1518,7 @@
       "group": "海外纪录",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6773,
+      "open_ms": 5358,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1527,7 +1527,7 @@
       "group": "海外综合",
       "status": "ok",
       "resolution": "1280x720",
-      "open_ms": 5589,
+      "open_ms": 6071,
       "note": "",
       "bad_days": 0
     },
@@ -1536,7 +1536,7 @@
       "group": "海外综合",
       "status": "ok",
       "resolution": "960x540",
-      "open_ms": 5213,
+      "open_ms": 5326,
       "note": "",
       "bad_days": 0
     },
@@ -1545,7 +1545,7 @@
       "group": "海外综合",
       "status": "ok",
       "resolution": "1280x720",
-      "open_ms": 6316,
+      "open_ms": 5544,
       "note": "",
       "bad_days": 0
     },
@@ -1554,7 +1554,7 @@
       "group": "海外综合",
       "status": "ok",
       "resolution": "960x540",
-      "open_ms": 5671,
+      "open_ms": 5544,
       "note": "",
       "bad_days": 0
     },
@@ -1563,7 +1563,7 @@
       "group": "海外综合",
       "status": "ok",
       "resolution": "960x540",
-      "open_ms": 5169,
+      "open_ms": 4145,
       "note": "",
       "bad_days": 0
     },
@@ -1572,7 +1572,7 @@
       "group": "海外综合",
       "status": "ok",
       "resolution": "960x540",
-      "open_ms": 5396,
+      "open_ms": 4397,
       "note": "",
       "bad_days": 0
     },
@@ -1581,7 +1581,7 @@
       "group": "海外综合",
       "status": "ok",
       "resolution": "960x540",
-      "open_ms": 5127,
+      "open_ms": 5394,
       "note": "",
       "bad_days": 0
     },
@@ -1590,7 +1590,7 @@
       "group": "海外综合",
       "status": "ok",
       "resolution": "960x540",
-      "open_ms": 4807,
+      "open_ms": 5533,
       "note": "",
       "bad_days": 0
     },
@@ -1599,7 +1599,7 @@
       "group": "海外综合",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 5282,
+      "open_ms": 5414,
       "note": "",
       "bad_days": 0
     },
@@ -1608,7 +1608,7 @@
       "group": "海外综合",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 6394,
+      "open_ms": 4597,
       "note": "",
       "bad_days": 0
     },
@@ -1617,17 +1617,17 @@
       "group": "海外综合",
       "status": "ok",
       "resolution": "640x360",
-      "open_ms": 3259,
+      "open_ms": 4241,
       "note": "",
       "bad_days": 0
     },
     {
       "name": "Pet Club TV",
       "group": "海外综合",
-      "status": "unverified",
-      "resolution": null,
-      "open_ms": null,
-      "note": "segment-too-small(5020)",
+      "status": "ok",
+      "resolution": "1920x1080",
+      "open_ms": 9799,
+      "note": "",
       "bad_days": 0
     },
     {
@@ -1635,7 +1635,7 @@
       "group": "海外综合",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 4742,
+      "open_ms": 4137,
       "note": "",
       "bad_days": 0
     },
@@ -1644,7 +1644,7 @@
       "group": "新闻频道",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 7660,
+      "open_ms": 5149,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1653,7 +1653,7 @@
       "group": "新闻频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 3563,
+      "open_ms": 1598,
       "note": "",
       "bad_days": 0
     },
@@ -1662,7 +1662,7 @@
       "group": "新闻频道",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 5203,
+      "open_ms": 4915,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1671,7 +1671,7 @@
       "group": "新闻频道",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 5247,
+      "open_ms": 4704,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1680,7 +1680,7 @@
       "group": "新闻频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 2676,
+      "open_ms": 2221,
       "note": "",
       "bad_days": 0
     },
@@ -1689,7 +1689,7 @@
       "group": "新闻频道",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 7368,
+      "open_ms": 5492,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1698,7 +1698,7 @@
       "group": "新闻频道",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6465,
+      "open_ms": 6550,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1707,7 +1707,7 @@
       "group": "新闻频道",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 5699,
+      "open_ms": 5416,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1716,7 +1716,7 @@
       "group": "新闻频道",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 8224,
+      "open_ms": 6226,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1725,7 +1725,7 @@
       "group": "新闻频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 4605,
+      "open_ms": 3230,
       "note": "",
       "bad_days": 0
     },
@@ -1734,7 +1734,7 @@
       "group": "新闻频道",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 7675,
+      "open_ms": 5981,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1743,7 +1743,7 @@
       "group": "新闻频道",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 7568,
+      "open_ms": 6639,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1752,7 +1752,7 @@
       "group": "新闻频道",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 8030,
+      "open_ms": 6020,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1761,7 +1761,7 @@
       "group": "新闻频道",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6951,
+      "open_ms": 7768,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1770,7 +1770,7 @@
       "group": "新闻频道",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 8147,
+      "open_ms": 8068,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1779,7 +1779,7 @@
       "group": "新闻频道",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 7312,
+      "open_ms": 7893,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1806,7 +1806,7 @@
       "group": "新闻频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 6222,
+      "open_ms": 5025,
       "note": "",
       "bad_days": 0
     },
@@ -1815,7 +1815,7 @@
       "group": "新闻频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 5330,
+      "open_ms": 5399,
       "note": "",
       "bad_days": 0
     },
@@ -1824,7 +1824,7 @@
       "group": "新闻频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 5578,
+      "open_ms": 4446,
       "note": "",
       "bad_days": 0
     },
@@ -1832,18 +1832,18 @@
       "name": "日本-日视NEWS",
       "group": "新闻频道",
       "status": "ok",
-      "resolution": "1920x1080",
-      "open_ms": 6109,
+      "resolution": "960x540",
+      "open_ms": 6362,
       "note": "",
       "bad_days": 0
     },
     {
       "name": "日本-FNN",
       "group": "新闻频道",
-      "status": "unverified",
-      "resolution": null,
-      "open_ms": null,
-      "note": "segment-bad-content",
+      "status": "ok",
+      "resolution": "1920x1080",
+      "open_ms": 9709,
+      "note": "",
       "bad_days": 0
     },
     {
@@ -1851,7 +1851,7 @@
       "group": "新闻频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 5016,
+      "open_ms": 4549,
       "note": "",
       "bad_days": 0
     },
@@ -1860,7 +1860,7 @@
       "group": "新闻频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 5191,
+      "open_ms": 5439,
       "note": "",
       "bad_days": 0
     },
@@ -1869,7 +1869,7 @@
       "group": "新闻频道",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 8086,
+      "open_ms": 7206,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1878,7 +1878,7 @@
       "group": "新闻频道",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6711,
+      "open_ms": 6317,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1887,7 +1887,7 @@
       "group": "新闻频道",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6494,
+      "open_ms": 7079,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1896,7 +1896,7 @@
       "group": "新闻频道",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 7185,
+      "open_ms": 5564,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1914,7 +1914,7 @@
       "group": "体育频道",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 4037,
+      "open_ms": 5912,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1923,7 +1923,7 @@
       "group": "体育频道",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6727,
+      "open_ms": 5987,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1932,7 +1932,7 @@
       "group": "体育频道",
       "status": "ok",
       "resolution": null,
-      "open_ms": 6200,
+      "open_ms": 5440,
       "note": "直播单核验：播放列表在推进，分片被源站屏蔽、境外仅核到直播单，未抽帧",
       "bad_days": 0
     },
@@ -1941,7 +1941,7 @@
       "group": "体育频道",
       "status": "ok",
       "resolution": null,
-      "open_ms": 6937,
+      "open_ms": 5920,
       "note": "直播单核验：播放列表在推进，分片被源站屏蔽、境外仅核到直播单，未抽帧",
       "bad_days": 0
     },
@@ -1950,7 +1950,7 @@
       "group": "体育频道",
       "status": "ok",
       "resolution": null,
-      "open_ms": 6823,
+      "open_ms": 8144,
       "note": "直播单核验：播放列表在推进，分片被源站屏蔽、境外仅核到直播单，未抽帧",
       "bad_days": 0
     },
@@ -1959,7 +1959,7 @@
       "group": "体育频道",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 8472,
+      "open_ms": 7871,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1968,7 +1968,7 @@
       "group": "体育频道",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 9263,
+      "open_ms": 7120,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1977,7 +1977,7 @@
       "group": "体育频道",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 7813,
+      "open_ms": 5733,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1986,7 +1986,7 @@
       "group": "体育频道",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6884,
+      "open_ms": 7389,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -1995,7 +1995,7 @@
       "group": "体育频道",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 7902,
+      "open_ms": 6557,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -2004,7 +2004,7 @@
       "group": "体育频道",
       "status": "ok",
       "resolution": null,
-      "open_ms": 7588,
+      "open_ms": 7717,
       "note": "直播单核验：播放列表在推进，分片被源站屏蔽、境外仅核到直播单，未抽帧",
       "bad_days": 0
     },
@@ -2013,7 +2013,7 @@
       "group": "体育频道",
       "status": "ok",
       "resolution": null,
-      "open_ms": 9691,
+      "open_ms": 6432,
       "note": "直播单核验：播放列表在推进，分片被源站屏蔽、境外仅核到直播单，未抽帧",
       "bad_days": 0
     },
@@ -2022,7 +2022,7 @@
       "group": "体育频道",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 8212,
+      "open_ms": 6406,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -2031,7 +2031,7 @@
       "group": "体育频道",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6757,
+      "open_ms": 9523,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -2040,7 +2040,7 @@
       "group": "体育频道",
       "status": "ok",
       "resolution": null,
-      "open_ms": 6416,
+      "open_ms": 8611,
       "note": "直播单核验：播放列表在推进，分片被源站屏蔽、境外仅核到直播单，未抽帧",
       "bad_days": 0
     },
@@ -2049,7 +2049,7 @@
       "group": "体育频道",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 6005,
+      "open_ms": 6102,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -2058,7 +2058,7 @@
       "group": "体育频道",
       "status": "unverified",
       "resolution": null,
-      "open_ms": 8633,
+      "open_ms": 5342,
       "note": "variant-fetch-failed",
       "bad_days": 0
     },
@@ -2067,7 +2067,7 @@
       "group": "体育频道",
       "status": "ok",
       "resolution": "1920x1080",
-      "open_ms": 7870,
+      "open_ms": 5308,
       "note": "",
       "bad_days": 0
     }
