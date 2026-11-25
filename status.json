@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25 06:12:05",
+  "generated_at": "2026-11-25 08:08:53",
   "total": 228,
   "counts": {
     "ok": 64,
@@ -8,7 +8,7 @@
     "unverified": 164
   },
   "last_check": "2026-11-25 06:12:05",
-  "last_search": "2026-11-24 07:57:29",
+  "last_search": "2026-11-25 07:57:23",
   "channels": [
     {
       "name": "CCTV-1 综合",
@@ -2065,16 +2065,6 @@
   ],
   "replacements": [
     {
-      "name": "香港-ViuTV",
-      "old_url": "http://r.jdshipin.com/TcKr2",
-      "new_url": "http://php.jdshipin.com/TVOD/iptv.php?id=viutv",
-      "at": "2026-11-17 07:57:24",
-      "reason": "search-new: 更快 7972ms -> 2238ms",
-      "source": "zilong7728",
-      "resolution": "1920x1080",
-      "open_ms": 2238
-    },
-    {
       "name": "马来西亚-Astro AOD",
       "old_url": "https://cdn3.indevs.in/stream/live/aod/",
       "new_url": "http://php.jdshipin.com/TVOD/iptv.php?id=aod",
@@ -2263,6 +2253,16 @@
       "source": "iptv-org-cn",
       "resolution": "720x576",
       "open_ms": 959
+    },
+    {
+      "name": "TVBS",
+      "old_url": "https://hami.gxdx.org/hami/1561.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1",
+      "new_url": "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8",
+      "at": "2026-11-25 07:57:23",
+      "reason": "search-new: 更快 6964ms -> 492ms",
+      "source": "iptv-org-tw",
+      "resolution": "1920x1080",
+      "open_ms": 492
     }
   ],
   "deletion_requests": [
