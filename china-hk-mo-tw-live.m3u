@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/jamsluuuuu/iptv/main/epg.xml"
+# 2026-11-25 16:14 Lu：TVBS 换回 Hami（16:00 搜源误换回 38.64.72.148 旧源）
 # 2026-11-25 08:00 搜源替换（更快/更清）：TVBS 更快 6964ms -> 492ms，新源 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8（iptv-org-tw，两时点核验通过）
 # 2026-11-25 07:16 Lu：9 台换 Hami（台视/中视/民视/TVBS/TVBS新闻/台视新闻/民视新闻/Pet Club TV/TRACE Sport Stars）
 # 2026-11-22 08:00 搜源替换（更快/更清）：TRACE Sport Stars 更快 7135ms -> 1390ms，新源 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8（zilong7728，两时点核验通过）
@@ -286,7 +287,7 @@ http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 #EXTINF:-1 tvg-name="东森幼幼" group-title="台湾电视" tvg-id="456525" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%B8%9C%E6%A3%AE%E5%B9%BC%E5%B9%BC.png",东森幼幼
 http://125.227.210.55:4052/VideoInput/play.ts
 #EXTINF:-1 tvg-name="TVBS" group-title="台湾电视" tvg-id="456557" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/TVBS.png",TVBS
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+https://hami.gxdx.org/hami/1561.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="TVBS欢乐台" group-title="台湾电视" tvg-id="456543" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/TVBS%E6%AC%A2%E4%B9%90%E5%8F%B0.png",TVBS欢乐台
 https://hami.gxdx.org/hami/1559.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="TVBS亚洲" group-title="台湾电视" tvg-id="3509" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/TVBS%E4%BA%9A%E6%B4%B2.png",TVBS亚洲
