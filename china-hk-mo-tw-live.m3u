@@ -252,18 +252,8 @@ https://hami.gxdx.org/hami/1542.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0
 http://125.227.210.55:1082/VideoInput/play.ts
 #EXTINF:-1 tvg-name="纬来日本" group-title="台湾电视" tvg-id="456579" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E7%BA%AC%E6%9D%A5%E6%97%A5%E6%9C%AC.png",纬来日本
 http://125.227.210.55:1083/VideoInput/play.ts
-#EXTINF:-1 tvg-name="公视" group-title="台湾电视" tvg-id="457215" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%85%AC%E8%A7%86.png",公视
-http://211.72.174.95:8116/0.ts
-#EXTINF:-1 tvg-name="公视台语" group-title="台湾电视" tvg-id="456513" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%85%AC%E8%A7%86%E5%8F%B0%E8%AF%AD.png",公视台语
-http://125.227.210.55:3082/VideoInput/play.ts
-#EXTINF:-1 tvg-name="小公视" group-title="台湾电视" tvg-id="456624" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%B0%8F%E5%85%AC%E8%A7%86.png",小公视
-http://125.227.210.55:3086/VideoInput/play.ts
-#EXTINF:-1 tvg-name="客家电视台" group-title="台湾电视" tvg-id="456517" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%AE%A2%E5%AE%B6%E7%94%B5%E8%A7%86%E5%8F%B0.png",客家电视台
-http://125.227.210.55:3087/VideoInput/play.ts
 #EXTINF:-1 tvg-name="原住民族电视台" group-title="台湾电视" tvg-id="456516" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E7%94%B5%E8%A7%86%E5%8F%B0.png",原住民族电视台
 http://125.227.210.55:3088/VideoInput/play.ts
-#EXTINF:-1 tvg-name="公视戏剧" group-title="台湾电视" tvg-id="370226" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@33@1555.jpg",公视戏剧
-https://hami.gxdx.org/hami/1555.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="八大第一" group-title="台湾电视" tvg-id="456527" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%85%AB%E5%A4%A7%E7%AC%AC%E4%B8%80.png",八大第一
 http://125.227.210.55:1085/VideoInput/play.ts
 #EXTINF:-1 tvg-name="八大精彩台" group-title="台湾电视" tvg-id="370231" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@88@1528_20230223082342.png",八大精彩台
