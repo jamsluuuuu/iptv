@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/jamsluuuuu/iptv/main/epg.xml"
+# 2026-11-26 14:10 Lu：TVBS、台视新闻换回 Hami（16:00 搜源又换回 38.64.72.148 旧源）
 # 2026-11-26 08:06 搜源替换（更快/更清）：台视新闻 更快 9375ms -> 548ms，新源 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8（zilong7728，两时点核验通过）
 # 2026-11-26 08:01 搜源替换（更快/更清）：TVBS 更快 7251ms -> 456ms，新源 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8（iptv-org-tw，两时点核验通过）
 # 2026-11-25 16:14 Lu：TVBS 换回 Hami（16:00 搜源误换回 38.64.72.148 旧源）
@@ -279,7 +280,7 @@ http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 #EXTINF:-1 tvg-name="东森幼幼" group-title="台湾电视" tvg-id="456525" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%B8%9C%E6%A3%AE%E5%B9%BC%E5%B9%BC.png",东森幼幼
 http://125.227.210.55:4052/VideoInput/play.ts
 #EXTINF:-1 tvg-name="TVBS" group-title="台湾电视" tvg-id="456557" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/TVBS.png",TVBS
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+https://hami.gxdx.org/hami/1561.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="TVBS欢乐台" group-title="台湾电视" tvg-id="456543" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/TVBS%E6%AC%A2%E4%B9%90%E5%8F%B0.png",TVBS欢乐台
 https://hami.gxdx.org/hami/1559.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="TVBS亚洲" group-title="台湾电视" tvg-id="3509" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/TVBS%E4%BA%9A%E6%B4%B2.png",TVBS亚洲
@@ -443,7 +444,7 @@ https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 tvg-name="台视财经" group-title="新闻频道" tvg-id="456646" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%8F%B0%E8%A7%86%E8%B4%A2%E7%BB%8F.png",台视财经
 https://hami.gxdx.org/hami/1791.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="台视新闻" group-title="新闻频道" tvg-id="456645" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png",台视新闻
-http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+https://hami.gxdx.org/hami/1565.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="华视新闻资讯" group-title="新闻频道" tvg-id="457338" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%8D%8E%E8%A7%86%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF.png",华视新闻资讯
 https://hami.gxdx.org/hami/1569.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="中视新闻" group-title="新闻频道" tvg-id="456644" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png",中视新闻
