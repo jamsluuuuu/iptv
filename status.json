@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26 06:12:03",
+  "generated_at": "2026-11-26 08:10:23",
   "total": 223,
   "counts": {
     "ok": 76,
@@ -8,7 +8,7 @@
     "unverified": 147
   },
   "last_check": "2026-11-26 06:12:03",
-  "last_search": "2026-11-25 07:57:23",
+  "last_search": "2026-11-26 07:57:25",
   "channels": [
     {
       "name": "CCTV-1 综合",
@@ -2020,26 +2020,6 @@
   ],
   "replacements": [
     {
-      "name": "马来西亚-Astro AOD",
-      "old_url": "https://cdn3.indevs.in/stream/live/aod/",
-      "new_url": "http://php.jdshipin.com/TVOD/iptv.php?id=aod",
-      "at": "2026-11-17 07:57:24",
-      "reason": "search-new: 更快 8628ms -> 3250ms",
-      "source": "zilong7728",
-      "resolution": "1920x1080",
-      "open_ms": 3250
-    },
-    {
-      "name": "CCTV-3 综艺",
-      "old_url": "https://outlivecloud-cdn.ysp.cctv.cn/4ABDDCA41BEA007F3D3B35351E6D5DF4BF09279EA619C6C5FBAD68D6024DC7A970F76599FFBA9E5D7CDEDC7EC0DBE19812B428EE682ECC4F6AE2BDC4BF0D1218CE0A4F02043CAAF2810A4212371B37039DF6BC15C5D75D63E54D65D667CF8506EF4F5A0E1A54D5AC7779537CE8443B423E58006AED23EB2B0FD0DCA2F61B9C562EEECDC6A355A3962E96F11B3790D5286ACF6EC2169322BA5F107B3285D10142/2024068503.m3u8?from=player&svrtime=1794986871&pid=600001801&cdn=5401",
-      "new_url": "http://gmxw.7766.org:808/hls/91/index.m3u8",
-      "at": "2026-11-18 07:57:19",
-      "reason": "search-new: 更快 7479ms -> 1359ms",
-      "source": "zilong7728",
-      "resolution": "1920x1080",
-      "open_ms": 1359
-    },
-    {
       "name": "CCTV-5+ 体育赛事",
       "old_url": "http://120.76.248.139/live/bfgd/4200000246.m3u8",
       "new_url": "http://223.78.65.165:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0",
@@ -2218,6 +2198,26 @@
       "source": "iptv-org-tw",
       "resolution": "1920x1080",
       "open_ms": 492
+    },
+    {
+      "name": "TVBS",
+      "old_url": "https://hami.gxdx.org/hami/1561.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1",
+      "new_url": "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8",
+      "at": "2026-11-26 07:57:25",
+      "reason": "search-new: 更快 7251ms -> 456ms",
+      "source": "iptv-org-tw",
+      "resolution": "1920x1080",
+      "open_ms": 456
+    },
+    {
+      "name": "台视新闻",
+      "old_url": "https://hami.gxdx.org/hami/1565.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1",
+      "new_url": "http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8",
+      "at": "2026-11-26 07:57:25",
+      "reason": "search-new: 更快 9375ms -> 548ms",
+      "source": "zilong7728",
+      "resolution": "1920x1080",
+      "open_ms": 548
     }
   ],
   "deletion_requests": [
