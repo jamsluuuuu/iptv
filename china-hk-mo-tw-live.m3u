@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/jamsluuuuu/iptv/main/epg.xml"
+# 2026-11-27 08:00 搜源替换（更快/更清）：TRACE Sport Stars 更快 7269ms -> 1146ms，新源 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8（zilong7728，两时点核验通过）
+# 2026-11-27 07:59 搜源替换（更快/更清）：TVBS 更快 1907ms -> 343ms，新源 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8（iptv-org-tw，两时点核验通过）
 # 2026-11-26 14:10 Lu：TVBS、台视新闻换回 Hami（16:00 搜源又换回 38.64.72.148 旧源）
 # 2026-11-26 08:06 搜源替换（更快/更清）：台视新闻 更快 9375ms -> 548ms，新源 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8（zilong7728，两时点核验通过）
 # 2026-11-26 08:01 搜源替换（更快/更清）：TVBS 更快 7251ms -> 456ms，新源 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8（iptv-org-tw，两时点核验通过）
@@ -280,7 +282,7 @@ http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 #EXTINF:-1 tvg-name="东森幼幼" group-title="台湾电视" tvg-id="456525" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E4%B8%9C%E6%A3%AE%E5%B9%BC%E5%B9%BC.png",东森幼幼
 http://125.227.210.55:4052/VideoInput/play.ts
 #EXTINF:-1 tvg-name="TVBS" group-title="台湾电视" tvg-id="456557" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/TVBS.png",TVBS
-https://hami.gxdx.org/hami/1561.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-name="TVBS欢乐台" group-title="台湾电视" tvg-id="456543" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/TVBS%E6%AC%A2%E4%B9%90%E5%8F%B0.png",TVBS欢乐台
 https://hami.gxdx.org/hami/1559.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="TVBS亚洲" group-title="台湾电视" tvg-id="3509" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/TVBS%E4%BA%9A%E6%B4%B2.png",TVBS亚洲
@@ -354,7 +356,7 @@ https://hami.gxdx.org/hami/1548.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0
 #EXTINF:-1 tvg-name="中央气象署影音频道" group-title="台湾电视" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@36@1508_20230918074446.jpg",中央气象署影音频道
 https://hami.gxdx.org/hami/1508.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="TRACE Sport Stars" group-title="台湾电视" tvg-id="492896" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1759.png",TRACE Sport Stars
-https://hami.gxdx.org/hami/1759.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-name="ROCK Action" group-title="台湾电视" tvg-id="368362" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@156@2005_20230117102027.jpg",ROCK Action
 https://hami.gxdx.org/hami/2005.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="ROCK Entertainment" group-title="台湾电视" tvg-id="456828" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000229.png",ROCK Entertainment
